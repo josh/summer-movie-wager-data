@@ -1,1077 +1,921 @@
-year,player_name,position,movie_title
-2024,BJ Colangelo,1,Inside Out 2
-2024,BJ Colangelo,2,Despicable Me 4
-2024,BJ Colangelo,3,Deadpool & Wolverine
-2024,BJ Colangelo,4,Furiosa: A Mad Max Saga
-2024,BJ Colangelo,5,A Quiet Place: Day One
-2024,BJ Colangelo,6,Twisters
-2024,BJ Colangelo,7,Kingdom of the Planet of the Apes
-2024,BJ Colangelo,8,The Fall Guy
-2024,BJ Colangelo,9,Bad Boys: Ride or Die
-2024,BJ Colangelo,10,Horizon: An American Saga - Chapter 1
-2024,BJ Colangelo,11,The Garfield Movie
-2024,BJ Colangelo,12,Alien: Romulus
-2024,BJ Colangelo,13,Trap
-2024,David Chen,1,Deadpool & Wolverine
-2024,David Chen,2,Despicable Me 4
-2024,David Chen,3,Bad Boys: Ride or Die
-2024,David Chen,4,Inside Out 2
-2024,David Chen,5,Furiosa: A Mad Max Saga
-2024,David Chen,6,A Quiet Place: Day One
-2024,David Chen,7,Kingdom of the Planet of the Apes
-2024,David Chen,8,The Fall Guy
-2024,David Chen,9,IF
-2024,David Chen,10,Twisters
-2024,David Chen,11,Horizon: An American Saga - Chapter 1
-2024,David Chen,12,Alien: Romulus
-2024,David Chen,13,Trap
-2024,Devindra Hardawar,1,Deadpool & Wolverine
-2024,Devindra Hardawar,2,Inside Out 2
-2024,Devindra Hardawar,3,Despicable Me 4
-2024,Devindra Hardawar,4,Furiosa: A Mad Max Saga
-2024,Devindra Hardawar,5,The Fall Guy
-2024,Devindra Hardawar,6,Twisters
-2024,Devindra Hardawar,7,Kingdom of the Planet of the Apes
-2024,Devindra Hardawar,8,Bad Boys: Ride or Die
-2024,Devindra Hardawar,9,Horizon: An American Saga - Chapter 1
-2024,Devindra Hardawar,10,A Quiet Place: Day One
-2024,Devindra Hardawar,11,MaXXXine
-2024,Devindra Hardawar,12,Fly Me to the Moon
-2024,Devindra Hardawar,13,The Garfield Movie
-2024,Germain Lussier,1,Inside Out 2
-2024,Germain Lussier,2,Deadpool & Wolverine
-2024,Germain Lussier,3,Despicable Me 4
-2024,Germain Lussier,4,Twisters
-2024,Germain Lussier,5,The Fall Guy
-2024,Germain Lussier,6,Kingdom of the Planet of the Apes
-2024,Germain Lussier,7,Horizon: An American Saga - Chapter 1
-2024,Germain Lussier,8,Furiosa: A Mad Max Saga
-2024,Germain Lussier,9,A Quiet Place: Day One
-2024,Germain Lussier,10,Bad Boys: Ride or Die
-2024,Germain Lussier,11,The Garfield Movie
-2024,Germain Lussier,12,IF
-2024,Germain Lussier,13,Fly Me to the Moon
-2024,Jeff Cannata,1,Despicable Me 4
-2024,Jeff Cannata,2,Deadpool & Wolverine
-2024,Jeff Cannata,3,Inside Out 2
-2024,Jeff Cannata,4,The Fall Guy
-2024,Jeff Cannata,5,Bad Boys: Ride or Die
-2024,Jeff Cannata,6,Twisters
-2024,Jeff Cannata,7,Kingdom of the Planet of the Apes
-2024,Jeff Cannata,8,Furiosa: A Mad Max Saga
-2024,Jeff Cannata,9,A Quiet Place: Day One
-2024,Jeff Cannata,10,Horizon: An American Saga - Chapter 1
-2024,Jeff Cannata,11,The Garfield Movie
-2024,Jeff Cannata,12,IF
-2024,Jeff Cannata,13,Alien: Romulus
-2024,Peter Sciretta,1,Inside Out 2
-2024,Peter Sciretta,2,Deadpool & Wolverine
-2024,Peter Sciretta,3,Despicable Me 4
-2024,Peter Sciretta,4,Bad Boys: Ride or Die
-2024,Peter Sciretta,5,The Garfield Movie
-2024,Peter Sciretta,6,Kingdom of the Planet of the Apes
-2024,Peter Sciretta,7,Furiosa: A Mad Max Saga
-2024,Peter Sciretta,8,IF
-2024,Peter Sciretta,9,Twisters
-2024,Peter Sciretta,10,A Quiet Place: Day One
-2024,Peter Sciretta,11,The Fall Guy
-2024,Peter Sciretta,12,Alien: Romulus
-2024,Peter Sciretta,13,Horizon: An American Saga - Chapter 1
-2023,Peter Sciretta,1,Guardians of the Galaxy Vol. 3
-2023,Peter Sciretta,2,Spider-Man: Across the Spider-Verse
-2023,Peter Sciretta,3,The Little Mermaid
-2023,Peter Sciretta,4,Indiana Jones and the Dial of Destiny
-2023,Peter Sciretta,5,Mission: Impossible - Dead Reckoning Part One
-2023,Peter Sciretta,6,The Flash
-2023,Peter Sciretta,7,Fast X
-2023,Peter Sciretta,8,Barbie
-2023,Peter Sciretta,9,Oppenheimer
-2023,Peter Sciretta,10,Elemental
-2023,Peter Sciretta,11,Transformers: Rise of the Beasts
-2023,Peter Sciretta,12,Teenage Mutant Ninja Turtles: Mutant Mayhem
-2023,Peter Sciretta,13,Haunted Mansion
-2023,Devindra Hardawar,1,Guardians of the Galaxy Vol. 3
-2023,Devindra Hardawar,2,Indiana Jones and the Dial of Destiny
-2023,Devindra Hardawar,3,Spider-Man: Across the Spider-Verse
-2023,Devindra Hardawar,4,The Little Mermaid
-2023,Devindra Hardawar,5,The Flash
-2023,Devindra Hardawar,6,Elemental
-2023,Devindra Hardawar,7,Fast X
-2023,Devindra Hardawar,8,Mission: Impossible - Dead Reckoning Part One
-2023,Devindra Hardawar,9,Barbie
-2023,Devindra Hardawar,10,Oppenheimer
-2023,Devindra Hardawar,11,Transformers: Rise of the Beasts
-2023,Devindra Hardawar,12,Meg 2: The Trench
-2023,Devindra Hardawar,13,Teenage Mutant Ninja Turtles: Mutant Mayhem
-2023,Jeff Cannata,1,Guardians of the Galaxy Vol. 3
-2023,Jeff Cannata,2,Indiana Jones and the Dial of Destiny
-2023,Jeff Cannata,3,The Little Mermaid
-2023,Jeff Cannata,4,Spider-Man: Across the Spider-Verse
-2023,Jeff Cannata,5,Mission: Impossible - Dead Reckoning Part One
-2023,Jeff Cannata,6,Fast X
-2023,Jeff Cannata,7,The Flash
-2023,Jeff Cannata,8,Elemental
-2023,Jeff Cannata,9,Oppenheimer
-2023,Jeff Cannata,10,Transformers: Rise of the Beasts
-2023,Jeff Cannata,11,Barbie
-2023,Jeff Cannata,12,Teenage Mutant Ninja Turtles: Mutant Mayhem
-2023,Jeff Cannata,13,Haunted Mansion
-2023,David Chen,1,Guardians of the Galaxy Vol. 3
-2023,David Chen,2,Indiana Jones and the Dial of Destiny
-2023,David Chen,3,The Little Mermaid
-2023,David Chen,4,The Flash
-2023,David Chen,5,Mission: Impossible - Dead Reckoning Part One
-2023,David Chen,6,Spider-Man: Across the Spider-Verse
-2023,David Chen,7,Fast X
-2023,David Chen,8,Barbie
-2023,David Chen,9,Oppenheimer
-2023,David Chen,10,Transformers: Rise of the Beasts
-2023,David Chen,11,Blue Beetle
-2023,David Chen,12,Elemental
-2023,David Chen,13,Haunted Mansion
-2023,Germain Lussier,1,Guardians of the Galaxy Vol. 3
-2023,Germain Lussier,2,Indiana Jones and the Dial of Destiny
-2023,Germain Lussier,3,The Little Mermaid
-2023,Germain Lussier,4,Mission: Impossible - Dead Reckoning Part One
-2023,Germain Lussier,5,Spider-Man: Across the Spider-Verse
-2023,Germain Lussier,6,The Flash
-2023,Germain Lussier,7,Fast X
-2023,Germain Lussier,8,Barbie
-2023,Germain Lussier,9,Oppenheimer
-2023,Germain Lussier,10,Transformers: Rise of the Beasts
-2023,Germain Lussier,11,Elemental
-2023,Germain Lussier,12,Haunted Mansion
-2023,Germain Lussier,13,Teenage Mutant Ninja Turtles: Mutant Mayhem
-2022,Peter Sciretta,1,Jurassic World Dominion
-2022,Peter Sciretta,2,Doctor Strange 2
-2022,Peter Sciretta,3,Thor: Love and Thunder
-2022,Peter Sciretta,4,Minions: The Rise of Gru
-2022,Peter Sciretta,5,Lightyear
-2022,Peter Sciretta,6,Top Gun: Maverick
-2022,Peter Sciretta,7,Nope
-2022,Peter Sciretta,8,Bullet Train
-2022,Peter Sciretta,9,DC League of Super-Pets
-2022,Peter Sciretta,10,Elvis
-2022,Peter Sciretta,11,The Bob's Burgers Movie
-2022,Peter Sciretta,12,The Black Phone
-2022,Peter Sciretta,13,Downton Abbey: A New Era
-2022,David Chen,1,Jurassic World Dominion
-2022,David Chen,2,Thor: Love and Thunder
-2022,David Chen,3,Doctor Strange 2
-2022,David Chen,4,Lightyear
-2022,David Chen,5,Minions: The Rise of Gru
-2022,David Chen,6,Top Gun: Maverick
-2022,David Chen,7,Nope
-2022,David Chen,8,Elvis
-2022,David Chen,9,Bullet Train
-2022,David Chen,10,Downton Abbey: A New Era
-2022,David Chen,11,Where the Crawdads Sing
-2022,David Chen,12,The Black Phone
-2022,David Chen,13,The Bob's Burgers Movie
-2022,Devindra Hardawar,1,Jurassic World Dominion
-2022,Devindra Hardawar,2,Doctor Strange 2
-2022,Devindra Hardawar,3,Thor: Love and Thunder
-2022,Devindra Hardawar,4,Lightyear
-2022,Devindra Hardawar,5,Top Gun: Maverick
-2022,Devindra Hardawar,6,Minions: The Rise of Gru
-2022,Devindra Hardawar,7,Nope
-2022,Devindra Hardawar,8,Bullet Train
-2022,Devindra Hardawar,9,Elvis
-2022,Devindra Hardawar,10,DC League of Super-Pets
-2022,Devindra Hardawar,11,The Bob's Burgers Movie
-2022,Devindra Hardawar,12,The Black Phone
-2022,Devindra Hardawar,13,Downton Abbey: A New Era
-2022,Germain Lussier,1,Jurassic World Dominion
-2022,Germain Lussier,2,Doctor Strange 2
-2022,Germain Lussier,3,Top Gun: Maverick
-2022,Germain Lussier,4,Lightyear
-2022,Germain Lussier,5,Thor: Love and Thunder
-2022,Germain Lussier,6,Nope
-2022,Germain Lussier,7,Minions: The Rise of Gru
-2022,Germain Lussier,8,Elvis
-2022,Germain Lussier,9,DC League of Super-Pets
-2022,Germain Lussier,10,Where the Crawdads Sing
-2022,Germain Lussier,11,Bullet Train
-2022,Germain Lussier,12,Downton Abbey: A New Era
-2022,Germain Lussier,13,The Bob's Burgers Movie
-2022,Jeff Cannata,1,Jurassic World Dominion
-2022,Jeff Cannata,2,Doctor Strange 2
-2022,Jeff Cannata,3,Thor: Love and Thunder
-2022,Jeff Cannata,4,Lightyear
-2022,Jeff Cannata,5,Minions: The Rise of Gru
-2022,Jeff Cannata,6,Nope
-2022,Jeff Cannata,7,Bullet Train
-2022,Jeff Cannata,8,Top Gun: Maverick
-2022,Jeff Cannata,9,DC League of Super-Pets
-2022,Jeff Cannata,10,Elvis
-2022,Jeff Cannata,11,Paws of Fury: The Legend of Hank
-2022,Jeff Cannata,12,The Black Phone
-2022,Jeff Cannata,13,Downton Abbey: A New Era
-2021,BJ Colangelo,1,Inside Out 2
-2021,BJ Colangelo,2,Despicable Me 4
-2021,BJ Colangelo,3,Deadpool & Wolverine
-2021,BJ Colangelo,4,Furiosa: A Mad Max Saga
-2021,BJ Colangelo,5,A Quiet Place: Day One
-2021,BJ Colangelo,6,Twisters
-2021,BJ Colangelo,7,Kingdom of the Planet of the Apes
-2021,BJ Colangelo,8,The Fall Guy
-2021,BJ Colangelo,9,Bad Boys: Ride or Die
-2021,BJ Colangelo,10,Horizon: An American Saga - Chapter 1
-2021,BJ Colangelo,11,The Garfield Movie
-2021,BJ Colangelo,12,Alien: Romulus
-2021,BJ Colangelo,13,Trap
-2021,David Chen,1,Deadpool & Wolverine
-2021,David Chen,2,Despicable Me 4
-2021,David Chen,3,Bad Boys: Ride or Die
-2021,David Chen,4,Inside Out 2
-2021,David Chen,5,Furiosa: A Mad Max Saga
-2021,David Chen,6,A Quiet Place: Day One
-2021,David Chen,7,Kingdom of the Planet of the Apes
-2021,David Chen,8,The Fall Guy
-2021,David Chen,9,IF
-2021,David Chen,10,Twisters
-2021,David Chen,11,Horizon: An American Saga - Chapter 1
-2021,David Chen,12,Alien: Romulus
-2021,David Chen,13,Trap
-2021,Devindra Hardawar,1,Deadpool & Wolverine
-2021,Devindra Hardawar,2,Inside Out 2
-2021,Devindra Hardawar,3,Despicable Me 4
-2021,Devindra Hardawar,4,Furiosa: A Mad Max Saga
-2021,Devindra Hardawar,5,The Fall Guy
-2021,Devindra Hardawar,6,Twisters
-2021,Devindra Hardawar,7,Kingdom of the Planet of the Apes
-2021,Devindra Hardawar,8,Bad Boys: Ride or Die
-2021,Devindra Hardawar,9,Horizon: An American Saga - Chapter 1
-2021,Devindra Hardawar,10,A Quiet Place: Day One
-2021,Devindra Hardawar,11,MaXXXine
-2021,Devindra Hardawar,12,Fly Me to the Moon
-2021,Devindra Hardawar,13,The Garfield Movie
-2021,Germain Lussier,1,Inside Out 2
-2021,Germain Lussier,2,Deadpool & Wolverine
-2021,Germain Lussier,3,Despicable Me 4
-2021,Germain Lussier,4,Twisters
-2021,Germain Lussier,5,The Fall Guy
-2021,Germain Lussier,6,Kingdom of the Planet of the Apes
-2021,Germain Lussier,7,Horizon: An American Saga - Chapter 1
-2021,Germain Lussier,8,Furiosa: A Mad Max Saga
-2021,Germain Lussier,9,A Quiet Place: Day One
-2021,Germain Lussier,10,Bad Boys: Ride or Die
-2021,Germain Lussier,11,The Garfield Movie
-2021,Germain Lussier,12,IF
-2021,Germain Lussier,13,Fly Me to the Moon
-2021,Jeff Cannata,1,Despicable Me 4
-2021,Jeff Cannata,2,Deadpool & Wolverine
-2021,Jeff Cannata,3,Inside Out 2
-2021,Jeff Cannata,4,The Fall Guy
-2021,Jeff Cannata,5,Bad Boys: Ride or Die
-2021,Jeff Cannata,6,Twisters
-2021,Jeff Cannata,7,Kingdom of the Planet of the Apes
-2021,Jeff Cannata,8,Furiosa: A Mad Max Saga
-2021,Jeff Cannata,9,A Quiet Place: Day One
-2021,Jeff Cannata,10,Horizon: An American Saga - Chapter 1
-2021,Jeff Cannata,11,The Garfield Movie
-2021,Jeff Cannata,12,IF
-2021,Jeff Cannata,13,Alien: Romulus
-2021,Peter Sciretta,1,Inside Out 2
-2021,Peter Sciretta,2,Deadpool & Wolverine
-2021,Peter Sciretta,3,Despicable Me 4
-2021,Peter Sciretta,4,Bad Boys: Ride or Die
-2021,Peter Sciretta,5,The Garfield Movie
-2021,Peter Sciretta,6,Kingdom of the Planet of the Apes
-2021,Peter Sciretta,7,Furiosa: A Mad Max Saga
-2021,Peter Sciretta,8,IF
-2021,Peter Sciretta,9,Twisters
-2021,Peter Sciretta,10,A Quiet Place: Day One
-2021,Peter Sciretta,11,The Fall Guy
-2021,Peter Sciretta,12,Alien: Romulus
-2021,Peter Sciretta,13,Horizon: An American Saga - Chapter 1
-2020,BJ Colangelo,1,Inside Out 2
-2020,BJ Colangelo,2,Despicable Me 4
-2020,BJ Colangelo,3,Deadpool & Wolverine
-2020,BJ Colangelo,4,Furiosa: A Mad Max Saga
-2020,BJ Colangelo,5,A Quiet Place: Day One
-2020,BJ Colangelo,6,Twisters
-2020,BJ Colangelo,7,Kingdom of the Planet of the Apes
-2020,BJ Colangelo,8,The Fall Guy
-2020,BJ Colangelo,9,Bad Boys: Ride or Die
-2020,BJ Colangelo,10,Horizon: An American Saga - Chapter 1
-2020,BJ Colangelo,11,The Garfield Movie
-2020,BJ Colangelo,12,Alien: Romulus
-2020,BJ Colangelo,13,Trap
-2020,David Chen,1,Deadpool & Wolverine
-2020,David Chen,2,Despicable Me 4
-2020,David Chen,3,Bad Boys: Ride or Die
-2020,David Chen,4,Inside Out 2
-2020,David Chen,5,Furiosa: A Mad Max Saga
-2020,David Chen,6,A Quiet Place: Day One
-2020,David Chen,7,Kingdom of the Planet of the Apes
-2020,David Chen,8,The Fall Guy
-2020,David Chen,9,IF
-2020,David Chen,10,Twisters
-2020,David Chen,11,Horizon: An American Saga - Chapter 1
-2020,David Chen,12,Alien: Romulus
-2020,David Chen,13,Trap
-2020,Devindra Hardawar,1,Deadpool & Wolverine
-2020,Devindra Hardawar,2,Inside Out 2
-2020,Devindra Hardawar,3,Despicable Me 4
-2020,Devindra Hardawar,4,Furiosa: A Mad Max Saga
-2020,Devindra Hardawar,5,The Fall Guy
-2020,Devindra Hardawar,6,Twisters
-2020,Devindra Hardawar,7,Kingdom of the Planet of the Apes
-2020,Devindra Hardawar,8,Bad Boys: Ride or Die
-2020,Devindra Hardawar,9,Horizon: An American Saga - Chapter 1
-2020,Devindra Hardawar,10,A Quiet Place: Day One
-2020,Devindra Hardawar,11,MaXXXine
-2020,Devindra Hardawar,12,Fly Me to the Moon
-2020,Devindra Hardawar,13,The Garfield Movie
-2020,Germain Lussier,1,Inside Out 2
-2020,Germain Lussier,2,Deadpool & Wolverine
-2020,Germain Lussier,3,Despicable Me 4
-2020,Germain Lussier,4,Twisters
-2020,Germain Lussier,5,The Fall Guy
-2020,Germain Lussier,6,Kingdom of the Planet of the Apes
-2020,Germain Lussier,7,Horizon: An American Saga - Chapter 1
-2020,Germain Lussier,8,Furiosa: A Mad Max Saga
-2020,Germain Lussier,9,A Quiet Place: Day One
-2020,Germain Lussier,10,Bad Boys: Ride or Die
-2020,Germain Lussier,11,The Garfield Movie
-2020,Germain Lussier,12,IF
-2020,Germain Lussier,13,Fly Me to the Moon
-2020,Jeff Cannata,1,Despicable Me 4
-2020,Jeff Cannata,2,Deadpool & Wolverine
-2020,Jeff Cannata,3,Inside Out 2
-2020,Jeff Cannata,4,The Fall Guy
-2020,Jeff Cannata,5,Bad Boys: Ride or Die
-2020,Jeff Cannata,6,Twisters
-2020,Jeff Cannata,7,Kingdom of the Planet of the Apes
-2020,Jeff Cannata,8,Furiosa: A Mad Max Saga
-2020,Jeff Cannata,9,A Quiet Place: Day One
-2020,Jeff Cannata,10,Horizon: An American Saga - Chapter 1
-2020,Jeff Cannata,11,The Garfield Movie
-2020,Jeff Cannata,12,IF
-2020,Jeff Cannata,13,Alien: Romulus
-2020,Peter Sciretta,1,Inside Out 2
-2020,Peter Sciretta,2,Deadpool & Wolverine
-2020,Peter Sciretta,3,Despicable Me 4
-2020,Peter Sciretta,4,Bad Boys: Ride or Die
-2020,Peter Sciretta,5,The Garfield Movie
-2020,Peter Sciretta,6,Kingdom of the Planet of the Apes
-2020,Peter Sciretta,7,Furiosa: A Mad Max Saga
-2020,Peter Sciretta,8,IF
-2020,Peter Sciretta,9,Twisters
-2020,Peter Sciretta,10,A Quiet Place: Day One
-2020,Peter Sciretta,11,The Fall Guy
-2020,Peter Sciretta,12,Alien: Romulus
-2020,Peter Sciretta,13,Horizon: An American Saga - Chapter 1
-2019,Germain Lussier,1,Avengers: Endgame
-2019,Germain Lussier,2,The Lion King
-2019,Germain Lussier,3,Toy Story 4
-2019,Germain Lussier,4,Spider-Man: Far from Home
-2019,Germain Lussier,5,The Secret Life of Pets 2
-2019,Germain Lussier,6,Hobbs & Shaw
-2019,Germain Lussier,7,Aladdin (2019)
-2019,Germain Lussier,8,Detective Pikachu
-2019,Germain Lussier,9,Men in Black International
-2019,Germain Lussier,10,Once Upon a Time in Hollywood
-2019,Germain Lussier,11,Godzilla 2
-2019,Germain Lussier,12,Rocketman
-2019,Germain Lussier,13,Dark Phoenix
-2019,Peter Sciretta,1,Avengers: Endgame
-2019,Peter Sciretta,2,The Lion King
-2019,Peter Sciretta,3,Toy Story 4
-2019,Peter Sciretta,4,Detective Pikachu
-2019,Peter Sciretta,5,Spider-Man: Far from Home
-2019,Peter Sciretta,6,Aladdin (2019)
-2019,Peter Sciretta,7,The Secret Life of Pets 2
-2019,Peter Sciretta,8,Godzilla 2
-2019,Peter Sciretta,9,Hobbs & Shaw
-2019,Peter Sciretta,10,Once Upon a Time in Hollywood
-2019,Peter Sciretta,11,Men in Black International
-2019,Peter Sciretta,12,John Wick 3
-2019,Peter Sciretta,13,Rocketman
-2019,David Chen,1,Avengers: Endgame
-2019,David Chen,2,The Lion King
-2019,David Chen,3,Toy Story 4
-2019,David Chen,4,Spider-Man: Far from Home
-2019,David Chen,5,Godzilla 2
-2019,David Chen,6,The Secret Life of Pets 2
-2019,David Chen,7,Aladdin (2019)
-2019,David Chen,8,Detective Pikachu
-2019,David Chen,9,Hobbs & Shaw
-2019,David Chen,10,Rocketman
-2019,David Chen,11,Men in Black International
-2019,David Chen,12,Yesterday
-2019,David Chen,13,Once Upon a Time in Hollywood
-2019,Jeff Cannata,1,Avengers: Endgame
-2019,Jeff Cannata,2,Toy Story 4
-2019,Jeff Cannata,3,The Lion King
-2019,Jeff Cannata,4,Spider-Man: Far from Home
-2019,Jeff Cannata,5,Hobbs & Shaw
-2019,Jeff Cannata,6,The Secret Life of Pets 2
-2019,Jeff Cannata,7,Detective Pikachu
-2019,Jeff Cannata,8,Aladdin (2019)
-2019,Jeff Cannata,9,Godzilla 2
-2019,Jeff Cannata,10,Dark Phoenix
-2019,Jeff Cannata,11,Once Upon a Time in Hollywood
-2019,Jeff Cannata,12,Men in Black International
-2019,Jeff Cannata,13,John Wick 3
-2019,Devindra Hardawar,1,Avengers: Endgame
-2019,Devindra Hardawar,2,Toy Story 4
-2019,Devindra Hardawar,3,The Lion King
-2019,Devindra Hardawar,4,Aladdin (2019)
-2019,Devindra Hardawar,5,Spider-Man: Far from Home
-2019,Devindra Hardawar,6,Detective Pikachu
-2019,Devindra Hardawar,7,The Secret Life of Pets 2
-2019,Devindra Hardawar,8,Men in Black International
-2019,Devindra Hardawar,9,Godzilla 2
-2019,Devindra Hardawar,10,Hobbs & Shaw
-2019,Devindra Hardawar,11,John Wick 3
-2019,Devindra Hardawar,12,Once Upon a Time in Hollywood
-2019,Devindra Hardawar,13,Rocketman
-2018,David Chen,1,Avengers: Infinity War
-2018,David Chen,2,Jurassic World 2
-2018,David Chen,3,Deadpool 2
-2018,David Chen,4,Incredibles 2
-2018,David Chen,5,Solo: A Star Wars Story
-2018,David Chen,6,Mission: Impossible 6
-2018,David Chen,7,Ant-Man and the Wasp
-2018,David Chen,8,Skyscraper
-2018,David Chen,9,Ocean's 8
-2018,David Chen,10,Hotel Transylvania 3
-2018,David Chen,11,Mamma Mia 2
-2018,David Chen,12,The Meg
-2018,David Chen,13,Christopher Robin
-2018,Germain Lussier,1,Avengers: Infinity War
-2018,Germain Lussier,2,Jurassic World 2
-2018,Germain Lussier,3,Incredibles 2
-2018,Germain Lussier,4,Solo: A Star Wars Story
-2018,Germain Lussier,5,Deadpool 2
-2018,Germain Lussier,6,Mission: Impossible 6
-2018,Germain Lussier,7,Ocean's 8
-2018,Germain Lussier,8,The Meg
-2018,Germain Lussier,9,Ant-Man and the Wasp
-2018,Germain Lussier,10,Hotel Transylvania 3
-2018,Germain Lussier,11,Skyscraper
-2018,Germain Lussier,12,Mamma Mia 2
-2018,Germain Lussier,13,Tag
-2018,Peter Sciretta,1,Avengers: Infinity War
-2018,Peter Sciretta,2,Jurassic World 2
-2018,Peter Sciretta,3,Solo: A Star Wars Story
-2018,Peter Sciretta,4,Deadpool 2
-2018,Peter Sciretta,5,Incredibles 2
-2018,Peter Sciretta,6,Ant-Man and the Wasp
-2018,Peter Sciretta,7,Hotel Transylvania 3
-2018,Peter Sciretta,8,Ocean's 8
-2018,Peter Sciretta,9,Mamma Mia 2
-2018,Peter Sciretta,10,Mission: Impossible 6
-2018,Peter Sciretta,11,Skyscraper
-2018,Peter Sciretta,12,Action Point
-2018,Peter Sciretta,13,The Equalizer 2
-2018,Kristy Puchko,1,Avengers: Infinity War
-2018,Kristy Puchko,2,Jurassic World 2
-2018,Kristy Puchko,3,Solo: A Star Wars Story
-2018,Kristy Puchko,4,Deadpool 2
-2018,Kristy Puchko,5,Incredibles 2
-2018,Kristy Puchko,6,Mission: Impossible 6
-2018,Kristy Puchko,7,Ant-Man and the Wasp
-2018,Kristy Puchko,8,Teen Titans Go!
-2018,Kristy Puchko,9,Hotel Transylvania 3
-2018,Kristy Puchko,10,Mamma Mia 2
-2018,Kristy Puchko,11,Ocean's 8
-2018,Kristy Puchko,12,Skyscraper
-2018,Kristy Puchko,13,The Equalizer 2
-2018,Devindra Hardawar,1,Avengers: Infinity War
-2018,Devindra Hardawar,2,Jurassic World 2
-2018,Devindra Hardawar,3,Solo: A Star Wars Story
-2018,Devindra Hardawar,4,Incredibles 2
-2018,Devindra Hardawar,5,Deadpool 2
-2018,Devindra Hardawar,6,Mission: Impossible 6
-2018,Devindra Hardawar,7,The Meg
-2018,Devindra Hardawar,8,Ocean's 8
-2018,Devindra Hardawar,9,Ant-Man and the Wasp
-2018,Devindra Hardawar,10,Skyscraper
-2018,Devindra Hardawar,11,The First Purge
-2018,Devindra Hardawar,12,Sicario 2
-2018,Devindra Hardawar,13,Mamma Mia 2
-2018,Jeff Cannata,1,Avengers: Infinity War
-2018,Jeff Cannata,2,Jurassic World 2
-2018,Jeff Cannata,3,Solo: A Star Wars Story
-2018,Jeff Cannata,4,Incredibles 2
-2018,Jeff Cannata,5,Deadpool 2
-2018,Jeff Cannata,6,Ocean's 8
-2018,Jeff Cannata,7,Ant-Man and the Wasp
-2018,Jeff Cannata,8,Mission: Impossible 6
-2018,Jeff Cannata,9,Christopher Robin
-2018,Jeff Cannata,10,Hotel Transylvania 3
-2018,Jeff Cannata,11,Skyscraper
-2018,Jeff Cannata,12,The Equalizer 2
-2018,Jeff Cannata,13,Tag
-2017,Devindra Hardawar,1,Guardians of the Galaxy 2
-2017,Devindra Hardawar,2,Despicable Me 3
-2017,Devindra Hardawar,3,Spider-Man: Homecoming
-2017,Devindra Hardawar,4,Wonder Woman
-2017,Devindra Hardawar,5,Dunkirk
-2017,Devindra Hardawar,6,Transformers 5
-2017,Devindra Hardawar,7,Pirates of the Caribbean 5
-2017,Devindra Hardawar,8,War for the Planet of the Apes
-2017,Devindra Hardawar,9,The Hitman's Bodyguard
-2017,Devindra Hardawar,10,The Dark Tower
-2017,Devindra Hardawar,11,Atomic Blonde
-2017,Devindra Hardawar,12,The Mummy (2017)
-2017,Devindra Hardawar,13,King Arthur
-2017,David Chen,1,Despicable Me 3
-2017,David Chen,2,Guardians of the Galaxy 2
-2017,David Chen,3,Spider-Man: Homecoming
-2017,David Chen,4,Wonder Woman
-2017,David Chen,5,Transformers 5
-2017,David Chen,6,War for the Planet of the Apes
-2017,David Chen,7,Cars 3
-2017,David Chen,8,Dunkirk
-2017,David Chen,9,Pirates of the Caribbean 5
-2017,David Chen,10,The Mummy (2017)
-2017,David Chen,11,Alien: Covenant
-2017,David Chen,12,Baywatch
-2017,David Chen,13,Captain Underpants
-2017,Peter Sciretta,1,Guardians of the Galaxy 2
-2017,Peter Sciretta,2,Despicable Me 3
-2017,Peter Sciretta,3,Spider-Man: Homecoming
-2017,Peter Sciretta,4,War for the Planet of the Apes
-2017,Peter Sciretta,5,Wonder Woman
-2017,Peter Sciretta,6,Transformers 5
-2017,Peter Sciretta,7,Cars 3
-2017,Peter Sciretta,8,Pirates of the Caribbean 5
-2017,Peter Sciretta,9,The Mummy (2017)
-2017,Peter Sciretta,10,Dunkirk
-2017,Peter Sciretta,11,Alien: Covenant
-2017,Peter Sciretta,12,The Emoji Movie
-2017,Peter Sciretta,13,Valerian
-2017,Jeff Cannata,1,Spider-Man: Homecoming
-2017,Jeff Cannata,2,Transformers 5
-2017,Jeff Cannata,3,Guardians of the Galaxy 2
-2017,Jeff Cannata,4,Despicable Me 3
-2017,Jeff Cannata,5,Cars 3
-2017,Jeff Cannata,6,War for the Planet of the Apes
-2017,Jeff Cannata,7,Pirates of the Caribbean 5
-2017,Jeff Cannata,8,Dunkirk
-2017,Jeff Cannata,9,Alien: Covenant
-2017,Jeff Cannata,10,The Mummy (2017)
-2017,Jeff Cannata,11,Rough Night
-2017,Jeff Cannata,12,Baywatch
-2017,Jeff Cannata,13,Wonder Woman
-2017,Germain Lussier,1,Guardians of the Galaxy 2
-2017,Germain Lussier,2,Despicable Me 3
-2017,Germain Lussier,3,Transformers 5
-2017,Germain Lussier,4,Pirates of the Caribbean 5
-2017,Germain Lussier,5,Spider-Man: Homecoming
-2017,Germain Lussier,6,Cars 3
-2017,Germain Lussier,7,Wonder Woman
-2017,Germain Lussier,8,Alien: Covenant
-2017,Germain Lussier,9,Dunkirk
-2017,Germain Lussier,10,War for the Planet of the Apes
-2017,Germain Lussier,11,The Mummy (2017)
-2017,Germain Lussier,12,Baywatch
-2017,Germain Lussier,13,Captain Underpants
-2016,David Chen,1,Captain America 3
-2016,David Chen,2,Finding Dory
-2016,David Chen,3,The Secret Life of Pets
-2016,David Chen,4,Suicide Squad
-2016,David Chen,5,X-Men: Apocalypse
-2016,David Chen,6,Star Trek Beyond
-2016,David Chen,7,Jason Bourne
-2016,David Chen,8,Ghostbusters (2016)
-2016,David Chen,9,Independence Day: Resurgence
-2016,David Chen,10,Ice Age: Collision Course
-2016,David Chen,11,The BFG
-2016,David Chen,12,Warcraft
-2016,David Chen,13,The Legend of Tarzan
-2016,Peter Sciretta,1,Finding Dory
-2016,Peter Sciretta,2,Captain America 3
-2016,Peter Sciretta,3,Suicide Squad
-2016,Peter Sciretta,4,Independence Day: Resurgence
-2016,Peter Sciretta,5,X-Men: Apocalypse
-2016,Peter Sciretta,6,Ghostbusters (2016)
-2016,Peter Sciretta,7,The Secret Life of Pets
-2016,Peter Sciretta,8,Star Trek Beyond
-2016,Peter Sciretta,9,Alice in Wonderland 2
-2016,Peter Sciretta,10,Ninja Turtles 2
-2016,Peter Sciretta,11,Ice Age: Collision Course
-2016,Peter Sciretta,12,Neighbors 2
-2016,Peter Sciretta,13,Warcraft
-2016,Germain Lussier,1,Captain America 3
-2016,Germain Lussier,2,Finding Dory
-2016,Germain Lussier,3,Independence Day: Resurgence
-2016,Germain Lussier,4,The Secret Life of Pets
-2016,Germain Lussier,5,X-Men: Apocalypse
-2016,Germain Lussier,6,Alice in Wonderland 2
-2016,Germain Lussier,7,Central Intelligence
-2016,Germain Lussier,8,Ghostbusters (2016)
-2016,Germain Lussier,9,Suicide Squad
-2016,Germain Lussier,10,Star Trek Beyond
-2016,Germain Lussier,11,Neighbors 2
-2016,Germain Lussier,12,Ninja Turtles 2
-2016,Germain Lussier,13,The Conjuring 2
-2016,Devindra Hardawar,1,Captain America 3
-2016,Devindra Hardawar,2,Suicide Squad
-2016,Devindra Hardawar,3,Angry Birds
-2016,Devindra Hardawar,4,X-Men: Apocalypse
-2016,Devindra Hardawar,5,The Secret Life of Pets
-2016,Devindra Hardawar,6,Finding Dory
-2016,Devindra Hardawar,7,Jason Bourne
-2016,Devindra Hardawar,8,Star Trek Beyond
-2016,Devindra Hardawar,9,Independence Day: Resurgence
-2016,Devindra Hardawar,10,Ghostbusters (2016)
-2016,Devindra Hardawar,11,Central Intelligence
-2016,Devindra Hardawar,12,The BFG
-2016,Devindra Hardawar,13,Free State of Jones
-2016,Jeff Cannata,1,Captain America 3
-2016,Jeff Cannata,2,Finding Dory
-2016,Jeff Cannata,3,Ice Age: Collision Course
-2016,Jeff Cannata,4,X-Men: Apocalypse
-2016,Jeff Cannata,5,Independence Day: Resurgence
-2016,Jeff Cannata,6,Ninja Turtles 2
-2016,Jeff Cannata,7,Jason Bourne
-2016,Jeff Cannata,8,Star Trek Beyond
-2016,Jeff Cannata,9,Ghostbusters (2016)
-2016,Jeff Cannata,10,Suicide Squad
-2016,Jeff Cannata,11,Neighbors 2
-2016,Jeff Cannata,12,Central Intelligence
-2016,Jeff Cannata,13,Pete's Dragon
-2015,David Chen,1,Avengers: Age of Ultron
-2015,David Chen,2,Inside Out
-2015,David Chen,3,Minions
-2015,David Chen,4,Ant-Man
-2015,David Chen,5,Pixels
-2015,David Chen,6,M:I - Rogue Nation
-2015,David Chen,7,Jurassic World
-2015,David Chen,8,Ted 2
-2015,David Chen,9,Tomorrowland
-2015,David Chen,10,Mad Max: Fury Road
-2015,David Chen,11,San Andreas
-2015,David Chen,12,Fantastic Four
-2015,David Chen,13,Terminator: Genisys
-2015,Germain Lussier,1,Avengers: Age of Ultron
-2015,Germain Lussier,2,Minions
-2015,Germain Lussier,3,Jurassic World
-2015,Germain Lussier,4,Inside Out
-2015,Germain Lussier,5,M:I - Rogue Nation
-2015,Germain Lussier,6,Ant-Man
-2015,Germain Lussier,7,Spy
-2015,Germain Lussier,8,Pixels
-2015,Germain Lussier,9,Ted 2
-2015,Germain Lussier,10,Terminator: Genisys
-2015,Germain Lussier,11,Magic Mike XXL
-2015,Germain Lussier,12,Poltergeist (2015)
-2015,Germain Lussier,13,Pitch Perfect 2
-2015,Jeff Cannata,1,Avengers: Age of Ultron
-2015,Jeff Cannata,2,Minions
-2015,Jeff Cannata,3,Jurassic World
-2015,Jeff Cannata,4,M:I - Rogue Nation
-2015,Jeff Cannata,5,Inside Out
-2015,Jeff Cannata,6,Ted 2
-2015,Jeff Cannata,7,Magic Mike XXL
-2015,Jeff Cannata,8,Mad Max: Fury Road
-2015,Jeff Cannata,9,Ant-Man
-2015,Jeff Cannata,10,Tomorrowland
-2015,Jeff Cannata,11,Terminator: Genisys
-2015,Jeff Cannata,12,Fantastic Four
-2015,Jeff Cannata,13,Poltergeist (2015)
-2015,Peter Sciretta,1,Avengers: Age of Ultron
-2015,Peter Sciretta,2,Minions
-2015,Peter Sciretta,3,Jurassic World
-2015,Peter Sciretta,4,Ant-Man
-2015,Peter Sciretta,5,Ted 2
-2015,Peter Sciretta,6,Tomorrowland
-2015,Peter Sciretta,7,Inside Out
-2015,Peter Sciretta,8,M:I - Rogue Nation
-2015,Peter Sciretta,9,Mad Max: Fury Road
-2015,Peter Sciretta,10,Pixels
-2015,Peter Sciretta,11,Fantastic Four
-2015,Peter Sciretta,12,San Andreas
-2015,Peter Sciretta,13,Magic Mike XXL
-2014,Peter Sciretta,1,How to Train Your Dragon 2
-2014,Peter Sciretta,2,Godzilla
-2014,Peter Sciretta,3,Transformers 4
-2014,Peter Sciretta,4,The Amazing Spider-Man 2
-2014,Peter Sciretta,5,Dawn of the Planet of the Apes
-2014,Peter Sciretta,6,X-Men: Days of Future Past
-2014,Peter Sciretta,7,Guardians of the Galaxy
-2014,Peter Sciretta,8,Maleficent
-2014,Peter Sciretta,9,22 Jump Street
-2014,Peter Sciretta,10,Ninja Turtles
-2014,Peter Sciretta,11,Neighbors
-2014,Peter Sciretta,12,Edge of Tomorrow
-2014,Peter Sciretta,13,Hercules
-2014,Germain Lussier,1,How to Train Your Dragon 2
-2014,Germain Lussier,2,Transformers 4
-2014,Germain Lussier,3,The Amazing Spider-Man 2
-2014,Germain Lussier,4,X-Men: Days of Future Past
-2014,Germain Lussier,5,Neighbors
-2014,Germain Lussier,6,Godzilla
-2014,Germain Lussier,7,Maleficent
-2014,Germain Lussier,8,Dawn of the Planet of the Apes
-2014,Germain Lussier,9,22 Jump Street
-2014,Germain Lussier,10,Guardians of the Galaxy
-2014,Germain Lussier,11,Hercules
-2014,Germain Lussier,12,The Purge: Anarchy
-2014,Germain Lussier,13,Blended
-2014,Jeff Cannata,1,Transformers 4
-2014,Jeff Cannata,2,The Amazing Spider-Man 2
-2014,Jeff Cannata,3,How to Train Your Dragon 2
-2014,Jeff Cannata,4,X-Men: Days of Future Past
-2014,Jeff Cannata,5,22 Jump Street
-2014,Jeff Cannata,6,Godzilla
-2014,Jeff Cannata,7,Dawn of the Planet of the Apes
-2014,Jeff Cannata,8,Edge of Tomorrow
-2014,Jeff Cannata,9,Ninja Turtles
-2014,Jeff Cannata,10,Maleficent
-2014,Jeff Cannata,11,Guardians of the Galaxy
-2014,Jeff Cannata,12,Planes: Fire & Rescue
-2014,Jeff Cannata,13,Jupiter Ascending
-2013,Jeff Cannata,1,Iron Man 3
-2013,Jeff Cannata,2,Monsters University
-2013,Jeff Cannata,3,Man of Steel
-2013,Jeff Cannata,4,Despicable Me 2
-2013,Jeff Cannata,5,Fast & Furious 6
-2013,Jeff Cannata,6,Star Trek Into Darkness
-2013,Jeff Cannata,7,The Hangover Part III
-2013,Jeff Cannata,8,Pacific Rim
-2013,Jeff Cannata,9,The Lone Ranger
-2013,Jeff Cannata,10,The Wolverine
-2013,Jeff Cannata,11,Elysium
-2013,Jeff Cannata,12,The Great Gatsby
-2013,Jeff Cannata,13,The Internship
-2013,Peter Sciretta,1,Monsters University
-2013,Peter Sciretta,2,Iron Man 3
-2013,Peter Sciretta,3,Despicable Me 2
-2013,Peter Sciretta,4,Star Trek Into Darkness
-2013,Peter Sciretta,5,Man of Steel
-2013,Peter Sciretta,6,Fast & Furious 6
-2013,Peter Sciretta,7,The Hangover Part III
-2013,Peter Sciretta,8,The Lone Ranger
-2013,Peter Sciretta,9,Pacific Rim
-2013,Peter Sciretta,10,The Wolverine
-2013,Peter Sciretta,11,Planes
-2013,Peter Sciretta,12,Elysium
-2013,Peter Sciretta,13,White House Down
-2013,Germain Lussier,1,Man of Steel
-2013,Germain Lussier,2,Iron Man 3
-2013,Germain Lussier,3,Monsters University
-2013,Germain Lussier,4,Fast & Furious 6
-2013,Germain Lussier,5,Pacific Rim
-2013,Germain Lussier,6,The Hangover Part III
-2013,Germain Lussier,7,Despicable Me 2
-2013,Germain Lussier,8,The Lone Ranger
-2013,Germain Lussier,9,Star Trek Into Darkness
-2013,Germain Lussier,10,Epic
-2013,Germain Lussier,11,The Smurfs 2
-2013,Germain Lussier,12,The Internship
-2013,Germain Lussier,13,White House Down
-2012,Alex Albrecht,1,The Avengers
-2012,Alex Albrecht,2,The Dark Knight Rises
-2012,Alex Albrecht,3,Brave
-2012,Alex Albrecht,4,Battleship
-2012,Alex Albrecht,5,The Amazing Spider-Man
-2012,Alex Albrecht,6,The Bourne Legacy
-2012,Alex Albrecht,7,Snow White and the Huntsman
-2012,Alex Albrecht,8,MIB 3
-2012,Alex Albrecht,9,Ice Age: Continental Drift
-2012,Alex Albrecht,10,G.I. Joe: Retaliation
-2012,Alex Albrecht,11,Prometheus
-2012,Alex Albrecht,12,Abraham Lincoln
-2012,Jeff Cannata,1,The Avengers
-2012,Jeff Cannata,2,The Dark Knight Rises
-2012,Jeff Cannata,3,Ice Age: Continental Drift
-2012,Jeff Cannata,4,The Amazing Spider-Man
-2012,Jeff Cannata,5,Madagascar 3
-2012,Jeff Cannata,6,MIB 3
-2012,Jeff Cannata,7,Brave
-2012,Jeff Cannata,8,Prometheus
-2012,Jeff Cannata,9,The Campaign
-2012,Jeff Cannata,10,The Bourne Legacy
-2012,Jeff Cannata,11,Snow White and the Huntsman
-2012,Germain Lussier,1,The Dark Knight Rises
-2012,Germain Lussier,2,The Avengers
-2012,Germain Lussier,3,The Amazing Spider-Man
-2012,Germain Lussier,4,MIB 3
-2012,Germain Lussier,5,Brave
-2012,Germain Lussier,6,G.I. Joe: Retaliation
-2012,Germain Lussier,7,Madagascar 3
-2012,Germain Lussier,8,Prometheus
-2012,Germain Lussier,9,Battleship
-2012,Germain Lussier,10,Snow White and the Huntsman
-2012,Germain Lussier,11,That's My Boy
-2012,Germain Lussier,12,Ice Age: Continental Drift
-2012,Germain Lussier,13,The Watch
-2012,Dan Trachtenberg,1,The Dark Knight Rises
-2012,Dan Trachtenberg,2,The Avengers
-2012,Dan Trachtenberg,3,G.I. Joe: Retaliation
-2012,Dan Trachtenberg,4,Brave
-2012,Dan Trachtenberg,5,Snow White and the Huntsman
-2012,Dan Trachtenberg,6,Ice Age: Continental Drift
-2012,Dan Trachtenberg,7,Madagascar 3
-2012,Dan Trachtenberg,8,The Amazing Spider-Man
-2012,Dan Trachtenberg,9,Prometheus
-2012,Dan Trachtenberg,10,Ted
-2012,Dan Trachtenberg,11,MIB 3
-2012,Dan Trachtenberg,12,Battleship
-2012,Dan Trachtenberg,13,The Bourne Legacy
-2012,Peter Sciretta,1,The Dark Knight Rises
-2012,Peter Sciretta,2,The Avengers
-2012,Peter Sciretta,3,MIB 3
-2012,Peter Sciretta,4,Ice Age: Continental Drift
-2012,Peter Sciretta,5,The Amazing Spider-Man
-2012,Peter Sciretta,6,Madagascar 3
-2012,Peter Sciretta,7,Prometheus
-2012,Peter Sciretta,8,Ted
-2012,Peter Sciretta,9,The Bourne Legacy
-2012,Peter Sciretta,10,Brave
-2012,Peter Sciretta,11,Snow White and the Huntsman
-2012,Peter Sciretta,12,Dark Shadows
-2012,Peter Sciretta,13,Rock of Ages
-2011,Alex Albrecht,1,Pirates of the Caribbean 4
-2011,Alex Albrecht,2,Transformers 3
-2011,Alex Albrecht,3,Harry Potter / Deathly Hallows (P2)
-2011,Alex Albrecht,4,The Hangover Part II
-2011,Alex Albrecht,5,X-Men: First Class
-2011,Alex Albrecht,6,Cowboys & Aliens
-2011,Alex Albrecht,7,Cars 2
-2011,Alex Albrecht,8,Green Lantern
-2011,Alex Albrecht,9,Kung Fu Panda 2
-2011,Alex Albrecht,10,Captain America
-2011,Alex Albrecht,11,Super 8
-2011,Alex Albrecht,12,Fast Five
-2011,Alex Albrecht,13,Bridesmaids
-2011,Dan Trachtenberg,1,Harry Potter / Deathly Hallows (P2)
-2011,Dan Trachtenberg,2,Kung Fu Panda 2
-2011,Dan Trachtenberg,3,Cars 2
-2011,Dan Trachtenberg,4,Transformers 3
-2011,Dan Trachtenberg,5,Pirates of the Caribbean 4
-2011,Dan Trachtenberg,6,Prom
-2011,Dan Trachtenberg,7,The Hangover Part II
-2011,Dan Trachtenberg,8,Super 8
-2011,Dan Trachtenberg,9,Thor
-2011,Dan Trachtenberg,10,Captain America
-2011,Dan Trachtenberg,11,X-Men: First Class
-2011,Dan Trachtenberg,12,The Smurfs
-2011,Dan Trachtenberg,13,Green Lantern
-2011,Jeff Cannata,1,Transformers 3
-2011,Jeff Cannata,2,Cars 2
-2011,Jeff Cannata,3,Pirates of the Caribbean 4
-2011,Jeff Cannata,4,The Hangover Part II
-2011,Jeff Cannata,5,Harry Potter / Deathly Hallows (P2)
-2011,Jeff Cannata,6,Super 8
-2011,Jeff Cannata,7,Kung Fu Panda 2
-2011,Jeff Cannata,8,Thor
-2011,Jeff Cannata,9,Cowboys & Aliens
-2011,Jeff Cannata,10,Fast Five
-2011,Jeff Cannata,11,Green Lantern
-2011,Jeff Cannata,12,Captain America
-2011,Jeff Cannata,13,X-Men: First Class
-2011,Peter Sciretta,1,Transformers 3
-2011,Peter Sciretta,2,Harry Potter / Deathly Hallows (P2)
-2011,Peter Sciretta,3,Cars 2
-2011,Peter Sciretta,4,Kung Fu Panda 2
-2011,Peter Sciretta,5,Pirates of the Caribbean 4
-2011,Peter Sciretta,6,The Hangover Part II
-2011,Peter Sciretta,7,The Smurfs
-2011,Peter Sciretta,8,X-Men: First Class
-2011,Peter Sciretta,9,Green Lantern
-2011,Peter Sciretta,10,Fast Five
-2011,Peter Sciretta,11,Super 8
-2011,Peter Sciretta,12,Thor
-2011,Peter Sciretta,13,Captain America
-2010,Peter Sciretta,1,Iron Man 2
-2010,Peter Sciretta,2,Toy Story 3
-2010,Peter Sciretta,3,The Twilight Saga: Eclipse
-2010,Peter Sciretta,4,Sex and the City 2
-2010,Peter Sciretta,5,Shrek Forever After
-2010,Peter Sciretta,6,Inception
-2010,Peter Sciretta,7,Prince of Persia
-2010,Peter Sciretta,8,The Last Airbender
-2010,Peter Sciretta,9,The Karate Kid
-2010,Peter Sciretta,10,Despicable Me
-2010,Peter Sciretta,11,The A-Team
-2010,Peter Sciretta,12,The Sorcerer's Apprentice
-2010,Peter Sciretta,13,Knight & Day
-2010,Jeff Cannata,1,Toy Story 3
-2010,Jeff Cannata,2,The Twilight Saga: Eclipse
-2010,Jeff Cannata,3,Shrek Forever After
-2010,Jeff Cannata,4,Iron Man 2
-2010,Jeff Cannata,5,The Last Airbender
-2010,Jeff Cannata,6,Knight & Day
-2010,Jeff Cannata,7,Prince of Persia
-2010,Jeff Cannata,8,Sex and the City 2
-2010,Jeff Cannata,9,Robin Hood
-2010,Jeff Cannata,10,Despicable Me
-2010,Jeff Cannata,11,The Karate Kid
-2010,Jeff Cannata,12,Inception
-2010,Jeff Cannata,13,Predators
-2010,David Chen,1,Iron Man 2
-2010,David Chen,2,Shrek Forever After
-2010,David Chen,3,The Last Airbender
-2010,David Chen,4,The Twilight Saga: Eclipse
-2010,David Chen,5,Toy Story 3
-2010,David Chen,6,Inception
-2010,David Chen,7,Sex and the City 2
-2010,David Chen,8,Knight & Day
-2010,David Chen,9,The Karate Kid
-2010,David Chen,10,The A-Team
-2010,David Chen,11,The Sorcerer's Apprentice
-2010,David Chen,12,Robin Hood
-2010,David Chen,13,Predators
-2010,Russ Fischer,1,Iron Man 2
-2010,Russ Fischer,2,The Twilight Saga: Eclipse
-2010,Russ Fischer,3,The Last Airbender
-2010,Russ Fischer,4,Toy Story 3
-2010,Russ Fischer,5,Sex and the City 2
-2010,Russ Fischer,6,The Sorcerer's Apprentice
-2010,Russ Fischer,7,Knight & Day
-2010,Russ Fischer,8,Inception
-2010,Russ Fischer,9,The Karate Kid
-2010,Russ Fischer,10,The A-Team
-2010,Russ Fischer,11,Scott Pilgrim vs. the World
-2010,Russ Fischer,12,The Other Guys
-2010,Russ Fischer,13,Eat Pray Love
-2010,Alex Albrecht,1,Shrek Forever After
-2010,Alex Albrecht,2,Prince of Persia
-2010,Alex Albrecht,3,MacGruber
-2010,Alex Albrecht,4,Iron Man 2
-2010,Alex Albrecht,5,The Twilight Saga: Eclipse
-2010,Alex Albrecht,6,Toy Story 3
-2010,Alex Albrecht,7,Robin Hood
-2010,Alex Albrecht,8,The Last Airbender
-2010,Alex Albrecht,9,Inception
-2010,Alex Albrecht,10,The A-Team
-2010,Alex Albrecht,11,Knight & Day
-2010,Alex Albrecht,12,Get Him to the Greek
-2010,Alex Albrecht,13,The Sorcerer's Apprentice
-2010,Dan Trachtenberg,1,Iron Man 2
-2010,Dan Trachtenberg,2,Shrek Forever After
-2010,Dan Trachtenberg,3,Toy Story 3
-2010,Dan Trachtenberg,4,Prince of Persia
-2010,Dan Trachtenberg,5,Sex and the City 2
-2010,Dan Trachtenberg,6,The Twilight Saga: Eclipse
-2010,Dan Trachtenberg,7,The Last Airbender
-2010,Dan Trachtenberg,8,The A-Team
-2010,Dan Trachtenberg,9,Knight & Day
-2010,Dan Trachtenberg,10,Letters to Juliet
-2010,Dan Trachtenberg,11,Inception
-2010,Dan Trachtenberg,12,The Sorcerer's Apprentice
-2010,Dan Trachtenberg,13,The Other Guys
-2009,Jeff Cannata,1,Transformers 2
-2009,Jeff Cannata,2,Terminator Salvation
-2009,Jeff Cannata,3,Star Trek
-2009,Jeff Cannata,4,Harry Potter 6
-2009,Jeff Cannata,5,Up
-2009,Jeff Cannata,6,X-Men Origins: Wolverine
-2009,Jeff Cannata,7,Angels & Demons
-2009,Jeff Cannata,8,G.I. Joe: The Rise of Cobra
-2009,Jeff Cannata,9,Night at the Museum II
-2009,Jeff Cannata,10,Bruno
-2009,Jeff Cannata,11,Ice Age 3
-2009,Jeff Cannata,12,Funny People
-2009,Jeff Cannata,13,Year One
-2009,Alex Albrecht,1,Harry Potter 6
-2009,Alex Albrecht,2,Star Trek
-2009,Alex Albrecht,3,Angels & Demons
-2009,Alex Albrecht,4,Up
-2009,Alex Albrecht,5,Transformers 2
-2009,Alex Albrecht,6,Terminator Salvation
-2009,Alex Albrecht,7,G.I. Joe: The Rise of Cobra
-2009,Alex Albrecht,8,Night at the Museum II
-2009,Alex Albrecht,9,X-Men Origins: Wolverine
-2009,Alex Albrecht,10,The Hangover
-2009,Alex Albrecht,11,Bruno
-2009,Alex Albrecht,12,Drag Me to Hell
-2009,Alex Albrecht,13,The Time Traveler's Wife
-2009,Dan Trachtenberg,1,Star Trek
-2009,Dan Trachtenberg,2,Transformers 2
-2009,Dan Trachtenberg,3,Terminator Salvation
-2009,Dan Trachtenberg,4,Harry Potter 6
-2009,Dan Trachtenberg,5,X-Men Origins: Wolverine
-2009,Dan Trachtenberg,6,Up
-2009,Dan Trachtenberg,7,Angels & Demons
-2009,Dan Trachtenberg,8,Ice Age 3
-2009,Dan Trachtenberg,9,G.I. Joe: The Rise of Cobra
-2009,Dan Trachtenberg,10,Bruno
-2009,Dan Trachtenberg,11,Land of the Lost
-2009,Dan Trachtenberg,12,Funny People
-2009,Dan Trachtenberg,13,Night at the Museum II
-2008,Jeff Cannata,1,Indiana Jones 4
-2008,Jeff Cannata,2,WALL-E
-2008,Jeff Cannata,3,Iron Man
-2008,Jeff Cannata,4,The Dark Knight
-2008,Jeff Cannata,5,Get Smart
-2008,Jeff Cannata,6,Kung Fu Panda
-2008,Jeff Cannata,7,Hancock
-2008,Jeff Cannata,8,Sex and the City
-2008,Jeff Cannata,9,Pineapple Express
-2008,Jeff Cannata,10,Speed Racer
-2008,Jeff Cannata,11,Mamma Mia!
-2008,Jeff Cannata,12,You Don't Mess with the Zohan
-2008,Jeff Cannata,13,The Foot Fist Way
-2008,Alex Albrecht,1,Iron Man
-2008,Alex Albrecht,2,Indiana Jones 4
-2008,Alex Albrecht,3,WALL-E
-2008,Alex Albrecht,4,The Chronicles of Narnia: Prince Caspian
-2008,Alex Albrecht,5,The Dark Knight
-2008,Alex Albrecht,6,Get Smart
-2008,Alex Albrecht,7,The Happening
-2008,Alex Albrecht,8,Wanted
-2008,Alex Albrecht,9,Hancock
-2008,Alex Albrecht,10,Star Wars: The Clone Wars
-2008,Alex Albrecht,11,Speed Racer
-2008,Alex Albrecht,12,Mamma Mia!
-2008,Alex Albrecht,13,You Don't Mess with the Zohan
-2008,Dan Trachtenberg,1,Indiana Jones 4
-2008,Dan Trachtenberg,2,The Chronicles of Narnia: Prince Caspian
-2008,Dan Trachtenberg,3,WALL-E
-2008,Dan Trachtenberg,4,The Dark Knight
-2008,Dan Trachtenberg,5,Hancock
-2008,Dan Trachtenberg,6,Get Smart
-2008,Dan Trachtenberg,7,The Happening
-2008,Dan Trachtenberg,8,You Don't Mess with the Zohan
-2008,Dan Trachtenberg,9,Pineapple Express
-2008,Dan Trachtenberg,10,Tropic Thunder
-2008,Dan Trachtenberg,11,Kung Fu Panda
-2008,Dan Trachtenberg,12,Sex and the City
-2008,Dan Trachtenberg,13,Mamma Mia!
-2007,Dan Trachtenberg,1,Transformers
-2007,Dan Trachtenberg,2,Spider-Man 3
-2007,Dan Trachtenberg,3,Shrek the Third
-2007,Dan Trachtenberg,4,Pirates of the Caribbean 3
-2007,Dan Trachtenberg,5,Ratatouille
-2007,Dan Trachtenberg,6,Live Free or Die Hard
-2007,Dan Trachtenberg,7,Harry Potter / Phoenix
-2007,Dan Trachtenberg,8,Evan Almighty
-2007,Dan Trachtenberg,9,The Simpsons Movie
-2007,Dan Trachtenberg,10,Fantastic Four 2
-2007,Dan Trachtenberg,11,Rush Hour 3
-2007,Dan Trachtenberg,12,I Now Pronounce You Chuck and Larry
-2007,Dan Trachtenberg,13,Surf's Up
-2007,Alex Albrecht,1,Pirates of the Caribbean 3
-2007,Alex Albrecht,2,Harry Potter / Phoenix
-2007,Alex Albrecht,3,Spider-Man 3
-2007,Alex Albrecht,4,Transformers
-2007,Alex Albrecht,5,The Simpsons Movie
-2007,Alex Albrecht,6,Shrek the Third
-2007,Alex Albrecht,7,The Bourne Ultimatum
-2007,Alex Albrecht,8,Fantastic Four 2
-2007,Alex Albrecht,9,Evan Almighty
-2007,Alex Albrecht,10,Live Free or Die Hard
-2007,Alex Albrecht,11,Ocean's Thirteen
-2007,Alex Albrecht,12,28 Weeks Later
-2007,Alex Albrecht,13,Day Watch
-2007,Jeff Cannata,1,Pirates of the Caribbean 3
-2007,Jeff Cannata,2,Shrek the Third
-2007,Jeff Cannata,3,Spider-Man 3
-2007,Jeff Cannata,4,Transformers
-2007,Jeff Cannata,5,Harry Potter / Phoenix
-2007,Jeff Cannata,6,Live Free or Die Hard
-2007,Jeff Cannata,7,Evan Almighty
-2007,Jeff Cannata,8,Ocean's Thirteen
-2007,Jeff Cannata,9,Ratatouille
-2007,Jeff Cannata,10,Fantastic Four 2
-2007,Jeff Cannata,11,The Bourne Ultimatum
-2007,Jeff Cannata,12,Hostel Part II
-2007,Jeff Cannata,13,Nancy Drew
+year,player_name,position,movie_title,score
+2007,Dan Trachtenberg,1,Transformers,5
+2007,Dan Trachtenberg,2,Spider-Man 3,7
+2007,Dan Trachtenberg,3,Shrek the Third,7
+2007,Dan Trachtenberg,4,Pirates of the Caribbean 3,10
+2007,Dan Trachtenberg,5,Ratatouille,5
+2007,Dan Trachtenberg,6,Live Free or Die Hard,3
+2007,Dan Trachtenberg,7,Harry Potter / Phoenix,5
+2007,Dan Trachtenberg,8,Evan Almighty,0
+2007,Dan Trachtenberg,9,The Simpsons Movie,7
+2007,Dan Trachtenberg,10,Fantastic Four 2,0
+2007,Dan Trachtenberg,11,Rush Hour 3,0
+2007,Dan Trachtenberg,12,I Now Pronounce You Chuck and Larry,0
+2007,Dan Trachtenberg,13,Surf's Up,0
+2007,Alex Albrecht,1,Pirates of the Caribbean 3,3
+2007,Alex Albrecht,2,Harry Potter / Phoenix,3
+2007,Alex Albrecht,3,Spider-Man 3,5
+2007,Alex Albrecht,4,Transformers,7
+2007,Alex Albrecht,5,The Simpsons Movie,3
+2007,Alex Albrecht,6,Shrek the Third,3
+2007,Alex Albrecht,7,The Bourne Ultimatum,7
+2007,Alex Albrecht,8,Fantastic Four 2,0
+2007,Alex Albrecht,9,Evan Almighty,0
+2007,Alex Albrecht,10,Live Free or Die Hard,13
+2007,Alex Albrecht,11,Ocean's Thirteen,0
+2007,Alex Albrecht,12,28 Weeks Later,0
+2007,Alex Albrecht,13,Day Watch,0
+2007,Jeff Cannata,1,Pirates of the Caribbean 3,3
+2007,Jeff Cannata,2,Shrek the Third,10
+2007,Jeff Cannata,3,Spider-Man 3,5
+2007,Jeff Cannata,4,Transformers,7
+2007,Jeff Cannata,5,Harry Potter / Phoenix,10
+2007,Jeff Cannata,6,Live Free or Die Hard,3
+2007,Jeff Cannata,7,Evan Almighty,0
+2007,Jeff Cannata,8,Ocean's Thirteen,0
+2007,Jeff Cannata,9,Ratatouille,5
+2007,Jeff Cannata,10,Fantastic Four 2,0
+2007,Jeff Cannata,11,The Bourne Ultimatum,1
+2007,Jeff Cannata,12,Hostel Part II,0
+2007,Jeff Cannata,13,Nancy Drew,0
+2008,Jeff Cannata,1,Indiana Jones 4,5
+2008,Jeff Cannata,2,WALL-E,3
+2008,Jeff Cannata,3,Iron Man,7
+2008,Jeff Cannata,4,The Dark Knight,3
+2008,Jeff Cannata,5,Get Smart,0
+2008,Jeff Cannata,6,Kung Fu Panda,10
+2008,Jeff Cannata,7,Hancock,3
+2008,Jeff Cannata,8,Sex and the City,7
+2008,Jeff Cannata,9,Pineapple Express,0
+2008,Jeff Cannata,10,Speed Racer,0
+2008,Jeff Cannata,11,Mamma Mia!,1
+2008,Jeff Cannata,12,You Don't Mess with the Zohan,0
+2008,Jeff Cannata,13,The Foot Fist Way,0
+2008,Alex Albrecht,1,Iron Man,7
+2008,Alex Albrecht,2,Indiana Jones 4,7
+2008,Alex Albrecht,3,WALL-E,5
+2008,Alex Albrecht,4,The Chronicles of Narnia: Prince Caspian,3
+2008,Alex Albrecht,5,The Dark Knight,3
+2008,Alex Albrecht,6,Get Smart,0
+2008,Alex Albrecht,7,The Happening,0
+2008,Alex Albrecht,8,Wanted,0
+2008,Alex Albrecht,9,Hancock,3
+2008,Alex Albrecht,10,Star Wars: The Clone Wars,0
+2008,Alex Albrecht,11,Speed Racer,0
+2008,Alex Albrecht,12,Mamma Mia!,1
+2008,Alex Albrecht,13,You Don't Mess with the Zohan,0
+2008,Dan Trachtenberg,1,Indiana Jones 4,5
+2008,Dan Trachtenberg,2,The Chronicles of Narnia: Prince Caspian,3
+2008,Dan Trachtenberg,3,WALL-E,5
+2008,Dan Trachtenberg,4,The Dark Knight,3
+2008,Dan Trachtenberg,5,Hancock,7
+2008,Dan Trachtenberg,6,Get Smart,0
+2008,Dan Trachtenberg,7,The Happening,0
+2008,Dan Trachtenberg,8,You Don't Mess with the Zohan,0
+2008,Dan Trachtenberg,9,Pineapple Express,0
+2008,Dan Trachtenberg,10,Tropic Thunder,0
+2008,Dan Trachtenberg,11,Kung Fu Panda,1
+2008,Dan Trachtenberg,12,Sex and the City,1
+2008,Dan Trachtenberg,13,Mamma Mia!,1
+2009,Jeff Cannata,1,Transformers 2,13
+2009,Jeff Cannata,2,Terminator Salvation,0
+2009,Jeff Cannata,3,Star Trek,5
+2009,Jeff Cannata,4,Harry Potter 6,5
+2009,Jeff Cannata,5,Up,5
+2009,Jeff Cannata,6,X-Men Origins: Wolverine,7
+2009,Jeff Cannata,7,Angels & Demons,0
+2009,Jeff Cannata,8,G.I. Joe: The Rise of Cobra,5
+2009,Jeff Cannata,9,Night at the Museum II,7
+2009,Jeff Cannata,10,Bruno,0
+2009,Jeff Cannata,11,Ice Age 3,1
+2009,Jeff Cannata,12,Funny People,0
+2009,Jeff Cannata,13,Year One,0
+2009,Alex Albrecht,1,Harry Potter 6,7
+2009,Alex Albrecht,2,Star Trek,3
+2009,Alex Albrecht,3,Angels & Demons,0
+2009,Alex Albrecht,4,Up,7
+2009,Alex Albrecht,5,Transformers 2,3
+2009,Alex Albrecht,6,Terminator Salvation,0
+2009,Alex Albrecht,7,G.I. Joe: The Rise of Cobra,3
+2009,Alex Albrecht,8,Night at the Museum II,10
+2009,Alex Albrecht,9,X-Men Origins: Wolverine,5
+2009,Alex Albrecht,10,The Hangover,3
+2009,Alex Albrecht,11,Bruno,0
+2009,Alex Albrecht,12,Drag Me to Hell,0
+2009,Alex Albrecht,13,The Time Traveler's Wife,0
+2009,Dan Trachtenberg,1,Star Trek,3
+2009,Dan Trachtenberg,2,Transformers 2,7
+2009,Dan Trachtenberg,3,Terminator Salvation,0
+2009,Dan Trachtenberg,4,Harry Potter 6,5
+2009,Dan Trachtenberg,5,X-Men Origins: Wolverine,5
+2009,Dan Trachtenberg,6,Up,3
+2009,Dan Trachtenberg,7,Angels & Demons,0
+2009,Dan Trachtenberg,8,Ice Age 3,5
+2009,Dan Trachtenberg,9,G.I. Joe: The Rise of Cobra,7
+2009,Dan Trachtenberg,10,Bruno,0
+2009,Dan Trachtenberg,11,Land of the Lost,0
+2009,Dan Trachtenberg,12,Funny People,0
+2009,Dan Trachtenberg,13,Night at the Museum II,1
+2010,Peter Sciretta,1,Iron Man 2,7
+2010,Peter Sciretta,2,Toy Story 3,7
+2010,Peter Sciretta,3,The Twilight Saga: Eclipse,10
+2010,Peter Sciretta,4,Sex and the City 2,0
+2010,Peter Sciretta,5,Shrek Forever After,7
+2010,Peter Sciretta,6,Inception,5
+2010,Peter Sciretta,7,Prince of Persia,0
+2010,Peter Sciretta,8,The Last Airbender,7
+2010,Peter Sciretta,9,The Karate Kid,5
+2010,Peter Sciretta,10,Despicable Me,3
+2010,Peter Sciretta,11,The A-Team,0
+2010,Peter Sciretta,12,The Sorcerer's Apprentice,0
+2010,Peter Sciretta,13,Knight & Day,0
+2010,Jeff Cannata,1,Toy Story 3,13
+2010,Jeff Cannata,2,The Twilight Saga: Eclipse,7
+2010,Jeff Cannata,3,Shrek Forever After,3
+2010,Jeff Cannata,4,Iron Man 2,5
+2010,Jeff Cannata,5,The Last Airbender,3
+2010,Jeff Cannata,6,Knight & Day,0
+2010,Jeff Cannata,7,Prince of Persia,0
+2010,Jeff Cannata,8,Sex and the City 2,0
+2010,Jeff Cannata,9,Robin Hood,0
+2010,Jeff Cannata,10,Despicable Me,3
+2010,Jeff Cannata,11,The Karate Kid,1
+2010,Jeff Cannata,12,Inception,1
+2010,Jeff Cannata,13,Predators,0
+2010,David Chen,1,Iron Man 2,7
+2010,David Chen,2,Shrek Forever After,3
+2010,David Chen,3,The Last Airbender,3
+2010,David Chen,4,The Twilight Saga: Eclipse,7
+2010,David Chen,5,Toy Story 3,3
+2010,David Chen,6,Inception,5
+2010,David Chen,7,Sex and the City 2,0
+2010,David Chen,8,Knight & Day,0
+2010,David Chen,9,The Karate Kid,5
+2010,David Chen,10,The A-Team,0
+2010,David Chen,11,The Sorcerer's Apprentice,0
+2010,David Chen,12,Robin Hood,0
+2010,David Chen,13,Predators,0
+2010,Russ Fischer,1,Iron Man 2,7
+2010,Russ Fischer,2,The Twilight Saga: Eclipse,7
+2010,Russ Fischer,3,The Last Airbender,3
+2010,Russ Fischer,4,Toy Story 3,3
+2010,Russ Fischer,5,Sex and the City 2,0
+2010,Russ Fischer,6,The Sorcerer's Apprentice,0
+2010,Russ Fischer,7,Knight & Day,0
+2010,Russ Fischer,8,Inception,3
+2010,Russ Fischer,9,The Karate Kid,5
+2010,Russ Fischer,10,The A-Team,0
+2010,Russ Fischer,11,Scott Pilgrim vs. the World,0
+2010,Russ Fischer,12,The Other Guys,0
+2010,Russ Fischer,13,Eat Pray Love,0
+2010,Alex Albrecht,1,Shrek Forever After,3
+2010,Alex Albrecht,2,Prince of Persia,0
+2010,Alex Albrecht,3,MacGruber,0
+2010,Alex Albrecht,4,Iron Man 2,5
+2010,Alex Albrecht,5,The Twilight Saga: Eclipse,5
+2010,Alex Albrecht,6,Toy Story 3,3
+2010,Alex Albrecht,7,Robin Hood,0
+2010,Alex Albrecht,8,The Last Airbender,7
+2010,Alex Albrecht,9,Inception,3
+2010,Alex Albrecht,10,The A-Team,0
+2010,Alex Albrecht,11,Knight & Day,0
+2010,Alex Albrecht,12,Get Him to the Greek,0
+2010,Alex Albrecht,13,The Sorcerer's Apprentice,0
+2010,Dan Trachtenberg,1,Iron Man 2,7
+2010,Dan Trachtenberg,2,Shrek Forever After,3
+2010,Dan Trachtenberg,3,Toy Story 3,5
+2010,Dan Trachtenberg,4,Prince of Persia,0
+2010,Dan Trachtenberg,5,Sex and the City 2,0
+2010,Dan Trachtenberg,6,The Twilight Saga: Eclipse,3
+2010,Dan Trachtenberg,7,The Last Airbender,5
+2010,Dan Trachtenberg,8,The A-Team,0
+2010,Dan Trachtenberg,9,Knight & Day,0
+2010,Dan Trachtenberg,10,Letters to Juliet,0
+2010,Dan Trachtenberg,11,Inception,1
+2010,Dan Trachtenberg,12,The Sorcerer's Apprentice,0
+2010,Dan Trachtenberg,13,The Other Guys,0
+2011,Alex Albrecht,1,Pirates of the Caribbean 4,3
+2011,Alex Albrecht,2,Transformers 3,10
+2011,Alex Albrecht,3,Harry Potter / Deathly Hallows (P2),5
+2011,Alex Albrecht,4,The Hangover Part II,7
+2011,Alex Albrecht,5,X-Men: First Class,0
+2011,Alex Albrecht,6,Cowboys & Aliens,0
+2011,Alex Albrecht,7,Cars 2,7
+2011,Alex Albrecht,8,Green Lantern,0
+2011,Alex Albrecht,9,Kung Fu Panda 2,10
+2011,Alex Albrecht,10,Captain America,5
+2011,Alex Albrecht,11,Super 8,0
+2011,Alex Albrecht,12,Fast Five,1
+2011,Alex Albrecht,13,Bridesmaids,1
+2011,Dan Trachtenberg,1,Harry Potter / Deathly Hallows (P2),13
+2011,Dan Trachtenberg,2,Kung Fu Panda 2,3
+2011,Dan Trachtenberg,3,Cars 2,3
+2011,Dan Trachtenberg,4,Transformers 3,5
+2011,Dan Trachtenberg,5,Pirates of the Caribbean 4,7
+2011,Dan Trachtenberg,6,Prom,0
+2011,Dan Trachtenberg,7,The Hangover Part II,3
+2011,Dan Trachtenberg,8,Super 8,0
+2011,Dan Trachtenberg,9,Thor,5
+2011,Dan Trachtenberg,10,Captain America,5
+2011,Dan Trachtenberg,11,X-Men: First Class,0
+2011,Dan Trachtenberg,12,The Smurfs,0
+2011,Dan Trachtenberg,13,Green Lantern,0
+2011,Jeff Cannata,1,Transformers 3,7
+2011,Jeff Cannata,2,Cars 2,3
+2011,Jeff Cannata,3,Pirates of the Caribbean 4,7
+2011,Jeff Cannata,4,The Hangover Part II,7
+2011,Jeff Cannata,5,Harry Potter / Deathly Hallows (P2),3
+2011,Jeff Cannata,6,Super 8,0
+2011,Jeff Cannata,7,Kung Fu Panda 2,5
+2011,Jeff Cannata,8,Thor,7
+2011,Jeff Cannata,9,Cowboys & Aliens,0
+2011,Jeff Cannata,10,Fast Five,3
+2011,Jeff Cannata,11,Green Lantern,0
+2011,Jeff Cannata,12,Captain America,1
+2011,Jeff Cannata,13,X-Men: First Class,0
+2011,Peter Sciretta,1,Transformers 3,7
+2011,Peter Sciretta,2,Harry Potter / Deathly Hallows (P2),7
+2011,Peter Sciretta,3,Cars 2,3
+2011,Peter Sciretta,4,Kung Fu Panda 2,3
+2011,Peter Sciretta,5,Pirates of the Caribbean 4,7
+2011,Peter Sciretta,6,The Hangover Part II,3
+2011,Peter Sciretta,7,The Smurfs,0
+2011,Peter Sciretta,8,X-Men: First Class,0
+2011,Peter Sciretta,9,Green Lantern,0
+2011,Peter Sciretta,10,Fast Five,3
+2011,Peter Sciretta,11,Super 8,0
+2011,Peter Sciretta,12,Thor,1
+2011,Peter Sciretta,13,Captain America,1
+2012,Alex Albrecht,1,The Avengers,13
+2012,Alex Albrecht,2,The Dark Knight Rises,10
+2012,Alex Albrecht,3,Brave,7
+2012,Alex Albrecht,4,Battleship,0
+2012,Alex Albrecht,5,The Amazing Spider-Man,5
+2012,Alex Albrecht,6,The Bourne Legacy,0
+2012,Alex Albrecht,7,Snow White and the Huntsman,7
+2012,Alex Albrecht,8,MIB 3,7
+2012,Alex Albrecht,9,Ice Age: Continental Drift,10
+2012,Alex Albrecht,10,G.I. Joe: Retaliation,0
+2012,Alex Albrecht,11,Prometheus,1
+2012,Alex Albrecht,12,Abraham Lincoln,0
+2012,Jeff Cannata,1,The Avengers,13
+2012,Jeff Cannata,2,The Dark Knight Rises,10
+2012,Jeff Cannata,3,Ice Age: Continental Drift,3
+2012,Jeff Cannata,4,The Amazing Spider-Man,7
+2012,Jeff Cannata,5,Madagascar 3,7
+2012,Jeff Cannata,6,MIB 3,7
+2012,Jeff Cannata,7,Brave,3
+2012,Jeff Cannata,8,Prometheus,7
+2012,Jeff Cannata,9,The Campaign,0
+2012,Jeff Cannata,10,The Bourne Legacy,0
+2012,Jeff Cannata,11,Snow White and the Huntsman,1
+2012,Germain Lussier,1,The Dark Knight Rises,7
+2012,Germain Lussier,2,The Avengers,7
+2012,Germain Lussier,3,The Amazing Spider-Man,10
+2012,Germain Lussier,4,MIB 3,3
+2012,Germain Lussier,5,Brave,7
+2012,Germain Lussier,6,G.I. Joe: Retaliation,0
+2012,Germain Lussier,7,Madagascar 3,7
+2012,Germain Lussier,8,Prometheus,5
+2012,Germain Lussier,9,Battleship,0
+2012,Germain Lussier,10,Snow White and the Huntsman,5
+2012,Germain Lussier,11,That's My Boy,0
+2012,Germain Lussier,12,Ice Age: Continental Drift,1
+2012,Germain Lussier,13,The Watch,0
+2012,Dan Trachtenberg,1,The Dark Knight Rises,7
+2012,Dan Trachtenberg,2,The Avengers,7
+2012,Dan Trachtenberg,3,G.I. Joe: Retaliation,0
+2012,Dan Trachtenberg,4,Brave,10
+2012,Dan Trachtenberg,5,Snow White and the Huntsman,3
+2012,Dan Trachtenberg,6,Ice Age: Continental Drift,3
+2012,Dan Trachtenberg,7,Madagascar 3,7
+2012,Dan Trachtenberg,8,The Amazing Spider-Man,3
+2012,Dan Trachtenberg,9,Prometheus,7
+2012,Dan Trachtenberg,10,Ted,3
+2012,Dan Trachtenberg,11,MIB 3,1
+2012,Dan Trachtenberg,12,Battleship,0
+2012,Dan Trachtenberg,13,The Bourne Legacy,0
+2012,Peter Sciretta,1,The Dark Knight Rises,7
+2012,Peter Sciretta,2,The Avengers,7
+2012,Peter Sciretta,3,MIB 3,3
+2012,Peter Sciretta,4,Ice Age: Continental Drift,3
+2012,Peter Sciretta,5,The Amazing Spider-Man,5
+2012,Peter Sciretta,6,Madagascar 3,10
+2012,Peter Sciretta,7,Prometheus,3
+2012,Peter Sciretta,8,Ted,3
+2012,Peter Sciretta,9,The Bourne Legacy,0
+2012,Peter Sciretta,10,Brave,3
+2012,Peter Sciretta,11,Snow White and the Huntsman,1
+2012,Peter Sciretta,12,Dark Shadows,0
+2012,Peter Sciretta,13,Rock of Ages,0
+2013,Jeff Cannata,1,Iron Man 3,13
+2013,Jeff Cannata,2,Monsters University,5
+2013,Jeff Cannata,3,Man of Steel,10
+2013,Jeff Cannata,4,Despicable Me 2,5
+2013,Jeff Cannata,5,Fast & Furious 6,10
+2013,Jeff Cannata,6,Star Trek Into Darkness,10
+2013,Jeff Cannata,7,The Hangover Part III,0
+2013,Jeff Cannata,8,Pacific Rim,0
+2013,Jeff Cannata,9,The Lone Ranger,0
+2013,Jeff Cannata,10,The Wolverine,0
+2013,Jeff Cannata,11,Elysium,0
+2013,Jeff Cannata,12,The Great Gatsby,1
+2013,Jeff Cannata,13,The Internship,0
+2013,Peter Sciretta,1,Monsters University,3
+2013,Peter Sciretta,2,Iron Man 3,7
+2013,Peter Sciretta,3,Despicable Me 2,7
+2013,Peter Sciretta,4,Star Trek Into Darkness,5
+2013,Peter Sciretta,5,Man of Steel,5
+2013,Peter Sciretta,6,Fast & Furious 6,7
+2013,Peter Sciretta,7,The Hangover Part III,0
+2013,Peter Sciretta,8,The Lone Ranger,0
+2013,Peter Sciretta,9,Pacific Rim,0
+2013,Peter Sciretta,10,The Wolverine,0
+2013,Peter Sciretta,11,Planes,0
+2013,Peter Sciretta,12,Elysium,0
+2013,Peter Sciretta,13,White House Down,0
+2013,Germain Lussier,1,Man of Steel,5
+2013,Germain Lussier,2,Iron Man 3,7
+2013,Germain Lussier,3,Monsters University,7
+2013,Germain Lussier,4,Fast & Furious 6,7
+2013,Germain Lussier,5,Pacific Rim,0
+2013,Germain Lussier,6,The Hangover Part III,0
+2013,Germain Lussier,7,Despicable Me 2,3
+2013,Germain Lussier,8,The Lone Ranger,0
+2013,Germain Lussier,9,Star Trek Into Darkness,3
+2013,Germain Lussier,10,Epic,0
+2013,Germain Lussier,11,The Smurfs 2,0
+2013,Germain Lussier,12,The Internship,0
+2013,Germain Lussier,13,White House Down,0
+2014,Peter Sciretta,1,How to Train Your Dragon 2,3
+2014,Peter Sciretta,2,Godzilla,3
+2014,Peter Sciretta,3,Transformers 4,7
+2014,Peter Sciretta,4,The Amazing Spider-Man 2,5
+2014,Peter Sciretta,5,Dawn of the Planet of the Apes,10
+2014,Peter Sciretta,6,X-Men: Days of Future Past,5
+2014,Peter Sciretta,7,Guardians of the Galaxy,3
+2014,Peter Sciretta,8,Maleficent,3
+2014,Peter Sciretta,9,22 Jump Street,7
+2014,Peter Sciretta,10,Ninja Turtles,13
+2014,Peter Sciretta,11,Neighbors,0
+2014,Peter Sciretta,12,Edge of Tomorrow,0
+2014,Peter Sciretta,13,Hercules,0
+2014,Germain Lussier,1,How to Train Your Dragon 2,3
+2014,Germain Lussier,2,Transformers 4,10
+2014,Germain Lussier,3,The Amazing Spider-Man 2,3
+2014,Germain Lussier,4,X-Men: Days of Future Past,10
+2014,Germain Lussier,5,Neighbors,0
+2014,Germain Lussier,6,Godzilla,7
+2014,Germain Lussier,7,Maleficent,3
+2014,Germain Lussier,8,Dawn of the Planet of the Apes,3
+2014,Germain Lussier,9,22 Jump Street,7
+2014,Germain Lussier,10,Guardians of the Galaxy,3
+2014,Germain Lussier,11,Hercules,0
+2014,Germain Lussier,12,The Purge: Anarchy,0
+2014,Germain Lussier,13,Blended,0
+2014,Jeff Cannata,1,Transformers 4,7
+2014,Jeff Cannata,2,The Amazing Spider-Man 2,3
+2014,Jeff Cannata,3,How to Train Your Dragon 2,3
+2014,Jeff Cannata,4,X-Men: Days of Future Past,10
+2014,Jeff Cannata,5,22 Jump Street,3
+2014,Jeff Cannata,6,Godzilla,7
+2014,Jeff Cannata,7,Dawn of the Planet of the Apes,5
+2014,Jeff Cannata,8,Edge of Tomorrow,0
+2014,Jeff Cannata,9,Ninja Turtles,7
+2014,Jeff Cannata,10,Maleficent,3
+2014,Jeff Cannata,11,Guardians of the Galaxy,1
+2014,Jeff Cannata,12,Planes: Fire & Rescue,0
+2014,Jeff Cannata,13,Jupiter Ascending,0
+2015,David Chen,1,Avengers: Age of Ultron,7
+2015,David Chen,2,Inside Out,7
+2015,David Chen,3,Minions,7
+2015,David Chen,4,Ant-Man,3
+2015,David Chen,5,Pixels,0
+2015,David Chen,6,M:I - Rogue Nation,10
+2015,David Chen,7,Jurassic World,3
+2015,David Chen,8,Ted 2,0
+2015,David Chen,9,Tomorrowland,0
+2015,David Chen,10,Mad Max: Fury Road,7
+2015,David Chen,11,San Andreas,1
+2015,David Chen,12,Fantastic Four,0
+2015,David Chen,13,Terminator: Genisys,0
+2015,Germain Lussier,1,Avengers: Age of Ultron,7
+2015,Germain Lussier,2,Minions,5
+2015,Germain Lussier,3,Jurassic World,5
+2015,Germain Lussier,4,Inside Out,7
+2015,Germain Lussier,5,M:I - Rogue Nation,7
+2015,Germain Lussier,6,Ant-Man,7
+2015,Germain Lussier,7,Spy,0
+2015,Germain Lussier,8,Pixels,0
+2015,Germain Lussier,9,Ted 2,0
+2015,Germain Lussier,10,Terminator: Genisys,0
+2015,Germain Lussier,11,Magic Mike XXL,0
+2015,Germain Lussier,12,Poltergeist (2015),0
+2015,Germain Lussier,13,Pitch Perfect 2,1
+2015,Jeff Cannata,1,Avengers: Age of Ultron,7
+2015,Jeff Cannata,2,Minions,5
+2015,Jeff Cannata,3,Jurassic World,5
+2015,Jeff Cannata,4,M:I - Rogue Nation,5
+2015,Jeff Cannata,5,Inside Out,5
+2015,Jeff Cannata,6,Ted 2,0
+2015,Jeff Cannata,7,Magic Mike XXL,0
+2015,Jeff Cannata,8,Mad Max: Fury Road,7
+2015,Jeff Cannata,9,Ant-Man,5
+2015,Jeff Cannata,10,Tomorrowland,0
+2015,Jeff Cannata,11,Terminator: Genisys,0
+2015,Jeff Cannata,12,Fantastic Four,0
+2015,Jeff Cannata,13,Poltergeist (2015),0
+2015,Peter Sciretta,1,Avengers: Age of Ultron,7
+2015,Peter Sciretta,2,Minions,5
+2015,Peter Sciretta,3,Jurassic World,5
+2015,Peter Sciretta,4,Ant-Man,3
+2015,Peter Sciretta,5,Ted 2,0
+2015,Peter Sciretta,6,Tomorrowland,0
+2015,Peter Sciretta,7,Inside Out,3
+2015,Peter Sciretta,8,M:I - Rogue Nation,5
+2015,Peter Sciretta,9,Mad Max: Fury Road,10
+2015,Peter Sciretta,10,Pixels,0
+2015,Peter Sciretta,11,Fantastic Four,0
+2015,Peter Sciretta,12,San Andreas,1
+2015,Peter Sciretta,13,Magic Mike XXL,0
+2016,David Chen,1,Captain America 3,7
+2016,David Chen,2,Finding Dory,7
+2016,David Chen,3,The Secret Life of Pets,10
+2016,David Chen,4,Suicide Squad,10
+2016,David Chen,5,X-Men: Apocalypse,7
+2016,David Chen,6,Star Trek Beyond,7
+2016,David Chen,7,Jason Bourne,5
+2016,David Chen,8,Ghostbusters (2016),7
+2016,David Chen,9,Independence Day: Resurgence,0
+2016,David Chen,10,Ice Age: Collision Course,0
+2016,David Chen,11,The BFG,0
+2016,David Chen,12,Warcraft,0
+2016,David Chen,13,The Legend of Tarzan,1
+2016,Peter Sciretta,1,Finding Dory,13
+2016,Peter Sciretta,2,Captain America 3,10
+2016,Peter Sciretta,3,Suicide Squad,7
+2016,Peter Sciretta,4,Independence Day: Resurgence,0
+2016,Peter Sciretta,5,X-Men: Apocalypse,7
+2016,Peter Sciretta,6,Ghostbusters (2016),3
+2016,Peter Sciretta,7,The Secret Life of Pets,3
+2016,Peter Sciretta,8,Star Trek Beyond,7
+2016,Peter Sciretta,9,Alice in Wonderland 2,0
+2016,Peter Sciretta,10,Ninja Turtles 2,0
+2016,Peter Sciretta,11,Ice Age: Collision Course,0
+2016,Peter Sciretta,12,Neighbors 2,0
+2016,Peter Sciretta,13,Warcraft,0
+2016,Germain Lussier,1,Captain America 3,7
+2016,Germain Lussier,2,Finding Dory,7
+2016,Germain Lussier,3,Independence Day: Resurgence,0
+2016,Germain Lussier,4,The Secret Life of Pets,7
+2016,Germain Lussier,5,X-Men: Apocalypse,7
+2016,Germain Lussier,6,Alice in Wonderland 2,0
+2016,Germain Lussier,7,Central Intelligence,7
+2016,Germain Lussier,8,Ghostbusters (2016),7
+2016,Germain Lussier,9,Suicide Squad,3
+2016,Germain Lussier,10,Star Trek Beyond,3
+2016,Germain Lussier,11,Neighbors 2,0
+2016,Germain Lussier,12,Ninja Turtles 2,0
+2016,Germain Lussier,13,The Conjuring 2,0
+2016,Devindra Hardawar,1,Captain America 3,7
+2016,Devindra Hardawar,2,Suicide Squad,5
+2016,Devindra Hardawar,3,Angry Birds,0
+2016,Devindra Hardawar,4,X-Men: Apocalypse,5
+2016,Devindra Hardawar,5,The Secret Life of Pets,5
+2016,Devindra Hardawar,6,Finding Dory,3
+2016,Devindra Hardawar,7,Jason Bourne,5
+2016,Devindra Hardawar,8,Star Trek Beyond,7
+2016,Devindra Hardawar,9,Independence Day: Resurgence,0
+2016,Devindra Hardawar,10,Ghostbusters (2016),7
+2016,Devindra Hardawar,11,Central Intelligence,1
+2016,Devindra Hardawar,12,The BFG,0
+2016,Devindra Hardawar,13,Free State of Jones,0
+2016,Jeff Cannata,1,Captain America 3,7
+2016,Jeff Cannata,2,Finding Dory,7
+2016,Jeff Cannata,3,Ice Age: Collision Course,0
+2016,Jeff Cannata,4,X-Men: Apocalypse,5
+2016,Jeff Cannata,5,Independence Day: Resurgence,0
+2016,Jeff Cannata,6,Ninja Turtles 2,0
+2016,Jeff Cannata,7,Jason Bourne,5
+2016,Jeff Cannata,8,Star Trek Beyond,7
+2016,Jeff Cannata,9,Ghostbusters (2016),10
+2016,Jeff Cannata,10,Suicide Squad,3
+2016,Jeff Cannata,11,Neighbors 2,0
+2016,Jeff Cannata,12,Central Intelligence,1
+2016,Jeff Cannata,13,Pete's Dragon,0
+2017,Devindra Hardawar,1,Guardians of the Galaxy 2,7
+2017,Devindra Hardawar,2,Despicable Me 3,5
+2017,Devindra Hardawar,3,Spider-Man: Homecoming,10
+2017,Devindra Hardawar,4,Wonder Woman,3
+2017,Devindra Hardawar,5,Dunkirk,10
+2017,Devindra Hardawar,6,Transformers 5,3
+2017,Devindra Hardawar,7,Pirates of the Caribbean 5,7
+2017,Devindra Hardawar,8,War for the Planet of the Apes,10
+2017,Devindra Hardawar,9,The Hitman's Bodyguard,0
+2017,Devindra Hardawar,10,The Dark Tower,0
+2017,Devindra Hardawar,11,Atomic Blonde,0
+2017,Devindra Hardawar,12,The Mummy (2017),0
+2017,Devindra Hardawar,13,King Arthur,0
+2017,David Chen,1,Despicable Me 3,3
+2017,David Chen,2,Guardians of the Galaxy 2,10
+2017,David Chen,3,Spider-Man: Homecoming,10
+2017,David Chen,4,Wonder Woman,3
+2017,David Chen,5,Transformers 5,3
+2017,David Chen,6,War for the Planet of the Apes,5
+2017,David Chen,7,Cars 3,10
+2017,David Chen,8,Dunkirk,3
+2017,David Chen,9,Pirates of the Caribbean 5,3
+2017,David Chen,10,The Mummy (2017),0
+2017,David Chen,11,Alien: Covenant,0
+2017,David Chen,12,Baywatch,0
+2017,David Chen,13,Captain Underpants,0
+2017,Peter Sciretta,1,Guardians of the Galaxy 2,7
+2017,Peter Sciretta,2,Despicable Me 3,5
+2017,Peter Sciretta,3,Spider-Man: Homecoming,10
+2017,Peter Sciretta,4,War for the Planet of the Apes,3
+2017,Peter Sciretta,5,Wonder Woman,3
+2017,Peter Sciretta,6,Transformers 5,3
+2017,Peter Sciretta,7,Cars 3,10
+2017,Peter Sciretta,8,Pirates of the Caribbean 5,5
+2017,Peter Sciretta,9,The Mummy (2017),0
+2017,Peter Sciretta,10,Dunkirk,3
+2017,Peter Sciretta,11,Alien: Covenant,0
+2017,Peter Sciretta,12,The Emoji Movie,0
+2017,Peter Sciretta,13,Valerian,0
+2017,Jeff Cannata,1,Spider-Man: Homecoming,5
+2017,Jeff Cannata,2,Transformers 5,3
+2017,Jeff Cannata,3,Guardians of the Galaxy 2,7
+2017,Jeff Cannata,4,Despicable Me 3,10
+2017,Jeff Cannata,5,Cars 3,5
+2017,Jeff Cannata,6,War for the Planet of the Apes,5
+2017,Jeff Cannata,7,Pirates of the Caribbean 5,7
+2017,Jeff Cannata,8,Dunkirk,3
+2017,Jeff Cannata,9,Alien: Covenant,0
+2017,Jeff Cannata,10,The Mummy (2017),0
+2017,Jeff Cannata,11,Rough Night,0
+2017,Jeff Cannata,12,Baywatch,0
+2017,Jeff Cannata,13,Wonder Woman,1
+2017,Germain Lussier,1,Guardians of the Galaxy 2,7
+2017,Germain Lussier,2,Despicable Me 3,5
+2017,Germain Lussier,3,Transformers 5,3
+2017,Germain Lussier,4,Pirates of the Caribbean 5,5
+2017,Germain Lussier,5,Spider-Man: Homecoming,5
+2017,Germain Lussier,6,Cars 3,7
+2017,Germain Lussier,7,Wonder Woman,3
+2017,Germain Lussier,8,Alien: Covenant,0
+2017,Germain Lussier,9,Dunkirk,3
+2017,Germain Lussier,10,War for the Planet of the Apes,5
+2017,Germain Lussier,11,The Mummy (2017),0
+2017,Germain Lussier,12,Baywatch,0
+2017,Germain Lussier,13,Captain Underpants,0
+2018,David Chen,1,Avengers: Infinity War,13
+2018,David Chen,2,Jurassic World 2,7
+2018,David Chen,3,Deadpool 2,7
+2018,David Chen,4,Incredibles 2,5
+2018,David Chen,5,Solo: A Star Wars Story,7
+2018,David Chen,6,Mission: Impossible 6,7
+2018,David Chen,7,Ant-Man and the Wasp,5
+2018,David Chen,8,Skyscraper,0
+2018,David Chen,9,Ocean's 8,10
+2018,David Chen,10,Hotel Transylvania 3,5
+2018,David Chen,11,Mamma Mia 2,0
+2018,David Chen,12,The Meg,1
+2018,David Chen,13,Christopher Robin,0
+2018,Germain Lussier,1,Avengers: Infinity War,13
+2018,Germain Lussier,2,Jurassic World 2,7
+2018,Germain Lussier,3,Incredibles 2,7
+2018,Germain Lussier,4,Solo: A Star Wars Story,5
+2018,Germain Lussier,5,Deadpool 2,7
+2018,Germain Lussier,6,Mission: Impossible 6,7
+2018,Germain Lussier,7,Ocean's 8,5
+2018,Germain Lussier,8,The Meg,5
+2018,Germain Lussier,9,Ant-Man and the Wasp,3
+2018,Germain Lussier,10,Hotel Transylvania 3,5
+2018,Germain Lussier,11,Skyscraper,0
+2018,Germain Lussier,12,Mamma Mia 2,0
+2018,Germain Lussier,13,Tag,0
+2018,Peter Sciretta,1,Avengers: Infinity War,13
+2018,Peter Sciretta,2,Jurassic World 2,7
+2018,Peter Sciretta,3,Solo: A Star Wars Story,3
+2018,Peter Sciretta,4,Deadpool 2,10
+2018,Peter Sciretta,5,Incredibles 2,3
+2018,Peter Sciretta,6,Ant-Man and the Wasp,7
+2018,Peter Sciretta,7,Hotel Transylvania 3,7
+2018,Peter Sciretta,8,Ocean's 8,7
+2018,Peter Sciretta,9,Mamma Mia 2,0
+2018,Peter Sciretta,10,Mission: Impossible 6,3
+2018,Peter Sciretta,11,Skyscraper,0
+2018,Peter Sciretta,12,Action Point,0
+2018,Peter Sciretta,13,The Equalizer 2,0
+2018,Kristy Puchko,1,Avengers: Infinity War,13
+2018,Kristy Puchko,2,Jurassic World 2,7
+2018,Kristy Puchko,3,Solo: A Star Wars Story,3
+2018,Kristy Puchko,4,Deadpool 2,10
+2018,Kristy Puchko,5,Incredibles 2,3
+2018,Kristy Puchko,6,Mission: Impossible 6,7
+2018,Kristy Puchko,7,Ant-Man and the Wasp,5
+2018,Kristy Puchko,8,Teen Titans Go!,0
+2018,Kristy Puchko,9,Hotel Transylvania 3,7
+2018,Kristy Puchko,10,Mamma Mia 2,0
+2018,Kristy Puchko,11,Ocean's 8,1
+2018,Kristy Puchko,12,Skyscraper,0
+2018,Kristy Puchko,13,The Equalizer 2,0
+2018,Devindra Hardawar,1,Avengers: Infinity War,13
+2018,Devindra Hardawar,2,Jurassic World 2,7
+2018,Devindra Hardawar,3,Solo: A Star Wars Story,3
+2018,Devindra Hardawar,4,Incredibles 2,5
+2018,Devindra Hardawar,5,Deadpool 2,7
+2018,Devindra Hardawar,6,Mission: Impossible 6,7
+2018,Devindra Hardawar,7,The Meg,3
+2018,Devindra Hardawar,8,Ocean's 8,7
+2018,Devindra Hardawar,9,Ant-Man and the Wasp,3
+2018,Devindra Hardawar,10,Skyscraper,0
+2018,Devindra Hardawar,11,The First Purge,0
+2018,Devindra Hardawar,12,Sicario 2,0
+2018,Devindra Hardawar,13,Mamma Mia 2,0
+2018,Jeff Cannata,1,Avengers: Infinity War,13
+2018,Jeff Cannata,2,Jurassic World 2,7
+2018,Jeff Cannata,3,Solo: A Star Wars Story,3
+2018,Jeff Cannata,4,Incredibles 2,5
+2018,Jeff Cannata,5,Deadpool 2,7
+2018,Jeff Cannata,6,Ocean's 8,3
+2018,Jeff Cannata,7,Ant-Man and the Wasp,5
+2018,Jeff Cannata,8,Mission: Impossible 6,7
+2018,Jeff Cannata,9,Christopher Robin,0
+2018,Jeff Cannata,10,Hotel Transylvania 3,5
+2018,Jeff Cannata,11,Skyscraper,0
+2018,Jeff Cannata,12,The Equalizer 2,0
+2018,Jeff Cannata,13,Tag,0
+2019,Germain Lussier,1,Avengers: Endgame,13
+2019,Germain Lussier,2,The Lion King,10
+2019,Germain Lussier,3,Toy Story 4,10
+2019,Germain Lussier,4,Spider-Man: Far from Home,10
+2019,Germain Lussier,5,The Secret Life of Pets 2,3
+2019,Germain Lussier,6,Hobbs & Shaw,7
+2019,Germain Lussier,7,Aladdin (2019),5
+2019,Germain Lussier,8,Detective Pikachu,7
+2019,Germain Lussier,9,Men in Black International,0
+2019,Germain Lussier,10,Once Upon a Time in Hollywood,13
+2019,Germain Lussier,11,Godzilla 2,0
+2019,Germain Lussier,12,Rocketman,0
+2019,Germain Lussier,13,Dark Phoenix,0
+2019,Peter Sciretta,1,Avengers: Endgame,13
+2019,Peter Sciretta,2,The Lion King,10
+2019,Peter Sciretta,3,Toy Story 4,10
+2019,Peter Sciretta,4,Detective Pikachu,3
+2019,Peter Sciretta,5,Spider-Man: Far from Home,7
+2019,Peter Sciretta,6,Aladdin (2019),7
+2019,Peter Sciretta,7,The Secret Life of Pets 2,7
+2019,Peter Sciretta,8,Godzilla 2,0
+2019,Peter Sciretta,9,Hobbs & Shaw,5
+2019,Peter Sciretta,10,Once Upon a Time in Hollywood,13
+2019,Peter Sciretta,11,Men in Black International,0
+2019,Peter Sciretta,12,John Wick 3,1
+2019,Peter Sciretta,13,Rocketman,0
+2019,David Chen,1,Avengers: Endgame,13
+2019,David Chen,2,The Lion King,10
+2019,David Chen,3,Toy Story 4,10
+2019,David Chen,4,Spider-Man: Far from Home,10
+2019,David Chen,5,Godzilla 2,0
+2019,David Chen,6,The Secret Life of Pets 2,5
+2019,David Chen,7,Aladdin (2019),5
+2019,David Chen,8,Detective Pikachu,7
+2019,David Chen,9,Hobbs & Shaw,5
+2019,David Chen,10,Rocketman,0
+2019,David Chen,11,Men in Black International,0
+2019,David Chen,12,Yesterday,0
+2019,David Chen,13,Once Upon a Time in Hollywood,1
+2019,Jeff Cannata,1,Avengers: Endgame,13
+2019,Jeff Cannata,2,Toy Story 4,7
+2019,Jeff Cannata,3,The Lion King,7
+2019,Jeff Cannata,4,Spider-Man: Far from Home,10
+2019,Jeff Cannata,5,Hobbs & Shaw,5
+2019,Jeff Cannata,6,The Secret Life of Pets 2,5
+2019,Jeff Cannata,7,Detective Pikachu,5
+2019,Jeff Cannata,8,Aladdin (2019),3
+2019,Jeff Cannata,9,Godzilla 2,0
+2019,Jeff Cannata,10,Dark Phoenix,0
+2019,Jeff Cannata,11,Once Upon a Time in Hollywood,1
+2019,Jeff Cannata,12,Men in Black International,0
+2019,Jeff Cannata,13,John Wick 3,1
+2019,Devindra Hardawar,1,Avengers: Endgame,13
+2019,Devindra Hardawar,2,Toy Story 4,7
+2019,Devindra Hardawar,3,The Lion King,7
+2019,Devindra Hardawar,4,Aladdin (2019),7
+2019,Devindra Hardawar,5,Spider-Man: Far from Home,7
+2019,Devindra Hardawar,6,Detective Pikachu,3
+2019,Devindra Hardawar,7,The Secret Life of Pets 2,7
+2019,Devindra Hardawar,8,Men in Black International,0
+2019,Devindra Hardawar,9,Godzilla 2,0
+2019,Devindra Hardawar,10,Hobbs & Shaw,3
+2019,Devindra Hardawar,11,John Wick 3,1
+2019,Devindra Hardawar,12,Once Upon a Time in Hollywood,1
+2019,Devindra Hardawar,13,Rocketman,0
+2022,Peter Sciretta,1,Jurassic World Dominion,5
+2022,Peter Sciretta,2,Doctor Strange 2,10
+2022,Peter Sciretta,3,Thor: Love and Thunder,5
+2022,Peter Sciretta,4,Minions: The Rise of Gru,10
+2022,Peter Sciretta,5,Lightyear,3
+2022,Peter Sciretta,6,Top Gun: Maverick,3
+2022,Peter Sciretta,7,Nope,10
+2022,Peter Sciretta,8,Bullet Train,5
+2022,Peter Sciretta,9,DC League of Super-Pets,0
+2022,Peter Sciretta,10,Elvis,3
+2022,Peter Sciretta,11,The Bob's Burgers Movie,0
+2022,Peter Sciretta,12,The Black Phone,1
+2022,Peter Sciretta,13,Downton Abbey: A New Era,0
+2022,David Chen,1,Jurassic World Dominion,5
+2022,David Chen,2,Thor: Love and Thunder,3
+2022,David Chen,3,Doctor Strange 2,7
+2022,David Chen,4,Lightyear,3
+2022,David Chen,5,Minions: The Rise of Gru,7
+2022,David Chen,6,Top Gun: Maverick,3
+2022,David Chen,7,Nope,10
+2022,David Chen,8,Elvis,5
+2022,David Chen,9,Bullet Train,7
+2022,David Chen,10,Downton Abbey: A New Era,0
+2022,David Chen,11,Where the Crawdads Sing,0
+2022,David Chen,12,The Black Phone,1
+2022,David Chen,13,The Bob's Burgers Movie,0
+2022,Devindra Hardawar,1,Jurassic World Dominion,5
+2022,Devindra Hardawar,2,Doctor Strange 2,10
+2022,Devindra Hardawar,3,Thor: Love and Thunder,5
+2022,Devindra Hardawar,4,Lightyear,3
+2022,Devindra Hardawar,5,Top Gun: Maverick,3
+2022,Devindra Hardawar,6,Minions: The Rise of Gru,5
+2022,Devindra Hardawar,7,Nope,10
+2022,Devindra Hardawar,8,Bullet Train,5
+2022,Devindra Hardawar,9,Elvis,3
+2022,Devindra Hardawar,10,DC League of Super-Pets,0
+2022,Devindra Hardawar,11,The Bob's Burgers Movie,0
+2022,Devindra Hardawar,12,The Black Phone,1
+2022,Devindra Hardawar,13,Downton Abbey: A New Era,0
+2022,Germain Lussier,1,Jurassic World Dominion,5
+2022,Germain Lussier,2,Doctor Strange 2,10
+2022,Germain Lussier,3,Top Gun: Maverick,5
+2022,Germain Lussier,4,Lightyear,3
+2022,Germain Lussier,5,Thor: Love and Thunder,10
+2022,Germain Lussier,6,Nope,7
+2022,Germain Lussier,7,Minions: The Rise of Gru,3
+2022,Germain Lussier,8,Elvis,5
+2022,Germain Lussier,9,DC League of Super-Pets,0
+2022,Germain Lussier,10,Where the Crawdads Sing,0
+2022,Germain Lussier,11,Bullet Train,1
+2022,Germain Lussier,12,Downton Abbey: A New Era,0
+2022,Germain Lussier,13,The Bob's Burgers Movie,0
+2022,Jeff Cannata,1,Jurassic World Dominion,5
+2022,Jeff Cannata,2,Doctor Strange 2,10
+2022,Jeff Cannata,3,Thor: Love and Thunder,5
+2022,Jeff Cannata,4,Lightyear,3
+2022,Jeff Cannata,5,Minions: The Rise of Gru,7
+2022,Jeff Cannata,6,Nope,7
+2022,Jeff Cannata,7,Bullet Train,3
+2022,Jeff Cannata,8,Top Gun: Maverick,3
+2022,Jeff Cannata,9,DC League of Super-Pets,0
+2022,Jeff Cannata,10,Elvis,3
+2022,Jeff Cannata,11,Paws of Fury: The Legend of Hank,0
+2022,Jeff Cannata,12,The Black Phone,1
+2022,Jeff Cannata,13,Downton Abbey: A New Era,0
+2023,Peter Sciretta,1,Guardians of the Galaxy Vol. 3,5
+2023,Peter Sciretta,2,Spider-Man: Across the Spider-Verse,10
+2023,Peter Sciretta,3,The Little Mermaid,5
+2023,Peter Sciretta,4,Indiana Jones and the Dial of Destiny,3
+2023,Peter Sciretta,5,Mission: Impossible - Dead Reckoning Part One,3
+2023,Peter Sciretta,6,The Flash,0
+2023,Peter Sciretta,7,Fast X,0
+2023,Peter Sciretta,8,Barbie,3
+2023,Peter Sciretta,9,Oppenheimer,3
+2023,Peter Sciretta,10,Elemental,13
+2023,Peter Sciretta,11,Transformers: Rise of the Beasts,1
+2023,Peter Sciretta,12,Teenage Mutant Ninja Turtles: Mutant Mayhem,0
+2023,Peter Sciretta,13,Haunted Mansion,0
+2023,Devindra Hardawar,1,Guardians of the Galaxy Vol. 3,5
+2023,Devindra Hardawar,2,Indiana Jones and the Dial of Destiny,3
+2023,Devindra Hardawar,3,Spider-Man: Across the Spider-Verse,7
+2023,Devindra Hardawar,4,The Little Mermaid,7
+2023,Devindra Hardawar,5,The Flash,0
+2023,Devindra Hardawar,6,Elemental,3
+2023,Devindra Hardawar,7,Fast X,0
+2023,Devindra Hardawar,8,Mission: Impossible - Dead Reckoning Part One,10
+2023,Devindra Hardawar,9,Barbie,3
+2023,Devindra Hardawar,10,Oppenheimer,3
+2023,Devindra Hardawar,11,Transformers: Rise of the Beasts,1
+2023,Devindra Hardawar,12,Meg 2: The Trench,0
+2023,Devindra Hardawar,13,Teenage Mutant Ninja Turtles: Mutant Mayhem,0
+2023,Jeff Cannata,1,Guardians of the Galaxy Vol. 3,5
+2023,Jeff Cannata,2,Indiana Jones and the Dial of Destiny,3
+2023,Jeff Cannata,3,The Little Mermaid,5
+2023,Jeff Cannata,4,Spider-Man: Across the Spider-Verse,5
+2023,Jeff Cannata,5,Mission: Impossible - Dead Reckoning Part One,3
+2023,Jeff Cannata,6,Fast X,0
+2023,Jeff Cannata,7,The Flash,0
+2023,Jeff Cannata,8,Elemental,5
+2023,Jeff Cannata,9,Oppenheimer,3
+2023,Jeff Cannata,10,Transformers: Rise of the Beasts,7
+2023,Jeff Cannata,11,Barbie,1
+2023,Jeff Cannata,12,Teenage Mutant Ninja Turtles: Mutant Mayhem,0
+2023,Jeff Cannata,13,Haunted Mansion,0
+2023,David Chen,1,Guardians of the Galaxy Vol. 3,5
+2023,David Chen,2,Indiana Jones and the Dial of Destiny,3
+2023,David Chen,3,The Little Mermaid,5
+2023,David Chen,4,The Flash,0
+2023,David Chen,5,Mission: Impossible - Dead Reckoning Part One,3
+2023,David Chen,6,Spider-Man: Across the Spider-Verse,3
+2023,David Chen,7,Fast X,0
+2023,David Chen,8,Barbie,3
+2023,David Chen,9,Oppenheimer,3
+2023,David Chen,10,Transformers: Rise of the Beasts,7
+2023,David Chen,11,Blue Beetle,0
+2023,David Chen,12,Elemental,1
+2023,David Chen,13,Haunted Mansion,0
+2023,Germain Lussier,1,Guardians of the Galaxy Vol. 3,5
+2023,Germain Lussier,2,Indiana Jones and the Dial of Destiny,3
+2023,Germain Lussier,3,The Little Mermaid,5
+2023,Germain Lussier,4,Mission: Impossible - Dead Reckoning Part One,3
+2023,Germain Lussier,5,Spider-Man: Across the Spider-Verse,3
+2023,Germain Lussier,6,The Flash,0
+2023,Germain Lussier,7,Fast X,0
+2023,Germain Lussier,8,Barbie,3
+2023,Germain Lussier,9,Oppenheimer,3
+2023,Germain Lussier,10,Transformers: Rise of the Beasts,7
+2023,Germain Lussier,11,Elemental,1
+2023,Germain Lussier,12,Haunted Mansion,0
+2023,Germain Lussier,13,Teenage Mutant Ninja Turtles: Mutant Mayhem,0
+2024,BJ Colangelo,1,Inside Out 2,
+2024,BJ Colangelo,2,Despicable Me 4,
+2024,BJ Colangelo,3,Deadpool & Wolverine,
+2024,BJ Colangelo,4,Furiosa: A Mad Max Saga,
+2024,BJ Colangelo,5,A Quiet Place: Day One,
+2024,BJ Colangelo,6,Twisters,
+2024,BJ Colangelo,7,Kingdom of the Planet of the Apes,
+2024,BJ Colangelo,8,The Fall Guy,
+2024,BJ Colangelo,9,Bad Boys: Ride or Die,
+2024,BJ Colangelo,10,Horizon: An American Saga - Chapter 1,
+2024,BJ Colangelo,11,The Garfield Movie,
+2024,BJ Colangelo,12,Alien: Romulus,
+2024,BJ Colangelo,13,Trap,
+2024,David Chen,1,Deadpool & Wolverine,
+2024,David Chen,2,Despicable Me 4,
+2024,David Chen,3,Bad Boys: Ride or Die,
+2024,David Chen,4,Inside Out 2,
+2024,David Chen,5,Furiosa: A Mad Max Saga,
+2024,David Chen,6,A Quiet Place: Day One,
+2024,David Chen,7,Kingdom of the Planet of the Apes,
+2024,David Chen,8,The Fall Guy,
+2024,David Chen,9,IF,
+2024,David Chen,10,Twisters,
+2024,David Chen,11,Horizon: An American Saga - Chapter 1,
+2024,David Chen,12,Alien: Romulus,
+2024,David Chen,13,Trap,
+2024,Devindra Hardawar,1,Deadpool & Wolverine,
+2024,Devindra Hardawar,2,Inside Out 2,
+2024,Devindra Hardawar,3,Despicable Me 4,
+2024,Devindra Hardawar,4,Furiosa: A Mad Max Saga,
+2024,Devindra Hardawar,5,The Fall Guy,
+2024,Devindra Hardawar,6,Twisters,
+2024,Devindra Hardawar,7,Kingdom of the Planet of the Apes,
+2024,Devindra Hardawar,8,Bad Boys: Ride or Die,
+2024,Devindra Hardawar,9,Horizon: An American Saga - Chapter 1,
+2024,Devindra Hardawar,10,A Quiet Place: Day One,
+2024,Devindra Hardawar,11,MaXXXine,
+2024,Devindra Hardawar,12,Fly Me to the Moon,
+2024,Devindra Hardawar,13,The Garfield Movie,
+2024,Germain Lussier,1,Inside Out 2,
+2024,Germain Lussier,2,Deadpool & Wolverine,
+2024,Germain Lussier,3,Despicable Me 4,
+2024,Germain Lussier,4,Twisters,
+2024,Germain Lussier,5,The Fall Guy,
+2024,Germain Lussier,6,Kingdom of the Planet of the Apes,
+2024,Germain Lussier,7,Horizon: An American Saga - Chapter 1,
+2024,Germain Lussier,8,Furiosa: A Mad Max Saga,
+2024,Germain Lussier,9,A Quiet Place: Day One,
+2024,Germain Lussier,10,Bad Boys: Ride or Die,
+2024,Germain Lussier,11,The Garfield Movie,
+2024,Germain Lussier,12,IF,
+2024,Germain Lussier,13,Fly Me to the Moon,
+2024,Jeff Cannata,1,Despicable Me 4,
+2024,Jeff Cannata,2,Deadpool & Wolverine,
+2024,Jeff Cannata,3,Inside Out 2,
+2024,Jeff Cannata,4,The Fall Guy,
+2024,Jeff Cannata,5,Bad Boys: Ride or Die,
+2024,Jeff Cannata,6,Twisters,
+2024,Jeff Cannata,7,Kingdom of the Planet of the Apes,
+2024,Jeff Cannata,8,Furiosa: A Mad Max Saga,
+2024,Jeff Cannata,9,A Quiet Place: Day One,
+2024,Jeff Cannata,10,Horizon: An American Saga - Chapter 1,
+2024,Jeff Cannata,11,The Garfield Movie,
+2024,Jeff Cannata,12,IF,
+2024,Jeff Cannata,13,Alien: Romulus,
+2024,Peter Sciretta,1,Inside Out 2,
+2024,Peter Sciretta,2,Deadpool & Wolverine,
+2024,Peter Sciretta,3,Despicable Me 4,
+2024,Peter Sciretta,4,Bad Boys: Ride or Die,
+2024,Peter Sciretta,5,The Garfield Movie,
+2024,Peter Sciretta,6,Kingdom of the Planet of the Apes,
+2024,Peter Sciretta,7,Furiosa: A Mad Max Saga,
+2024,Peter Sciretta,8,IF,
+2024,Peter Sciretta,9,Twisters,
+2024,Peter Sciretta,10,A Quiet Place: Day One,
+2024,Peter Sciretta,11,The Fall Guy,
+2024,Peter Sciretta,12,Alien: Romulus,
+2024,Peter Sciretta,13,Horizon: An American Saga - Chapter 1,
