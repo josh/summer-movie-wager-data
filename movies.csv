@@ -1,62 +1,62 @@
-year,title,imdb_id,mojo_id
-2024,1992,tt4959750,rl1916895233
-2024,A Quiet Place: Day One,tt13433802,rl545096449
-2024,Alien: Romulus,tt18412256,rl654017281
-2024,Babes,tt21276958,rl3328147457
-2024,Back to Black,tt21261712,rl4114907137
-2024,Bad Boys: Ride or Die,tt4919268,rl1386447617
-2024,Banel & Adama,tt26256406,rl257196033
-2024,Blink Twice,tt14858658,rl4082008065
-2024,Blue Lock -Episode Nagi-,tt28671146,rl1180794881
-2024,Borderlands,tt4978420,rl3466691329
-2024,Colleen Hoover’s It Ends With Us,tt10655524,rl3818881793
-2024,Cora Bora,tt20221208,rl1834057729
-2024,Cuckoo,tt12349832,rl693927937
-2024,Deadpool and Wolverine,tt6263850,rl4108092161
-2024,Despicable Me 4,tt7510222,rl2603516673
-2024,Dìdi,tt30319503,rl4266885121
-2024,Evil Does Not Exist,tt28490044,rl3696263169
-2024,Fly Me to the Moon,tt1896747,rl810057729
-2024,Furiosa: A Mad Max Saga,tt12037194,rl627344129
-2024,Green Border,tt27722543,rl5537793
-2024,Haikyu!! The Dumpster Battle,tt30476486,rl1130463233
-2024,Harold and the Purple Crayon,tt1609486,rl2031190785
-2024,Horizon An American Saga Chapter 2,tt27665778,rl3266413313
-2024,Horizon: An American Saga Chapter 1,tt17505010,rl3484517121
-2024,I Saw the TV Glow,tt15574270,rl660111361
-2024,If,tt11152168,rl3731915521
-2024,Inside Out 2,tt22022452,rl3638199041
-2024,Janet Planet,tt28366692,rl3898507265
-2024,Jeanne du Barry,tt17277414,rl1733918721
-2024,June Zero,tt18834372,rl1078820865
-2024,Kill,tt28259207,rl3948838913
-2024,Kinds of Kindness,tt22408160,rl1784381441
-2024,Kingdom of the Planet of the Apes,tt11389872,rl1678869249
-2024,Kraven the Hunter,tt8790086,rl259556097
-2024,Last Summer,tt14550346,rl1800962049
-2024,Longlegs,tt23468450,rl1733394433
-2024,Lost Soulz,tt27507837,rl240418817
-2024,MaXXXine,tt22048412,rl4208624385
-2024,Mars Express,tt26915336,rl3026157569
-2024,Much Ado About Dying,tt22873448,rl2354085889
-2024,National Anthem,tt22803220,rl2136178689
-2024,Poolman,tt18077924,rl1851162625
-2024,Sing Sing,tt28479262,rl794591233
-2024,Someday We’ll Tell Each Other Everything,tt21654390,rl3596255233
-2024,Tarot,tt14088510,rl3080028929
-2024,Thabo and the Rhino Case,tt22755734,rl558858241
-2024,The Bikeriders,tt21454134,rl620462849
-2024,The Crow,tt1340094,rl3110174721
-2024,The Fall Guy,tt1684562,rl752190209
-2024,The Fire Inside,tt6133444,rl2778432257
-2024,The Forge,tt26731216,rl1795064577
-2024,The Garfield Movie,tt5779228,rl382960385
-2024,The Last Stop in Yuma County,tt11674730,rl509509633
-2024,The Strangers: Chapter 1,tt22050754,rl793346049
-2024,The Watchers,tt26736843,rl2180940545
-2024,Touch,tt23468836,rl373719041
-2024,Trap,tt26753003,rl562070273
-2024,Tuesday,tt14682800,rl1063223297
-2024,Twisters,tt12584954,rl1324712705
-2024,Wildcat,tt26442871,rl2320793601
-2024,Young Woman and the Sea,tt5177114,rl189890561
+year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,release_date,budget,box_office_gross
+2024,1992,tt4959750,rl1916895233,,,,,
+2024,A Quiet Place: Day One,tt13433802,rl545096449,,,,,
+2024,Alien: Romulus,tt18412256,rl654017281,,,,,
+2024,Babes,tt21276958,rl3328147457,,,,,
+2024,Back to Black,tt21261712,rl4114907137,,,,,
+2024,Bad Boys: Ride or Die,tt4919268,rl1386447617,,,,,
+2024,Banel & Adama,tt26256406,rl257196033,,,,,
+2024,Blink Twice,tt14858658,rl4082008065,,,,,
+2024,Blue Lock -Episode Nagi-,tt28671146,rl1180794881,,,,,
+2024,Borderlands,tt4978420,rl3466691329,,,,,
+2024,Colleen Hoover’s It Ends With Us,tt10655524,rl3818881793,,,,,
+2024,Cora Bora,tt20221208,rl1834057729,,,,,
+2024,Cuckoo,tt12349832,rl693927937,,,,,
+2024,Deadpool and Wolverine,tt6263850,rl4108092161,,,,,
+2024,Despicable Me 4,tt7510222,rl2603516673,,,,,
+2024,Dìdi,tt30319503,rl4266885121,,,,,
+2024,Evil Does Not Exist,tt28490044,rl3696263169,,,,,
+2024,Fly Me to the Moon,tt1896747,rl810057729,,,,,
+2024,Furiosa: A Mad Max Saga,tt12037194,rl627344129,,,,,
+2024,Green Border,tt27722543,rl5537793,,,,,
+2024,Haikyu!! The Dumpster Battle,tt30476486,rl1130463233,,,,,
+2024,Harold and the Purple Crayon,tt1609486,rl2031190785,,,,,
+2024,Horizon An American Saga Chapter 2,tt27665778,rl3266413313,,,,,
+2024,Horizon: An American Saga Chapter 1,tt17505010,rl3484517121,,,,,
+2024,I Saw the TV Glow,tt15574270,rl660111361,,,,,
+2024,If,tt11152168,rl3731915521,,,,,
+2024,Inside Out 2,tt22022452,rl3638199041,,,,,
+2024,Janet Planet,tt28366692,rl3898507265,,,,,
+2024,Jeanne du Barry,tt17277414,rl1733918721,,,,,
+2024,June Zero,tt18834372,rl1078820865,,,,,
+2024,Kill,tt28259207,rl3948838913,,,,,
+2024,Kinds of Kindness,tt22408160,rl1784381441,,,,,
+2024,Kingdom of the Planet of the Apes,tt11389872,rl1678869249,,,,,
+2024,Kraven the Hunter,tt8790086,rl259556097,,,,,
+2024,Last Summer,tt14550346,rl1800962049,,,,,
+2024,Longlegs,tt23468450,rl1733394433,,,,,
+2024,Lost Soulz,tt27507837,rl240418817,,,,,
+2024,MaXXXine,tt22048412,rl4208624385,,,,,
+2024,Mars Express,tt26915336,rl3026157569,,,,,
+2024,Much Ado About Dying,tt22873448,rl2354085889,,,,,
+2024,National Anthem,tt22803220,rl2136178689,,,,,
+2024,Poolman,tt18077924,rl1851162625,,,,,
+2024,Sing Sing,tt28479262,rl794591233,,,,,
+2024,Someday We’ll Tell Each Other Everything,tt21654390,rl3596255233,,,,,
+2024,Tarot,tt14088510,rl3080028929,,,,,
+2024,Thabo and the Rhino Case,tt22755734,rl558858241,,,,,
+2024,The Bikeriders,tt21454134,rl620462849,,,,,
+2024,The Crow,tt1340094,rl3110174721,,,,,
+2024,The Fall Guy,tt1684562,rl752190209,,,,,
+2024,The Fire Inside,tt6133444,rl2778432257,,,,,
+2024,The Forge,tt26731216,rl1795064577,,,,,
+2024,The Garfield Movie,tt5779228,rl382960385,,,,,
+2024,The Last Stop in Yuma County,tt11674730,rl509509633,,,,,
+2024,The Strangers: Chapter 1,tt22050754,rl793346049,,,,,
+2024,The Watchers,tt26736843,rl2180940545,,,,,
+2024,Touch,tt23468836,rl373719041,,,,,
+2024,Trap,tt26753003,rl562070273,,,,,
+2024,Tuesday,tt14682800,rl1063223297,,,,,
+2024,Twisters,tt12584954,rl1324712705,,,,,
+2024,Wildcat,tt26442871,rl2320793601,,,,,
+2024,Young Woman and the Sea,tt5177114,rl189890561,,,,,
