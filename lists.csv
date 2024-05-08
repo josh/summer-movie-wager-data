@@ -1,17 +1,4 @@
 year,player_name,imdb_id,movie_title,position,offset,score
-2007,Dan Trachtenberg,,Transformers,1,,5
-2007,Dan Trachtenberg,,Spider-Man 3,2,,7
-2007,Dan Trachtenberg,,Shrek the Third,3,,7
-2007,Dan Trachtenberg,,Pirates of the Caribbean 3,4,,10
-2007,Dan Trachtenberg,,Ratatouille,5,,5
-2007,Dan Trachtenberg,,Live Free or Die Hard,6,,3
-2007,Dan Trachtenberg,,Harry Potter / Phoenix,7,,5
-2007,Dan Trachtenberg,,Evan Almighty,8,,0
-2007,Dan Trachtenberg,,The Simpsons Movie,9,,7
-2007,Dan Trachtenberg,,Fantastic Four 2,10,,0
-2007,Dan Trachtenberg,,Rush Hour 3,11,,0
-2007,Dan Trachtenberg,,I Now Pronounce You Chuck and Larry,12,,0
-2007,Dan Trachtenberg,,Surf's Up,13,,0
 2007,Alex Albrecht,,Pirates of the Caribbean 3,1,,3
 2007,Alex Albrecht,,Harry Potter / Phoenix,2,,3
 2007,Alex Albrecht,,Spider-Man 3,3,,5
@@ -25,6 +12,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2007,Alex Albrecht,,Ocean's Thirteen,11,,0
 2007,Alex Albrecht,,28 Weeks Later,12,,0
 2007,Alex Albrecht,,Day Watch,13,,0
+2007,Dan Trachtenberg,,Transformers,1,,5
+2007,Dan Trachtenberg,,Spider-Man 3,2,,7
+2007,Dan Trachtenberg,,Shrek the Third,3,,7
+2007,Dan Trachtenberg,,Pirates of the Caribbean 3,4,,10
+2007,Dan Trachtenberg,,Ratatouille,5,,5
+2007,Dan Trachtenberg,,Live Free or Die Hard,6,,3
+2007,Dan Trachtenberg,,Harry Potter / Phoenix,7,,5
+2007,Dan Trachtenberg,,Evan Almighty,8,,0
+2007,Dan Trachtenberg,,The Simpsons Movie,9,,7
+2007,Dan Trachtenberg,,Fantastic Four 2,10,,0
+2007,Dan Trachtenberg,,Rush Hour 3,11,,0
+2007,Dan Trachtenberg,,I Now Pronounce You Chuck and Larry,12,,0
+2007,Dan Trachtenberg,,Surf's Up,13,,0
 2007,Jeff Cannata,,Pirates of the Caribbean 3,1,,3
 2007,Jeff Cannata,,Shrek the Third,2,,10
 2007,Jeff Cannata,,Spider-Man 3,3,,5
@@ -38,19 +38,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2007,Jeff Cannata,,The Bourne Ultimatum,11,,1
 2007,Jeff Cannata,,Hostel Part II,12,,0
 2007,Jeff Cannata,,Nancy Drew,13,,0
-2008,Jeff Cannata,,Indiana Jones 4,1,,5
-2008,Jeff Cannata,,WALL-E,2,,3
-2008,Jeff Cannata,,Iron Man,3,,7
-2008,Jeff Cannata,,The Dark Knight,4,,3
-2008,Jeff Cannata,,Get Smart,5,,0
-2008,Jeff Cannata,,Kung Fu Panda,6,,10
-2008,Jeff Cannata,,Hancock,7,,3
-2008,Jeff Cannata,,Sex and the City,8,,7
-2008,Jeff Cannata,,Pineapple Express,9,,0
-2008,Jeff Cannata,,Speed Racer,10,,0
-2008,Jeff Cannata,,Mamma Mia!,11,,1
-2008,Jeff Cannata,,You Don't Mess with the Zohan,12,,0
-2008,Jeff Cannata,,The Foot Fist Way,13,,0
 2008,Alex Albrecht,,Iron Man,1,,7
 2008,Alex Albrecht,,Indiana Jones 4,2,,7
 2008,Alex Albrecht,,WALL-E,3,,5
@@ -77,19 +64,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2008,Dan Trachtenberg,,Kung Fu Panda,11,,1
 2008,Dan Trachtenberg,,Sex and the City,12,,1
 2008,Dan Trachtenberg,,Mamma Mia!,13,,1
-2009,Jeff Cannata,,Transformers 2,1,,13
-2009,Jeff Cannata,,Terminator Salvation,2,,0
-2009,Jeff Cannata,,Star Trek,3,,5
-2009,Jeff Cannata,,Harry Potter 6,4,,5
-2009,Jeff Cannata,,Up,5,,5
-2009,Jeff Cannata,,X-Men Origins: Wolverine,6,,7
-2009,Jeff Cannata,,Angels & Demons,7,,0
-2009,Jeff Cannata,,G.I. Joe: The Rise of Cobra,8,,5
-2009,Jeff Cannata,,Night at the Museum II,9,,7
-2009,Jeff Cannata,,Bruno,10,,0
-2009,Jeff Cannata,,Ice Age 3,11,,1
-2009,Jeff Cannata,,Funny People,12,,0
-2009,Jeff Cannata,,Year One,13,,0
+2008,Jeff Cannata,,Indiana Jones 4,1,,5
+2008,Jeff Cannata,,WALL-E,2,,3
+2008,Jeff Cannata,,Iron Man,3,,7
+2008,Jeff Cannata,,The Dark Knight,4,,3
+2008,Jeff Cannata,,Get Smart,5,,0
+2008,Jeff Cannata,,Kung Fu Panda,6,,10
+2008,Jeff Cannata,,Hancock,7,,3
+2008,Jeff Cannata,,Sex and the City,8,,7
+2008,Jeff Cannata,,Pineapple Express,9,,0
+2008,Jeff Cannata,,Speed Racer,10,,0
+2008,Jeff Cannata,,Mamma Mia!,11,,1
+2008,Jeff Cannata,,You Don't Mess with the Zohan,12,,0
+2008,Jeff Cannata,,The Foot Fist Way,13,,0
 2009,Alex Albrecht,,Harry Potter 6,1,,7
 2009,Alex Albrecht,,Star Trek,2,,3
 2009,Alex Albrecht,,Angels & Demons,3,,0
@@ -116,58 +103,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2009,Dan Trachtenberg,,Land of the Lost,11,,0
 2009,Dan Trachtenberg,,Funny People,12,,0
 2009,Dan Trachtenberg,,Night at the Museum II,13,,1
-2010,Peter Sciretta,,Iron Man 2,1,,7
-2010,Peter Sciretta,,Toy Story 3,2,,7
-2010,Peter Sciretta,,The Twilight Saga: Eclipse,3,,10
-2010,Peter Sciretta,,Sex and the City 2,4,,0
-2010,Peter Sciretta,,Shrek Forever After,5,,7
-2010,Peter Sciretta,,Inception,6,,5
-2010,Peter Sciretta,,Prince of Persia,7,,0
-2010,Peter Sciretta,,The Last Airbender,8,,7
-2010,Peter Sciretta,,The Karate Kid,9,,5
-2010,Peter Sciretta,,Despicable Me,10,,3
-2010,Peter Sciretta,,The A-Team,11,,0
-2010,Peter Sciretta,,The Sorcerer's Apprentice,12,,0
-2010,Peter Sciretta,,Knight & Day,13,,0
-2010,Jeff Cannata,,Toy Story 3,1,,13
-2010,Jeff Cannata,,The Twilight Saga: Eclipse,2,,7
-2010,Jeff Cannata,,Shrek Forever After,3,,3
-2010,Jeff Cannata,,Iron Man 2,4,,5
-2010,Jeff Cannata,,The Last Airbender,5,,3
-2010,Jeff Cannata,,Knight & Day,6,,0
-2010,Jeff Cannata,,Prince of Persia,7,,0
-2010,Jeff Cannata,,Sex and the City 2,8,,0
-2010,Jeff Cannata,,Robin Hood,9,,0
-2010,Jeff Cannata,,Despicable Me,10,,3
-2010,Jeff Cannata,,The Karate Kid,11,,1
-2010,Jeff Cannata,,Inception,12,,1
-2010,Jeff Cannata,,Predators,13,,0
-2010,David Chen,,Iron Man 2,1,,7
-2010,David Chen,,Shrek Forever After,2,,3
-2010,David Chen,,The Last Airbender,3,,3
-2010,David Chen,,The Twilight Saga: Eclipse,4,,7
-2010,David Chen,,Toy Story 3,5,,3
-2010,David Chen,,Inception,6,,5
-2010,David Chen,,Sex and the City 2,7,,0
-2010,David Chen,,Knight & Day,8,,0
-2010,David Chen,,The Karate Kid,9,,5
-2010,David Chen,,The A-Team,10,,0
-2010,David Chen,,The Sorcerer's Apprentice,11,,0
-2010,David Chen,,Robin Hood,12,,0
-2010,David Chen,,Predators,13,,0
-2010,Russ Fischer,,Iron Man 2,1,,7
-2010,Russ Fischer,,The Twilight Saga: Eclipse,2,,7
-2010,Russ Fischer,,The Last Airbender,3,,3
-2010,Russ Fischer,,Toy Story 3,4,,3
-2010,Russ Fischer,,Sex and the City 2,5,,0
-2010,Russ Fischer,,The Sorcerer's Apprentice,6,,0
-2010,Russ Fischer,,Knight & Day,7,,0
-2010,Russ Fischer,,Inception,8,,3
-2010,Russ Fischer,,The Karate Kid,9,,5
-2010,Russ Fischer,,The A-Team,10,,0
-2010,Russ Fischer,,Scott Pilgrim vs. the World,11,,0
-2010,Russ Fischer,,The Other Guys,12,,0
-2010,Russ Fischer,,Eat Pray Love,13,,0
+2009,Jeff Cannata,,Transformers 2,1,,13
+2009,Jeff Cannata,,Terminator Salvation,2,,0
+2009,Jeff Cannata,,Star Trek,3,,5
+2009,Jeff Cannata,,Harry Potter 6,4,,5
+2009,Jeff Cannata,,Up,5,,5
+2009,Jeff Cannata,,X-Men Origins: Wolverine,6,,7
+2009,Jeff Cannata,,Angels & Demons,7,,0
+2009,Jeff Cannata,,G.I. Joe: The Rise of Cobra,8,,5
+2009,Jeff Cannata,,Night at the Museum II,9,,7
+2009,Jeff Cannata,,Bruno,10,,0
+2009,Jeff Cannata,,Ice Age 3,11,,1
+2009,Jeff Cannata,,Funny People,12,,0
+2009,Jeff Cannata,,Year One,13,,0
 2010,Alex Albrecht,,Shrek Forever After,1,,3
 2010,Alex Albrecht,,Prince of Persia,2,,0
 2010,Alex Albrecht,,MacGruber,3,,0
@@ -194,6 +142,58 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2010,Dan Trachtenberg,,Inception,11,,1
 2010,Dan Trachtenberg,,The Sorcerer's Apprentice,12,,0
 2010,Dan Trachtenberg,,The Other Guys,13,,0
+2010,David Chen,,Iron Man 2,1,,7
+2010,David Chen,,Shrek Forever After,2,,3
+2010,David Chen,,The Last Airbender,3,,3
+2010,David Chen,,The Twilight Saga: Eclipse,4,,7
+2010,David Chen,,Toy Story 3,5,,3
+2010,David Chen,,Inception,6,,5
+2010,David Chen,,Sex and the City 2,7,,0
+2010,David Chen,,Knight & Day,8,,0
+2010,David Chen,,The Karate Kid,9,,5
+2010,David Chen,,The A-Team,10,,0
+2010,David Chen,,The Sorcerer's Apprentice,11,,0
+2010,David Chen,,Robin Hood,12,,0
+2010,David Chen,,Predators,13,,0
+2010,Jeff Cannata,,Toy Story 3,1,,13
+2010,Jeff Cannata,,The Twilight Saga: Eclipse,2,,7
+2010,Jeff Cannata,,Shrek Forever After,3,,3
+2010,Jeff Cannata,,Iron Man 2,4,,5
+2010,Jeff Cannata,,The Last Airbender,5,,3
+2010,Jeff Cannata,,Knight & Day,6,,0
+2010,Jeff Cannata,,Prince of Persia,7,,0
+2010,Jeff Cannata,,Sex and the City 2,8,,0
+2010,Jeff Cannata,,Robin Hood,9,,0
+2010,Jeff Cannata,,Despicable Me,10,,3
+2010,Jeff Cannata,,The Karate Kid,11,,1
+2010,Jeff Cannata,,Inception,12,,1
+2010,Jeff Cannata,,Predators,13,,0
+2010,Peter Sciretta,,Iron Man 2,1,,7
+2010,Peter Sciretta,,Toy Story 3,2,,7
+2010,Peter Sciretta,,The Twilight Saga: Eclipse,3,,10
+2010,Peter Sciretta,,Sex and the City 2,4,,0
+2010,Peter Sciretta,,Shrek Forever After,5,,7
+2010,Peter Sciretta,,Inception,6,,5
+2010,Peter Sciretta,,Prince of Persia,7,,0
+2010,Peter Sciretta,,The Last Airbender,8,,7
+2010,Peter Sciretta,,The Karate Kid,9,,5
+2010,Peter Sciretta,,Despicable Me,10,,3
+2010,Peter Sciretta,,The A-Team,11,,0
+2010,Peter Sciretta,,The Sorcerer's Apprentice,12,,0
+2010,Peter Sciretta,,Knight & Day,13,,0
+2010,Russ Fischer,,Iron Man 2,1,,7
+2010,Russ Fischer,,The Twilight Saga: Eclipse,2,,7
+2010,Russ Fischer,,The Last Airbender,3,,3
+2010,Russ Fischer,,Toy Story 3,4,,3
+2010,Russ Fischer,,Sex and the City 2,5,,0
+2010,Russ Fischer,,The Sorcerer's Apprentice,6,,0
+2010,Russ Fischer,,Knight & Day,7,,0
+2010,Russ Fischer,,Inception,8,,3
+2010,Russ Fischer,,The Karate Kid,9,,5
+2010,Russ Fischer,,The A-Team,10,,0
+2010,Russ Fischer,,Scott Pilgrim vs. the World,11,,0
+2010,Russ Fischer,,The Other Guys,12,,0
+2010,Russ Fischer,,Eat Pray Love,13,,0
 2011,Alex Albrecht,,Pirates of the Caribbean 4,1,,3
 2011,Alex Albrecht,,Transformers 3,2,,10
 2011,Alex Albrecht,,Harry Potter / Deathly Hallows (P2),3,,5
@@ -258,30 +258,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2012,Alex Albrecht,,G.I. Joe: Retaliation,10,,0
 2012,Alex Albrecht,,Prometheus,11,,1
 2012,Alex Albrecht,,Abraham Lincoln,12,,0
-2012,Jeff Cannata,,The Avengers,1,,13
-2012,Jeff Cannata,,The Dark Knight Rises,2,,10
-2012,Jeff Cannata,,Ice Age: Continental Drift,3,,3
-2012,Jeff Cannata,,The Amazing Spider-Man,4,,7
-2012,Jeff Cannata,,Madagascar 3,5,,7
-2012,Jeff Cannata,,MIB 3,6,,7
-2012,Jeff Cannata,,Brave,7,,3
-2012,Jeff Cannata,,Prometheus,8,,7
-2012,Jeff Cannata,,The Campaign,9,,0
-2012,Jeff Cannata,,The Bourne Legacy,10,,0
-2012,Jeff Cannata,,Snow White and the Huntsman,11,,1
-2012,Germain Lussier,,The Dark Knight Rises,1,,7
-2012,Germain Lussier,,The Avengers,2,,7
-2012,Germain Lussier,,The Amazing Spider-Man,3,,10
-2012,Germain Lussier,,MIB 3,4,,3
-2012,Germain Lussier,,Brave,5,,7
-2012,Germain Lussier,,G.I. Joe: Retaliation,6,,0
-2012,Germain Lussier,,Madagascar 3,7,,7
-2012,Germain Lussier,,Prometheus,8,,5
-2012,Germain Lussier,,Battleship,9,,0
-2012,Germain Lussier,,Snow White and the Huntsman,10,,5
-2012,Germain Lussier,,That's My Boy,11,,0
-2012,Germain Lussier,,Ice Age: Continental Drift,12,,1
-2012,Germain Lussier,,The Watch,13,,0
 2012,Dan Trachtenberg,,The Dark Knight Rises,1,,7
 2012,Dan Trachtenberg,,The Avengers,2,,7
 2012,Dan Trachtenberg,,G.I. Joe: Retaliation,3,,0
@@ -295,6 +271,30 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2012,Dan Trachtenberg,,MIB 3,11,,1
 2012,Dan Trachtenberg,,Battleship,12,,0
 2012,Dan Trachtenberg,,The Bourne Legacy,13,,0
+2012,Germain Lussier,,The Dark Knight Rises,1,,7
+2012,Germain Lussier,,The Avengers,2,,7
+2012,Germain Lussier,,The Amazing Spider-Man,3,,10
+2012,Germain Lussier,,MIB 3,4,,3
+2012,Germain Lussier,,Brave,5,,7
+2012,Germain Lussier,,G.I. Joe: Retaliation,6,,0
+2012,Germain Lussier,,Madagascar 3,7,,7
+2012,Germain Lussier,,Prometheus,8,,5
+2012,Germain Lussier,,Battleship,9,,0
+2012,Germain Lussier,,Snow White and the Huntsman,10,,5
+2012,Germain Lussier,,That's My Boy,11,,0
+2012,Germain Lussier,,Ice Age: Continental Drift,12,,1
+2012,Germain Lussier,,The Watch,13,,0
+2012,Jeff Cannata,,The Avengers,1,,13
+2012,Jeff Cannata,,The Dark Knight Rises,2,,10
+2012,Jeff Cannata,,Ice Age: Continental Drift,3,,3
+2012,Jeff Cannata,,The Amazing Spider-Man,4,,7
+2012,Jeff Cannata,,Madagascar 3,5,,7
+2012,Jeff Cannata,,MIB 3,6,,7
+2012,Jeff Cannata,,Brave,7,,3
+2012,Jeff Cannata,,Prometheus,8,,7
+2012,Jeff Cannata,,The Campaign,9,,0
+2012,Jeff Cannata,,The Bourne Legacy,10,,0
+2012,Jeff Cannata,,Snow White and the Huntsman,11,,1
 2012,Peter Sciretta,,The Dark Knight Rises,1,,7
 2012,Peter Sciretta,,The Avengers,2,,7
 2012,Peter Sciretta,,MIB 3,3,,3
@@ -308,6 +308,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2012,Peter Sciretta,,Snow White and the Huntsman,11,,1
 2012,Peter Sciretta,,Dark Shadows,12,,0
 2012,Peter Sciretta,,Rock of Ages,13,,0
+2013,Germain Lussier,,Man of Steel,1,,5
+2013,Germain Lussier,,Iron Man 3,2,,7
+2013,Germain Lussier,,Monsters University,3,,7
+2013,Germain Lussier,,Fast & Furious 6,4,,7
+2013,Germain Lussier,,Pacific Rim,5,,0
+2013,Germain Lussier,,The Hangover Part III,6,,0
+2013,Germain Lussier,,Despicable Me 2,7,,3
+2013,Germain Lussier,,The Lone Ranger,8,,0
+2013,Germain Lussier,,Star Trek Into Darkness,9,,3
+2013,Germain Lussier,,Epic,10,,0
+2013,Germain Lussier,,The Smurfs 2,11,,0
+2013,Germain Lussier,,The Internship,12,,0
+2013,Germain Lussier,,White House Down,13,,0
 2013,Jeff Cannata,,Iron Man 3,1,,13
 2013,Jeff Cannata,,Monsters University,2,,5
 2013,Jeff Cannata,,Man of Steel,3,,10
@@ -334,32 +347,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2013,Peter Sciretta,,Planes,11,,0
 2013,Peter Sciretta,,Elysium,12,,0
 2013,Peter Sciretta,,White House Down,13,,0
-2013,Germain Lussier,,Man of Steel,1,,5
-2013,Germain Lussier,,Iron Man 3,2,,7
-2013,Germain Lussier,,Monsters University,3,,7
-2013,Germain Lussier,,Fast & Furious 6,4,,7
-2013,Germain Lussier,,Pacific Rim,5,,0
-2013,Germain Lussier,,The Hangover Part III,6,,0
-2013,Germain Lussier,,Despicable Me 2,7,,3
-2013,Germain Lussier,,The Lone Ranger,8,,0
-2013,Germain Lussier,,Star Trek Into Darkness,9,,3
-2013,Germain Lussier,,Epic,10,,0
-2013,Germain Lussier,,The Smurfs 2,11,,0
-2013,Germain Lussier,,The Internship,12,,0
-2013,Germain Lussier,,White House Down,13,,0
-2014,Peter Sciretta,,How to Train Your Dragon 2,1,,3
-2014,Peter Sciretta,,Godzilla,2,,3
-2014,Peter Sciretta,,Transformers 4,3,,7
-2014,Peter Sciretta,,The Amazing Spider-Man 2,4,,5
-2014,Peter Sciretta,,Dawn of the Planet of the Apes,5,,10
-2014,Peter Sciretta,,X-Men: Days of Future Past,6,,5
-2014,Peter Sciretta,,Guardians of the Galaxy,7,,3
-2014,Peter Sciretta,,Maleficent,8,,3
-2014,Peter Sciretta,,22 Jump Street,9,,7
-2014,Peter Sciretta,,Ninja Turtles,10,,13
-2014,Peter Sciretta,,Neighbors,11,,0
-2014,Peter Sciretta,,Edge of Tomorrow,12,,0
-2014,Peter Sciretta,,Hercules,13,,0
 2014,Germain Lussier,,How to Train Your Dragon 2,1,,3
 2014,Germain Lussier,,Transformers 4,2,,10
 2014,Germain Lussier,,The Amazing Spider-Man 2,3,,3
@@ -386,6 +373,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2014,Jeff Cannata,,Guardians of the Galaxy,11,,1
 2014,Jeff Cannata,,Planes: Fire & Rescue,12,,0
 2014,Jeff Cannata,,Jupiter Ascending,13,,0
+2014,Peter Sciretta,,How to Train Your Dragon 2,1,,3
+2014,Peter Sciretta,,Godzilla,2,,3
+2014,Peter Sciretta,,Transformers 4,3,,7
+2014,Peter Sciretta,,The Amazing Spider-Man 2,4,,5
+2014,Peter Sciretta,,Dawn of the Planet of the Apes,5,,10
+2014,Peter Sciretta,,X-Men: Days of Future Past,6,,5
+2014,Peter Sciretta,,Guardians of the Galaxy,7,,3
+2014,Peter Sciretta,,Maleficent,8,,3
+2014,Peter Sciretta,,22 Jump Street,9,,7
+2014,Peter Sciretta,,Ninja Turtles,10,,13
+2014,Peter Sciretta,,Neighbors,11,,0
+2014,Peter Sciretta,,Edge of Tomorrow,12,,0
+2014,Peter Sciretta,,Hercules,13,,0
 2015,David Chen,,Avengers: Age of Ultron,1,,7
 2015,David Chen,,Inside Out,2,,7
 2015,David Chen,,Minions,3,,7
@@ -451,32 +451,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2016,David Chen,,The BFG,11,,0
 2016,David Chen,,Warcraft,12,,0
 2016,David Chen,,The Legend of Tarzan,13,,1
-2016,Peter Sciretta,,Finding Dory,1,,13
-2016,Peter Sciretta,,Captain America 3,2,,10
-2016,Peter Sciretta,,Suicide Squad,3,,7
-2016,Peter Sciretta,,Independence Day: Resurgence,4,,0
-2016,Peter Sciretta,,X-Men: Apocalypse,5,,7
-2016,Peter Sciretta,,Ghostbusters (2016),6,,3
-2016,Peter Sciretta,,The Secret Life of Pets,7,,3
-2016,Peter Sciretta,,Star Trek Beyond,8,,7
-2016,Peter Sciretta,,Alice in Wonderland 2,9,,0
-2016,Peter Sciretta,,Ninja Turtles 2,10,,0
-2016,Peter Sciretta,,Ice Age: Collision Course,11,,0
-2016,Peter Sciretta,,Neighbors 2,12,,0
-2016,Peter Sciretta,,Warcraft,13,,0
-2016,Germain Lussier,,Captain America 3,1,,7
-2016,Germain Lussier,,Finding Dory,2,,7
-2016,Germain Lussier,,Independence Day: Resurgence,3,,0
-2016,Germain Lussier,,The Secret Life of Pets,4,,7
-2016,Germain Lussier,,X-Men: Apocalypse,5,,7
-2016,Germain Lussier,,Alice in Wonderland 2,6,,0
-2016,Germain Lussier,,Central Intelligence,7,,7
-2016,Germain Lussier,,Ghostbusters (2016),8,,7
-2016,Germain Lussier,,Suicide Squad,9,,3
-2016,Germain Lussier,,Star Trek Beyond,10,,3
-2016,Germain Lussier,,Neighbors 2,11,,0
-2016,Germain Lussier,,Ninja Turtles 2,12,,0
-2016,Germain Lussier,,The Conjuring 2,13,,0
 2016,Devindra Hardawar,,Captain America 3,1,,7
 2016,Devindra Hardawar,,Suicide Squad,2,,5
 2016,Devindra Hardawar,,Angry Birds,3,,0
@@ -490,6 +464,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2016,Devindra Hardawar,,Central Intelligence,11,,1
 2016,Devindra Hardawar,,The BFG,12,,0
 2016,Devindra Hardawar,,Free State of Jones,13,,0
+2016,Germain Lussier,,Captain America 3,1,,7
+2016,Germain Lussier,,Finding Dory,2,,7
+2016,Germain Lussier,,Independence Day: Resurgence,3,,0
+2016,Germain Lussier,,The Secret Life of Pets,4,,7
+2016,Germain Lussier,,X-Men: Apocalypse,5,,7
+2016,Germain Lussier,,Alice in Wonderland 2,6,,0
+2016,Germain Lussier,,Central Intelligence,7,,7
+2016,Germain Lussier,,Ghostbusters (2016),8,,7
+2016,Germain Lussier,,Suicide Squad,9,,3
+2016,Germain Lussier,,Star Trek Beyond,10,,3
+2016,Germain Lussier,,Neighbors 2,11,,0
+2016,Germain Lussier,,Ninja Turtles 2,12,,0
+2016,Germain Lussier,,The Conjuring 2,13,,0
 2016,Jeff Cannata,,Captain America 3,1,,7
 2016,Jeff Cannata,,Finding Dory,2,,7
 2016,Jeff Cannata,,Ice Age: Collision Course,3,,0
@@ -503,19 +490,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2016,Jeff Cannata,,Neighbors 2,11,,0
 2016,Jeff Cannata,,Central Intelligence,12,,1
 2016,Jeff Cannata,,Pete's Dragon,13,,0
-2017,Devindra Hardawar,,Guardians of the Galaxy 2,1,,7
-2017,Devindra Hardawar,,Despicable Me 3,2,,5
-2017,Devindra Hardawar,,Spider-Man: Homecoming,3,,10
-2017,Devindra Hardawar,,Wonder Woman,4,,3
-2017,Devindra Hardawar,,Dunkirk,5,,10
-2017,Devindra Hardawar,,Transformers 5,6,,3
-2017,Devindra Hardawar,,Pirates of the Caribbean 5,7,,7
-2017,Devindra Hardawar,,War for the Planet of the Apes,8,,10
-2017,Devindra Hardawar,,The Hitman's Bodyguard,9,,0
-2017,Devindra Hardawar,,The Dark Tower,10,,0
-2017,Devindra Hardawar,,Atomic Blonde,11,,0
-2017,Devindra Hardawar,,The Mummy (2017),12,,0
-2017,Devindra Hardawar,,King Arthur,13,,0
+2016,Peter Sciretta,,Finding Dory,1,,13
+2016,Peter Sciretta,,Captain America 3,2,,10
+2016,Peter Sciretta,,Suicide Squad,3,,7
+2016,Peter Sciretta,,Independence Day: Resurgence,4,,0
+2016,Peter Sciretta,,X-Men: Apocalypse,5,,7
+2016,Peter Sciretta,,Ghostbusters (2016),6,,3
+2016,Peter Sciretta,,The Secret Life of Pets,7,,3
+2016,Peter Sciretta,,Star Trek Beyond,8,,7
+2016,Peter Sciretta,,Alice in Wonderland 2,9,,0
+2016,Peter Sciretta,,Ninja Turtles 2,10,,0
+2016,Peter Sciretta,,Ice Age: Collision Course,11,,0
+2016,Peter Sciretta,,Neighbors 2,12,,0
+2016,Peter Sciretta,,Warcraft,13,,0
 2017,David Chen,,Despicable Me 3,1,,3
 2017,David Chen,,Guardians of the Galaxy 2,2,,10
 2017,David Chen,,Spider-Man: Homecoming,3,,10
@@ -529,32 +516,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2017,David Chen,,Alien: Covenant,11,,0
 2017,David Chen,,Baywatch,12,,0
 2017,David Chen,,Captain Underpants,13,,0
-2017,Peter Sciretta,,Guardians of the Galaxy 2,1,,7
-2017,Peter Sciretta,,Despicable Me 3,2,,5
-2017,Peter Sciretta,,Spider-Man: Homecoming,3,,10
-2017,Peter Sciretta,,War for the Planet of the Apes,4,,3
-2017,Peter Sciretta,,Wonder Woman,5,,3
-2017,Peter Sciretta,,Transformers 5,6,,3
-2017,Peter Sciretta,,Cars 3,7,,10
-2017,Peter Sciretta,,Pirates of the Caribbean 5,8,,5
-2017,Peter Sciretta,,The Mummy (2017),9,,0
-2017,Peter Sciretta,,Dunkirk,10,,3
-2017,Peter Sciretta,,Alien: Covenant,11,,0
-2017,Peter Sciretta,,The Emoji Movie,12,,0
-2017,Peter Sciretta,,Valerian,13,,0
-2017,Jeff Cannata,,Spider-Man: Homecoming,1,,5
-2017,Jeff Cannata,,Transformers 5,2,,3
-2017,Jeff Cannata,,Guardians of the Galaxy 2,3,,7
-2017,Jeff Cannata,,Despicable Me 3,4,,10
-2017,Jeff Cannata,,Cars 3,5,,5
-2017,Jeff Cannata,,War for the Planet of the Apes,6,,5
-2017,Jeff Cannata,,Pirates of the Caribbean 5,7,,7
-2017,Jeff Cannata,,Dunkirk,8,,3
-2017,Jeff Cannata,,Alien: Covenant,9,,0
-2017,Jeff Cannata,,The Mummy (2017),10,,0
-2017,Jeff Cannata,,Rough Night,11,,0
-2017,Jeff Cannata,,Baywatch,12,,0
-2017,Jeff Cannata,,Wonder Woman,13,,1
+2017,Devindra Hardawar,,Guardians of the Galaxy 2,1,,7
+2017,Devindra Hardawar,,Despicable Me 3,2,,5
+2017,Devindra Hardawar,,Spider-Man: Homecoming,3,,10
+2017,Devindra Hardawar,,Wonder Woman,4,,3
+2017,Devindra Hardawar,,Dunkirk,5,,10
+2017,Devindra Hardawar,,Transformers 5,6,,3
+2017,Devindra Hardawar,,Pirates of the Caribbean 5,7,,7
+2017,Devindra Hardawar,,War for the Planet of the Apes,8,,10
+2017,Devindra Hardawar,,The Hitman's Bodyguard,9,,0
+2017,Devindra Hardawar,,The Dark Tower,10,,0
+2017,Devindra Hardawar,,Atomic Blonde,11,,0
+2017,Devindra Hardawar,,The Mummy (2017),12,,0
+2017,Devindra Hardawar,,King Arthur,13,,0
 2017,Germain Lussier,,Guardians of the Galaxy 2,1,,7
 2017,Germain Lussier,,Despicable Me 3,2,,5
 2017,Germain Lussier,,Transformers 5,3,,3
@@ -568,6 +542,32 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2017,Germain Lussier,,The Mummy (2017),11,,0
 2017,Germain Lussier,,Baywatch,12,,0
 2017,Germain Lussier,,Captain Underpants,13,,0
+2017,Jeff Cannata,,Spider-Man: Homecoming,1,,5
+2017,Jeff Cannata,,Transformers 5,2,,3
+2017,Jeff Cannata,,Guardians of the Galaxy 2,3,,7
+2017,Jeff Cannata,,Despicable Me 3,4,,10
+2017,Jeff Cannata,,Cars 3,5,,5
+2017,Jeff Cannata,,War for the Planet of the Apes,6,,5
+2017,Jeff Cannata,,Pirates of the Caribbean 5,7,,7
+2017,Jeff Cannata,,Dunkirk,8,,3
+2017,Jeff Cannata,,Alien: Covenant,9,,0
+2017,Jeff Cannata,,The Mummy (2017),10,,0
+2017,Jeff Cannata,,Rough Night,11,,0
+2017,Jeff Cannata,,Baywatch,12,,0
+2017,Jeff Cannata,,Wonder Woman,13,,1
+2017,Peter Sciretta,,Guardians of the Galaxy 2,1,,7
+2017,Peter Sciretta,,Despicable Me 3,2,,5
+2017,Peter Sciretta,,Spider-Man: Homecoming,3,,10
+2017,Peter Sciretta,,War for the Planet of the Apes,4,,3
+2017,Peter Sciretta,,Wonder Woman,5,,3
+2017,Peter Sciretta,,Transformers 5,6,,3
+2017,Peter Sciretta,,Cars 3,7,,10
+2017,Peter Sciretta,,Pirates of the Caribbean 5,8,,5
+2017,Peter Sciretta,,The Mummy (2017),9,,0
+2017,Peter Sciretta,,Dunkirk,10,,3
+2017,Peter Sciretta,,Alien: Covenant,11,,0
+2017,Peter Sciretta,,The Emoji Movie,12,,0
+2017,Peter Sciretta,,Valerian,13,,0
 2018,David Chen,,Avengers: Infinity War,1,,13
 2018,David Chen,,Jurassic World 2,2,,7
 2018,David Chen,,Deadpool 2,3,,7
@@ -581,45 +581,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2018,David Chen,,Mamma Mia 2,11,,0
 2018,David Chen,,The Meg,12,,1
 2018,David Chen,,Christopher Robin,13,,0
-2018,Germain Lussier,,Avengers: Infinity War,1,,13
-2018,Germain Lussier,,Jurassic World 2,2,,7
-2018,Germain Lussier,,Incredibles 2,3,,7
-2018,Germain Lussier,,Solo: A Star Wars Story,4,,5
-2018,Germain Lussier,,Deadpool 2,5,,7
-2018,Germain Lussier,,Mission: Impossible 6,6,,7
-2018,Germain Lussier,,Ocean's 8,7,,5
-2018,Germain Lussier,,The Meg,8,,5
-2018,Germain Lussier,,Ant-Man and the Wasp,9,,3
-2018,Germain Lussier,,Hotel Transylvania 3,10,,5
-2018,Germain Lussier,,Skyscraper,11,,0
-2018,Germain Lussier,,Mamma Mia 2,12,,0
-2018,Germain Lussier,,Tag,13,,0
-2018,Peter Sciretta,,Avengers: Infinity War,1,,13
-2018,Peter Sciretta,,Jurassic World 2,2,,7
-2018,Peter Sciretta,,Solo: A Star Wars Story,3,,3
-2018,Peter Sciretta,,Deadpool 2,4,,10
-2018,Peter Sciretta,,Incredibles 2,5,,3
-2018,Peter Sciretta,,Ant-Man and the Wasp,6,,7
-2018,Peter Sciretta,,Hotel Transylvania 3,7,,7
-2018,Peter Sciretta,,Ocean's 8,8,,7
-2018,Peter Sciretta,,Mamma Mia 2,9,,0
-2018,Peter Sciretta,,Mission: Impossible 6,10,,3
-2018,Peter Sciretta,,Skyscraper,11,,0
-2018,Peter Sciretta,,Action Point,12,,0
-2018,Peter Sciretta,,The Equalizer 2,13,,0
-2018,Kristy Puchko,,Avengers: Infinity War,1,,13
-2018,Kristy Puchko,,Jurassic World 2,2,,7
-2018,Kristy Puchko,,Solo: A Star Wars Story,3,,3
-2018,Kristy Puchko,,Deadpool 2,4,,10
-2018,Kristy Puchko,,Incredibles 2,5,,3
-2018,Kristy Puchko,,Mission: Impossible 6,6,,7
-2018,Kristy Puchko,,Ant-Man and the Wasp,7,,5
-2018,Kristy Puchko,,Teen Titans Go!,8,,0
-2018,Kristy Puchko,,Hotel Transylvania 3,9,,7
-2018,Kristy Puchko,,Mamma Mia 2,10,,0
-2018,Kristy Puchko,,Ocean's 8,11,,1
-2018,Kristy Puchko,,Skyscraper,12,,0
-2018,Kristy Puchko,,The Equalizer 2,13,,0
 2018,Devindra Hardawar,,Avengers: Infinity War,1,,13
 2018,Devindra Hardawar,,Jurassic World 2,2,,7
 2018,Devindra Hardawar,,Solo: A Star Wars Story,3,,3
@@ -633,6 +594,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2018,Devindra Hardawar,,The First Purge,11,,0
 2018,Devindra Hardawar,,Sicario 2,12,,0
 2018,Devindra Hardawar,,Mamma Mia 2,13,,0
+2018,Germain Lussier,,Avengers: Infinity War,1,,13
+2018,Germain Lussier,,Jurassic World 2,2,,7
+2018,Germain Lussier,,Incredibles 2,3,,7
+2018,Germain Lussier,,Solo: A Star Wars Story,4,,5
+2018,Germain Lussier,,Deadpool 2,5,,7
+2018,Germain Lussier,,Mission: Impossible 6,6,,7
+2018,Germain Lussier,,Ocean's 8,7,,5
+2018,Germain Lussier,,The Meg,8,,5
+2018,Germain Lussier,,Ant-Man and the Wasp,9,,3
+2018,Germain Lussier,,Hotel Transylvania 3,10,,5
+2018,Germain Lussier,,Skyscraper,11,,0
+2018,Germain Lussier,,Mamma Mia 2,12,,0
+2018,Germain Lussier,,Tag,13,,0
 2018,Jeff Cannata,,Avengers: Infinity War,1,,13
 2018,Jeff Cannata,,Jurassic World 2,2,,7
 2018,Jeff Cannata,,Solo: A Star Wars Story,3,,3
@@ -646,32 +620,32 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2018,Jeff Cannata,,Skyscraper,11,,0
 2018,Jeff Cannata,,The Equalizer 2,12,,0
 2018,Jeff Cannata,,Tag,13,,0
-2019,Germain Lussier,,Avengers: Endgame,1,,13
-2019,Germain Lussier,,The Lion King,2,,10
-2019,Germain Lussier,,Toy Story 4,3,,10
-2019,Germain Lussier,,Spider-Man: Far from Home,4,,10
-2019,Germain Lussier,,The Secret Life of Pets 2,5,,3
-2019,Germain Lussier,,Hobbs & Shaw,6,,7
-2019,Germain Lussier,,Aladdin (2019),7,,5
-2019,Germain Lussier,,Detective Pikachu,8,,7
-2019,Germain Lussier,,Men in Black International,9,,0
-2019,Germain Lussier,,Once Upon a Time in Hollywood,10,,13
-2019,Germain Lussier,,Godzilla 2,11,,0
-2019,Germain Lussier,,Rocketman,12,,0
-2019,Germain Lussier,,Dark Phoenix,13,,0
-2019,Peter Sciretta,,Avengers: Endgame,1,,13
-2019,Peter Sciretta,,The Lion King,2,,10
-2019,Peter Sciretta,,Toy Story 4,3,,10
-2019,Peter Sciretta,,Detective Pikachu,4,,3
-2019,Peter Sciretta,,Spider-Man: Far from Home,5,,7
-2019,Peter Sciretta,,Aladdin (2019),6,,7
-2019,Peter Sciretta,,The Secret Life of Pets 2,7,,7
-2019,Peter Sciretta,,Godzilla 2,8,,0
-2019,Peter Sciretta,,Hobbs & Shaw,9,,5
-2019,Peter Sciretta,,Once Upon a Time in Hollywood,10,,13
-2019,Peter Sciretta,,Men in Black International,11,,0
-2019,Peter Sciretta,,John Wick 3,12,,1
-2019,Peter Sciretta,,Rocketman,13,,0
+2018,Kristy Puchko,,Avengers: Infinity War,1,,13
+2018,Kristy Puchko,,Jurassic World 2,2,,7
+2018,Kristy Puchko,,Solo: A Star Wars Story,3,,3
+2018,Kristy Puchko,,Deadpool 2,4,,10
+2018,Kristy Puchko,,Incredibles 2,5,,3
+2018,Kristy Puchko,,Mission: Impossible 6,6,,7
+2018,Kristy Puchko,,Ant-Man and the Wasp,7,,5
+2018,Kristy Puchko,,Teen Titans Go!,8,,0
+2018,Kristy Puchko,,Hotel Transylvania 3,9,,7
+2018,Kristy Puchko,,Mamma Mia 2,10,,0
+2018,Kristy Puchko,,Ocean's 8,11,,1
+2018,Kristy Puchko,,Skyscraper,12,,0
+2018,Kristy Puchko,,The Equalizer 2,13,,0
+2018,Peter Sciretta,,Avengers: Infinity War,1,,13
+2018,Peter Sciretta,,Jurassic World 2,2,,7
+2018,Peter Sciretta,,Solo: A Star Wars Story,3,,3
+2018,Peter Sciretta,,Deadpool 2,4,,10
+2018,Peter Sciretta,,Incredibles 2,5,,3
+2018,Peter Sciretta,,Ant-Man and the Wasp,6,,7
+2018,Peter Sciretta,,Hotel Transylvania 3,7,,7
+2018,Peter Sciretta,,Ocean's 8,8,,7
+2018,Peter Sciretta,,Mamma Mia 2,9,,0
+2018,Peter Sciretta,,Mission: Impossible 6,10,,3
+2018,Peter Sciretta,,Skyscraper,11,,0
+2018,Peter Sciretta,,Action Point,12,,0
+2018,Peter Sciretta,,The Equalizer 2,13,,0
 2019,David Chen,,Avengers: Endgame,1,,13
 2019,David Chen,,The Lion King,2,,10
 2019,David Chen,,Toy Story 4,3,,10
@@ -685,19 +659,6 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2019,David Chen,,Men in Black International,11,,0
 2019,David Chen,,Yesterday,12,,0
 2019,David Chen,,Once Upon a Time in Hollywood,13,,1
-2019,Jeff Cannata,,Avengers: Endgame,1,,13
-2019,Jeff Cannata,,Toy Story 4,2,,7
-2019,Jeff Cannata,,The Lion King,3,,7
-2019,Jeff Cannata,,Spider-Man: Far from Home,4,,10
-2019,Jeff Cannata,,Hobbs & Shaw,5,,5
-2019,Jeff Cannata,,The Secret Life of Pets 2,6,,5
-2019,Jeff Cannata,,Detective Pikachu,7,,5
-2019,Jeff Cannata,,Aladdin (2019),8,,3
-2019,Jeff Cannata,,Godzilla 2,9,,0
-2019,Jeff Cannata,,Dark Phoenix,10,,0
-2019,Jeff Cannata,,Once Upon a Time in Hollywood,11,,1
-2019,Jeff Cannata,,Men in Black International,12,,0
-2019,Jeff Cannata,,John Wick 3,13,,1
 2019,Devindra Hardawar,,Avengers: Endgame,1,,13
 2019,Devindra Hardawar,,Toy Story 4,2,,7
 2019,Devindra Hardawar,,The Lion King,3,,7
@@ -711,19 +672,45 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2019,Devindra Hardawar,,John Wick 3,11,,1
 2019,Devindra Hardawar,,Once Upon a Time in Hollywood,12,,1
 2019,Devindra Hardawar,,Rocketman,13,,0
-2022,Peter Sciretta,,Jurassic World Dominion,1,,5
-2022,Peter Sciretta,,Doctor Strange 2,2,,10
-2022,Peter Sciretta,,Thor: Love and Thunder,3,,5
-2022,Peter Sciretta,,Minions: The Rise of Gru,4,,10
-2022,Peter Sciretta,,Lightyear,5,,3
-2022,Peter Sciretta,,Top Gun: Maverick,6,,3
-2022,Peter Sciretta,,Nope,7,,10
-2022,Peter Sciretta,,Bullet Train,8,,5
-2022,Peter Sciretta,,DC League of Super-Pets,9,,0
-2022,Peter Sciretta,,Elvis,10,,3
-2022,Peter Sciretta,,The Bob's Burgers Movie,11,,0
-2022,Peter Sciretta,,The Black Phone,12,,1
-2022,Peter Sciretta,,Downton Abbey: A New Era,13,,0
+2019,Germain Lussier,,Avengers: Endgame,1,,13
+2019,Germain Lussier,,The Lion King,2,,10
+2019,Germain Lussier,,Toy Story 4,3,,10
+2019,Germain Lussier,,Spider-Man: Far from Home,4,,10
+2019,Germain Lussier,,The Secret Life of Pets 2,5,,3
+2019,Germain Lussier,,Hobbs & Shaw,6,,7
+2019,Germain Lussier,,Aladdin (2019),7,,5
+2019,Germain Lussier,,Detective Pikachu,8,,7
+2019,Germain Lussier,,Men in Black International,9,,0
+2019,Germain Lussier,,Once Upon a Time in Hollywood,10,,13
+2019,Germain Lussier,,Godzilla 2,11,,0
+2019,Germain Lussier,,Rocketman,12,,0
+2019,Germain Lussier,,Dark Phoenix,13,,0
+2019,Jeff Cannata,,Avengers: Endgame,1,,13
+2019,Jeff Cannata,,Toy Story 4,2,,7
+2019,Jeff Cannata,,The Lion King,3,,7
+2019,Jeff Cannata,,Spider-Man: Far from Home,4,,10
+2019,Jeff Cannata,,Hobbs & Shaw,5,,5
+2019,Jeff Cannata,,The Secret Life of Pets 2,6,,5
+2019,Jeff Cannata,,Detective Pikachu,7,,5
+2019,Jeff Cannata,,Aladdin (2019),8,,3
+2019,Jeff Cannata,,Godzilla 2,9,,0
+2019,Jeff Cannata,,Dark Phoenix,10,,0
+2019,Jeff Cannata,,Once Upon a Time in Hollywood,11,,1
+2019,Jeff Cannata,,Men in Black International,12,,0
+2019,Jeff Cannata,,John Wick 3,13,,1
+2019,Peter Sciretta,,Avengers: Endgame,1,,13
+2019,Peter Sciretta,,The Lion King,2,,10
+2019,Peter Sciretta,,Toy Story 4,3,,10
+2019,Peter Sciretta,,Detective Pikachu,4,,3
+2019,Peter Sciretta,,Spider-Man: Far from Home,5,,7
+2019,Peter Sciretta,,Aladdin (2019),6,,7
+2019,Peter Sciretta,,The Secret Life of Pets 2,7,,7
+2019,Peter Sciretta,,Godzilla 2,8,,0
+2019,Peter Sciretta,,Hobbs & Shaw,9,,5
+2019,Peter Sciretta,,Once Upon a Time in Hollywood,10,,13
+2019,Peter Sciretta,,Men in Black International,11,,0
+2019,Peter Sciretta,,John Wick 3,12,,1
+2019,Peter Sciretta,,Rocketman,13,,0
 2022,David Chen,,Jurassic World Dominion,1,,5
 2022,David Chen,,Thor: Love and Thunder,2,,3
 2022,David Chen,,Doctor Strange 2,3,,7
@@ -776,45 +763,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2022,Jeff Cannata,,Paws of Fury: The Legend of Hank,11,,0
 2022,Jeff Cannata,,The Black Phone,12,,1
 2022,Jeff Cannata,,Downton Abbey: A New Era,13,,0
-2023,Peter Sciretta,,Guardians of the Galaxy Vol. 3,1,,5
-2023,Peter Sciretta,,Spider-Man: Across the Spider-Verse,2,,10
-2023,Peter Sciretta,,The Little Mermaid,3,,5
-2023,Peter Sciretta,,Indiana Jones and the Dial of Destiny,4,,3
-2023,Peter Sciretta,,Mission: Impossible - Dead Reckoning Part One,5,,3
-2023,Peter Sciretta,,The Flash,6,,0
-2023,Peter Sciretta,,Fast X,7,,0
-2023,Peter Sciretta,,Barbie,8,,3
-2023,Peter Sciretta,,Oppenheimer,9,,3
-2023,Peter Sciretta,,Elemental,10,,13
-2023,Peter Sciretta,,Transformers: Rise of the Beasts,11,,1
-2023,Peter Sciretta,,Teenage Mutant Ninja Turtles: Mutant Mayhem,12,,0
-2023,Peter Sciretta,,Haunted Mansion,13,,0
-2023,Devindra Hardawar,,Guardians of the Galaxy Vol. 3,1,,5
-2023,Devindra Hardawar,,Indiana Jones and the Dial of Destiny,2,,3
-2023,Devindra Hardawar,,Spider-Man: Across the Spider-Verse,3,,7
-2023,Devindra Hardawar,,The Little Mermaid,4,,7
-2023,Devindra Hardawar,,The Flash,5,,0
-2023,Devindra Hardawar,,Elemental,6,,3
-2023,Devindra Hardawar,,Fast X,7,,0
-2023,Devindra Hardawar,,Mission: Impossible - Dead Reckoning Part One,8,,10
-2023,Devindra Hardawar,,Barbie,9,,3
-2023,Devindra Hardawar,,Oppenheimer,10,,3
-2023,Devindra Hardawar,,Transformers: Rise of the Beasts,11,,1
-2023,Devindra Hardawar,,Meg 2: The Trench,12,,0
-2023,Devindra Hardawar,,Teenage Mutant Ninja Turtles: Mutant Mayhem,13,,0
-2023,Jeff Cannata,,Guardians of the Galaxy Vol. 3,1,,5
-2023,Jeff Cannata,,Indiana Jones and the Dial of Destiny,2,,3
-2023,Jeff Cannata,,The Little Mermaid,3,,5
-2023,Jeff Cannata,,Spider-Man: Across the Spider-Verse,4,,5
-2023,Jeff Cannata,,Mission: Impossible - Dead Reckoning Part One,5,,3
-2023,Jeff Cannata,,Fast X,6,,0
-2023,Jeff Cannata,,The Flash,7,,0
-2023,Jeff Cannata,,Elemental,8,,5
-2023,Jeff Cannata,,Oppenheimer,9,,3
-2023,Jeff Cannata,,Transformers: Rise of the Beasts,10,,7
-2023,Jeff Cannata,,Barbie,11,,1
-2023,Jeff Cannata,,Teenage Mutant Ninja Turtles: Mutant Mayhem,12,,0
-2023,Jeff Cannata,,Haunted Mansion,13,,0
+2022,Peter Sciretta,,Jurassic World Dominion,1,,5
+2022,Peter Sciretta,,Doctor Strange 2,2,,10
+2022,Peter Sciretta,,Thor: Love and Thunder,3,,5
+2022,Peter Sciretta,,Minions: The Rise of Gru,4,,10
+2022,Peter Sciretta,,Lightyear,5,,3
+2022,Peter Sciretta,,Top Gun: Maverick,6,,3
+2022,Peter Sciretta,,Nope,7,,10
+2022,Peter Sciretta,,Bullet Train,8,,5
+2022,Peter Sciretta,,DC League of Super-Pets,9,,0
+2022,Peter Sciretta,,Elvis,10,,3
+2022,Peter Sciretta,,The Bob's Burgers Movie,11,,0
+2022,Peter Sciretta,,The Black Phone,12,,1
+2022,Peter Sciretta,,Downton Abbey: A New Era,13,,0
 2023,David Chen,,Guardians of the Galaxy Vol. 3,1,,5
 2023,David Chen,,Indiana Jones and the Dial of Destiny,2,,3
 2023,David Chen,,The Little Mermaid,3,,5
@@ -828,6 +789,19 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,David Chen,,Blue Beetle,11,,0
 2023,David Chen,,Elemental,12,,1
 2023,David Chen,,Haunted Mansion,13,,0
+2023,Devindra Hardawar,,Guardians of the Galaxy Vol. 3,1,,5
+2023,Devindra Hardawar,,Indiana Jones and the Dial of Destiny,2,,3
+2023,Devindra Hardawar,,Spider-Man: Across the Spider-Verse,3,,7
+2023,Devindra Hardawar,,The Little Mermaid,4,,7
+2023,Devindra Hardawar,,The Flash,5,,0
+2023,Devindra Hardawar,,Elemental,6,,3
+2023,Devindra Hardawar,,Fast X,7,,0
+2023,Devindra Hardawar,,Mission: Impossible - Dead Reckoning Part One,8,,10
+2023,Devindra Hardawar,,Barbie,9,,3
+2023,Devindra Hardawar,,Oppenheimer,10,,3
+2023,Devindra Hardawar,,Transformers: Rise of the Beasts,11,,1
+2023,Devindra Hardawar,,Meg 2: The Trench,12,,0
+2023,Devindra Hardawar,,Teenage Mutant Ninja Turtles: Mutant Mayhem,13,,0
 2023,Germain Lussier,,Guardians of the Galaxy Vol. 3,1,,5
 2023,Germain Lussier,,Indiana Jones and the Dial of Destiny,2,,3
 2023,Germain Lussier,,The Little Mermaid,3,,5
@@ -841,6 +815,32 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,Germain Lussier,,Elemental,11,,1
 2023,Germain Lussier,,Haunted Mansion,12,,0
 2023,Germain Lussier,,Teenage Mutant Ninja Turtles: Mutant Mayhem,13,,0
+2023,Jeff Cannata,,Guardians of the Galaxy Vol. 3,1,,5
+2023,Jeff Cannata,,Indiana Jones and the Dial of Destiny,2,,3
+2023,Jeff Cannata,,The Little Mermaid,3,,5
+2023,Jeff Cannata,,Spider-Man: Across the Spider-Verse,4,,5
+2023,Jeff Cannata,,Mission: Impossible - Dead Reckoning Part One,5,,3
+2023,Jeff Cannata,,Fast X,6,,0
+2023,Jeff Cannata,,The Flash,7,,0
+2023,Jeff Cannata,,Elemental,8,,5
+2023,Jeff Cannata,,Oppenheimer,9,,3
+2023,Jeff Cannata,,Transformers: Rise of the Beasts,10,,7
+2023,Jeff Cannata,,Barbie,11,,1
+2023,Jeff Cannata,,Teenage Mutant Ninja Turtles: Mutant Mayhem,12,,0
+2023,Jeff Cannata,,Haunted Mansion,13,,0
+2023,Peter Sciretta,,Guardians of the Galaxy Vol. 3,1,,5
+2023,Peter Sciretta,,Spider-Man: Across the Spider-Verse,2,,10
+2023,Peter Sciretta,,The Little Mermaid,3,,5
+2023,Peter Sciretta,,Indiana Jones and the Dial of Destiny,4,,3
+2023,Peter Sciretta,,Mission: Impossible - Dead Reckoning Part One,5,,3
+2023,Peter Sciretta,,The Flash,6,,0
+2023,Peter Sciretta,,Fast X,7,,0
+2023,Peter Sciretta,,Barbie,8,,3
+2023,Peter Sciretta,,Oppenheimer,9,,3
+2023,Peter Sciretta,,Elemental,10,,13
+2023,Peter Sciretta,,Transformers: Rise of the Beasts,11,,1
+2023,Peter Sciretta,,Teenage Mutant Ninja Turtles: Mutant Mayhem,12,,0
+2023,Peter Sciretta,,Haunted Mansion,13,,0
 2024,BJ Colangelo,,Inside Out 2,1,,
 2024,BJ Colangelo,,Despicable Me 4,2,,
 2024,BJ Colangelo,,Deadpool & Wolverine,3,,
