@@ -1,5 +1,4 @@
 import csv
-import logging
 import sys
 from dataclasses import dataclass
 from datetime import date
@@ -14,7 +13,6 @@ class ErrorContext:
     field_name: str | None
 
 
-logger = logging.getLogger("test")
 context: ErrorContext = ErrorContext("", 0, None)
 error_count: int = 0
 warning_count: int = 0
@@ -23,8 +21,6 @@ CURRENT_YEAR: int = date.today().year
 
 
 def main() -> None:
-    logging.basicConfig(level=logging.WARNING)
-
     data_path = Path(sys.argv[1])
     _assert(data_path.exists(), "data path does not exist")
 
@@ -118,9 +114,9 @@ def main() -> None:
     )
 
     if error_count > 0:
-        logger.error(f"{error_count} errors")
+        print(f"{error_count} errors", file=sys.stderr)
     if warning_count > 0:
-        logger.warning(f"{warning_count} warnings")
+        print(f"{warning_count} warnings", file=sys.stderr)
     exit(1 if error_count > 0 else 0)
 
 
@@ -129,18 +125,15 @@ def _assert(expression: bool, message: str) -> bool:
     global context
     if not expression:
         error_count += 1
-        if not context.lineno:
-            logger.error("%s: %s", context.filename, message)
-        elif context.field_name:
-            logger.error(
-                "%s:%d: %s: %s",
-                context.filename,
-                context.lineno,
-                context.field_name,
-                message,
-            )
-        else:
-            logger.error("%s:%d: %s", context.filename, context.lineno, message)
+        params: list[str] = []
+        if context.filename:
+            params.append(f"file={context.filename}")
+        if context.lineno:
+            params.append(f"line={context.lineno}")
+        if context.field_name:
+            params.append(f"title={context.field_name}")
+        params_str = ",".join(params)
+        print(f"::error {params_str}::{message}", file=sys.stderr)
     return expression
 
 
@@ -149,18 +142,15 @@ def _warn(expression: bool, message: str) -> bool:
     global context
     if not expression:
         warning_count += 1
-        if not context.lineno:
-            logger.warning("%s: %s", context.filename, message)
-        elif context.field_name:
-            logger.warning(
-                "%s:%d: %s: %s",
-                context.filename,
-                context.lineno,
-                context.field_name,
-                message,
-            )
-        else:
-            logger.warning("%s:%d: %s", context.filename, context.lineno, message)
+        params: list[str] = []
+        if context.filename:
+            params.append(f"file={context.filename}")
+        if context.lineno:
+            params.append(f"line={context.lineno}")
+        if context.field_name:
+            params.append(f"title={context.field_name}")
+        params_str = ",".join(params)
+        print(f"::warning {params_str}::{message}", file=sys.stderr)
     return expression
 
 
