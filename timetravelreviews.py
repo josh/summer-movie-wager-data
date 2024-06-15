@@ -41,8 +41,8 @@ def cli() -> None:
 class BoxOfficeScore:
     rank: int
     title: str
-    release_date: date
-    weeks_in_release: int
+    release_date: date | None
+    weeks_in_release: int | None
     cumulative_box_office: int
 
 
@@ -54,23 +54,36 @@ def box_office(year: int) -> list[BoxOfficeScore]:
     response.raise_for_status()
     selector = Selector(text=response.text)
 
-    movies: list[BoxOfficeScore] = []
+    data: list[dict[str, str]] = []
 
-    for tr in selector.css('table[width="1100"] tr'):
-        col: list[str] = []
-        for td in tr.css("td"):
-            text = "".join(td.css("::text").getall()).strip()
-            col.append(text)
-        if len(col) != 10:
+    for table in selector.xpath("//table"):
+        rows = _parse_table(table)
+        if not rows:
             continue
-        if col[0] == "Rank":
-            continue
-        rank = int(col[0])
-        title = col[3]
-        release_date = _strpdate(col[4], "%d-%b-%y") or _strpdate(col[4], "%d/%b/%y")
-        weeks_in_release = int(col[5])
-        cumulative_box_office = int(float(col[8][1:].replace(",", "")) * 1_000_000)
-        assert release_date, f"invalid date: {col[4]}"
+
+        if len(rows[0]) == 5 and rows[0][0] == "MovieRank":
+            rows[0][0] = "Rank"
+            rows[0][2] = "Title"
+            rows[0][3] = "Release Date"
+            rows[0][4] = "Cumulative Box Office ($Millions)"
+
+        if rows[0][0] == "Rank":
+            data = _rows_to_dicts(rows)
+
+    movies: list[BoxOfficeScore] = []
+    for row in data:
+        rank = int(row["Rank"])
+        title = row["Title"]
+        release_date = _strpdate(row["Release Date"], "%d-%b-%y") or _strpdate(
+            row["Release Date"], "%d/%b/%y"
+        )
+        weeks_in_release: int | None = None
+        if "Weeks in Release" in row:
+            weeks_in_release = int(row["Weeks in Release"])
+        cumulative_box_office = int(
+            float(row["Cumulative Box Office ($Millions)"][1:].replace(",", ""))
+            * 1_000_000
+        )
 
         movie = BoxOfficeScore(
             rank=rank,
@@ -82,6 +95,24 @@ def box_office(year: int) -> list[BoxOfficeScore]:
         movies.append(movie)
 
     return movies
+
+
+def _parse_table(selector: Selector) -> list[list[str]]:
+    table: list[list[str]] = []
+    for tr in selector.xpath(".//tr"):
+        row = [
+            "".join(td.xpath(".//text()").getall()).strip().replace("\t", " ")
+            for td in tr.xpath("./td")
+        ]
+        if len(row) < 2:
+            continue
+        table.append(row)
+    return table
+
+
+def _rows_to_dicts(rows: list[list[str]]) -> list[dict[str, str]]:
+    headers = rows[0]
+    return [dict(zip(headers, row)) for row in rows[1:]]
 
 
 def _strpdate(date_string: str, format: str) -> date | None:
