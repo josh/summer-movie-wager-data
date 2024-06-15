@@ -1,9 +1,10 @@
 import csv
 import sys
-from collections.abc import Iterable, Iterator
+from collections.abc import Callable, Iterable, Iterator
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
+from typing import Any
 
 
 @dataclass
@@ -166,7 +167,7 @@ def _enumerate_rows(
     context.field_name = None
 
 
-def _is_sorted(key, rows) -> bool:
+def _is_sorted(key: Callable[[Any], Any], rows: list[Any]) -> bool:
     return all(key(rows[i]) <= key(rows[i + 1]) for i in range(len(rows) - 1))
 
 
