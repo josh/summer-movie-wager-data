@@ -67,9 +67,10 @@ def box_office(year: int) -> list[BoxOfficeScore]:
             continue
         rank = int(col[0])
         title = col[3]
-        release_date = datetime.strptime(col[4], "%d-%b-%y").date()
+        release_date = _strpdate(col[4], "%d-%b-%y") or _strpdate(col[4], "%d/%b/%y")
         weeks_in_release = int(col[5])
         cumulative_box_office = int(float(col[8][1:].replace(",", "")) * 1_000_000)
+        assert release_date, f"invalid date: {col[4]}"
 
         movie = BoxOfficeScore(
             rank=rank,
@@ -81,6 +82,13 @@ def box_office(year: int) -> list[BoxOfficeScore]:
         movies.append(movie)
 
     return movies
+
+
+def _strpdate(date_string: str, format: str) -> date | None:
+    try:
+        return datetime.strptime(date_string, format).date()
+    except ValueError:
+        return None
 
 
 @cli.command(name="box-office")
