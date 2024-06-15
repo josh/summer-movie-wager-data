@@ -1,9 +1,9 @@
 import csv
 import sys
+from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
-from typing import Iterable, Iterator
 
 
 @dataclass

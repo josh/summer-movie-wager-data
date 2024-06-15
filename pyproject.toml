@@ -1,0 +1,21 @@
+[project]
+name = "summer-movie-wager-data"
+readme = "README.md"
+authors = [{name = "Joshua Peek"}]
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.optional-dependencies]
+dev = [
+    "mypy>=1.0.0,<2.0",
+    "ruff>=0.3.0",
+]
+
+[tool.ruff.lint]
+extend-select = ["I", "UP"]
+
+[tool.mypy]
+strict = true
