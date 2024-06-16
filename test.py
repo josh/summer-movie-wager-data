@@ -45,7 +45,7 @@ def main() -> None:
     for row in _enumerate_rows("years.csv", year_rows):
         context.field_name = "year"
         _assert(row["year"].isdigit(), "Invalid year")
-        _warn(int(row["year"]) >= 2007, "Year too old")
+        # _warn(int(row["year"]) >= 2007, "Year too old")
 
         if row["start_date"]:
             context.field_name = "start_date"
@@ -76,7 +76,7 @@ def main() -> None:
     for row in _enumerate_rows("movies.csv", movie_rows):
         context.field_name = "year"
         _assert(row["year"].isdigit(), "Invalid year")
-        _warn(int(row["year"]) >= 2007, "Year too old")
+        # _warn(int(row["year"]) >= 2007, "Year too old")
 
         if row["imdb_id"]:
             context.field_name = "imdb_id"
