@@ -119,7 +119,7 @@ def backfill_imdb_ids(data_path: Path, limit: int) -> None:
 
 
 _SPARQL_FILM_SEARCH_QUERY = """
-SELECT DISTINCT ?item ?imdb_id WHERE {
+SELECT DISTINCT ?item ?title ?imdb_id WHERE {
   SERVICE wikibase:mwapi {
     bd:serviceParam wikibase:endpoint "www.wikidata.org";
                     wikibase:api "EntitySearch";
@@ -128,6 +128,7 @@ SELECT DISTINCT ?item ?imdb_id WHERE {
     ?item wikibase:apiOutputItem mwapi:item.
   }
   ?item (wdt:P31/(wdt:P279*)) wd:Q11424;
+    wdt:P1476 ?title;
     wdt:P577 ?date.
   FILTER((xsd:integer(YEAR(?date))) = $YEAR )
   ?item wdt:P345 ?imdb_id.
@@ -148,10 +149,17 @@ def _sparql_search_by_film_title(
     )
     r.raise_for_status()
     results = r.json()["results"]["bindings"]
+    title_matches = [r for r in results if r["title"]["value"] == title]
 
     if len(results) == 1:
         qid = results[0]["item"]["value"].replace("http://www.wikidata.org/entity/", "")
         imdb_id = results[0]["imdb_id"]["value"]
+        return qid, imdb_id
+    if len(title_matches) == 1:
+        qid = title_matches[0]["item"]["value"].replace(
+            "http://www.wikidata.org/entity/", ""
+        )
+        imdb_id = title_matches[0]["imdb_id"]["value"]
         return qid, imdb_id
     else:
         logger.warning(f"Failed to find Wikidata info for '{title}' ({year})")
