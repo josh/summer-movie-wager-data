@@ -1,17 +1,17 @@
-year,start_date,end_date,host_winner_name,youtube_wager_url,youtube_results_url,overcast_wager_url,overcast_results_url
-2007,,,Dan Trachtenberg,,,,
-2008,,,Jeff Cannata,,,,
-2009,,,Jeff Cannata,,,,
-2010,,,Peter Sciretta,,https://www.youtube.com/watch?v=03Q4TdcsXEg,,
-2011,,,Alex Albrecht,https://www.youtube.com/watch?v=hHVr4FdNrvM,https://www.youtube.com/watch?v=7Lg6ARGyW0U,,
-2012,,,Alex Albrecht,https://www.youtube.com/watch?v=iaV-cGzaECc,https://www.youtube.com/watch?v=kHhtjfkOl44,,
-2013,,,Jeff Cannata,,,,
-2014,,,Peter Sciretta,,,,
-2015,,,David Chen,,,,
-2016,,,David Chen,,,,
-2017,,,Devindra Hardawar,,,,
-2018,,,David Chen,,,,
-2019,,,Germain Lussier,,,,
-2022,,,Peter Sciretta,,https://www.youtube.com/watch?v=xWyOQAesWVM,,
-2023,,,Peter Sciretta,https://www.youtube.com/watch?v=61ZLs1tMQYA,https://www.youtube.com/watch?v=DN_wu3F3d8k,,
-2024,2024-05-02,2024-09-02,,https://www.youtube.com/watch?v=-E2CAaFoUWE,,https://overcast.fm/+PsCxyPlvI,
+year,start_date,end_date,host_winner_name,wager_episode_qid,results_episode_qid
+2007,,,Dan Trachtenberg,Q126719127,Q126718987
+2008,,,Jeff Cannata,Q126719125,Q126718995
+2009,,,Jeff Cannata,Q126719111,Q126718939
+2010,,,Peter Sciretta,Q126718851,Q126719128
+2011,,,Alex Albrecht,Q126718785,Q126718839
+2012,,,Alex Albrecht,Q126718696,Q126718736
+2013,,,Jeff Cannata,,
+2014,,,Peter Sciretta,,
+2015,,,David Chen,,
+2016,,,David Chen,,
+2017,,,Devindra Hardawar,,
+2018,,,David Chen,,
+2019,,,Germain Lussier,,
+2022,,,Peter Sciretta,,Q126718656
+2023,,,Peter Sciretta,Q125830123,Q126718496
+2024,2024-05-02,2024-09-02,,Q126718605,
