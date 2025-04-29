@@ -16,7 +16,7 @@ lxml==5.4.0
     # via parsel
 mypy==1.15.0
     # via summer-movie-wager-data (pyproject.toml)
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
     # via mypy
 packaging==25.0
     # via parsel
