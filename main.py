@@ -13,7 +13,7 @@ from time import sleep
 import click
 import requests
 
-from thesummermoviewager import global_leaderboard_players, player_list
+from thesummermoviewager import global_leaderboard_players, playalong, player_list
 
 logger = logging.getLogger(__name__)
 
@@ -183,6 +183,26 @@ def discover_movie_titles(data_path: Path, year: int) -> None:
                     logger.info(f"Adding '{movie_title}'")
                     rows.append({"year": str(year), "title": movie_title})
                     known_movie_titles.add(movie_title)
+
+
+@cli.command()
+@click.argument("data-path", type=click.Path(exists=True, path_type=Path))
+def discover_playalong_movies(data_path: Path) -> None:
+    with load_csv_data(data_path / "movies.csv") as rows:
+        known_movie_titles: set[str] = set(row["title"] for row in rows)
+
+        for movie in playalong():
+            if movie.title not in known_movie_titles:
+                logger.info(f"Adding '{movie.title}'")
+                rows.append(
+                    {
+                        "year": str(CURRENT_YEAR),
+                        "title": movie.title,
+                        "imdb_id": movie.imdb_id,
+                        "boxofficemojo_id": movie.mojo_id,
+                    }
+                )
+                known_movie_titles.add(movie.title)
 
 
 @cli.command()
