@@ -22,7 +22,7 @@ packaging==25.0
     # via parsel
 parsel==1.10.0
     # via summer-movie-wager-data (pyproject.toml)
-requests==2.32.3
+requests==2.32.4
     # via summer-movie-wager-data (pyproject.toml)
 ruff==0.11.5
     # via summer-movie-wager-data (pyproject.toml)
