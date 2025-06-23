@@ -24,7 +24,7 @@ parsel==1.10.0
     # via summer-movie-wager-data (pyproject.toml)
 requests==2.32.4
     # via summer-movie-wager-data (pyproject.toml)
-ruff==0.11.5
+ruff==0.12.0
     # via summer-movie-wager-data (pyproject.toml)
 types-requests==2.32.0.20250328
     # via summer-movie-wager-data (pyproject.toml)
