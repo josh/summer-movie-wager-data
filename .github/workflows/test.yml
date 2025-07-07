@@ -16,17 +16,10 @@ jobs:
           ref: "data"
           path: "data"
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version-file: "pyproject.toml"
-
       - uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
-        run: |
-          uv pip install --system --requirement requirements.txt
+        run: uv sync
 
       - name: Test
-        run: |
-          python3 test.py data/
+        run: uv run python3 test.py data/
