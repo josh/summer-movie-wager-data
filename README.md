@@ -1,3 +1,0 @@
-# Summer Movie Wager dataset
-
-🚧
