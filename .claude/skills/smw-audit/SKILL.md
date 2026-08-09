@@ -8,10 +8,19 @@ description: Check the Summer Movie Wager data branch before handing it back, an
 There is no CI on the data branch. Nothing will catch a bad edit except this.
 Run it after every change, before every push.
 
+The CSVs and the validation live together on the `data` branch. Check it out
+as a worktree at `./data` if it is not already there:
+
+```bash
+git fetch --quiet origin data
+git show-ref --verify --quiet refs/heads/data || git branch --track data origin/data
+git worktree add data data
 ```
-just validate
-# or, from the data directory
-sqlite3 -bail :memory: < validate.sql
+
+Then, from that directory:
+
+```bash
+cd data && sqlite3 -bail :memory: < validate.sql
 ```
 
 Exit 0 and a line like `ok: 18 years, 983 movies, 1076 list rows` means the
@@ -35,7 +44,17 @@ twice by one player, offset agreeing with score, every year declared in
 `years.csv`, the winner being the top scorer once a season is fully scored, and
 each file being sorted.
 
-Sortedness failures are fixed with `just sort`, not by hand.
+Sortedness failures mean rows were appended without re-sorting. Rewrite the
+file in the order the assertions expect — `year` for years.csv, `(year, title)`
+for movies.csv, `(year, player_name, position)` for lists.csv — then re-run the
+validation, which is what confirms you got it right:
+
+```python
+rows.sort(key=lambda r: (int(r["year"]), r["title"]))          # movies.csv
+csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")  # keep \n endings
+```
+
+Better still, write rows in order in the first place.
 
 ## Known exceptions
 

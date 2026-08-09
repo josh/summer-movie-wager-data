@@ -126,4 +126,4 @@ A film with no domestic release recorded simply has no id. Leave it blank.
 
 Validate a sample against rows that already have the field. This is what
 proved each method before it was trusted: 30/30 for TMDB, 135 of 154 for Box
-Office Mojo with **zero** disagreements. Then run `just validate`.
+Office Mojo with **zero** disagreements. Then validate — see `smw-audit`.

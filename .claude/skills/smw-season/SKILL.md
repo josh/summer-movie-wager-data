@@ -9,7 +9,7 @@ Everything here comes from `https://thesummermoviewager.com`. The site is the
 authority on what the wager *is*; Wikidata, TMDB and Box Office Mojo are only
 used to attach identifiers, which is `smw-ids`.
 
-Work in the `data` worktree (`just validate` creates it if missing).
+Work in the `data` worktree; `smw-audit` covers checking it out.
 
 ## What the site will lie to you about
 
@@ -134,6 +134,6 @@ season already in the data and check it matches `lists.csv` exactly. If an
 extractor is wrong, that is where it shows up — not in the new year, where
 nothing can contradict it.
 
-**Run the validation.** `just validate`, or from the data directory
+**Run the validation.** From the data directory,
 `sqlite3 -bail :memory: < validate.sql`. It must exit 0. CI does not do this;
-it is your job.
+it is your job. See `smw-audit`.
