@@ -140,28 +140,6 @@ def _player_list(player: str, year: int) -> None:
         click.echo(f"{score.position}. {score.movie} ({score.score})")
 
 
-def global_leaderboard_players(year: int) -> list[str]:
-    assert year >= 2017, "leaderboard not available for this year"
-    _assert_valid_year(year)
-
-    url = "https://thesummermoviewager.com/index.php?globalLeaderboard"
-    response = requests.get(url, params={"year": year}, timeout=TIMEOUT)
-    response.raise_for_status()
-    selector = Selector(text=response.text)
-
-    players: list[str] = []
-    for text in selector.css("td.mw.name::text").getall():
-        players.append(text.strip())
-    return players
-
-
-@cli.command(name="global-leaderboard-players")
-@click.option("--year", type=int, default=CURRENT_YEAR)
-def _global_leaderboard_players(year: int) -> None:
-    for player in global_leaderboard_players(year):
-        click.echo(player)
-
-
 @dataclass
 class PlayalongMovie:
     title: str
