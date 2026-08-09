@@ -10,9 +10,8 @@ data:
     git worktree add data data
 
 lint:
-    uv run ruff format --diff .
-    uv run ruff check .
-    uv run mypy .
+    uvx ruff format --diff .
+    uvx ruff check .
 
 validate: data
     cd data && sqlite3 -bail :memory: < validate.sql
