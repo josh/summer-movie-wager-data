@@ -18,3 +18,7 @@ validate: data
 
 sort: data
     uv run python main.py sort data/
+
+# dependabot is gone; bump the lockfile by hand.
+upgrade:
+    uv lock --upgrade
