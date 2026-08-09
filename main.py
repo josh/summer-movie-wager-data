@@ -167,38 +167,57 @@ def _sparql_search_by_film_title(
 @click.option("--year", type=int, default=CURRENT_YEAR)
 def discover_movie_titles(data_path: Path, year: int) -> None:
     with load_csv_data(data_path / "movies.csv") as rows:
-        known_movie_titles: set[str] = {row["title"] for row in rows}
+        known_movie_titles = {(row["year"], row["title"]) for row in rows}
 
         players = global_leaderboard_players(year=year)
         shuffle(players)
 
         for player in islice(players, 100):
             for player_score in player_list(player=player, year=year):
-                movie_title = player_score.movie
-                if movie_title not in known_movie_titles:
-                    logger.info(f"Adding '{movie_title}'")
-                    rows.append({"year": str(year), "title": movie_title})
-                    known_movie_titles.add(movie_title)
+                key = (str(year), player_score.movie)
+                if key not in known_movie_titles:
+                    logger.info(f"Adding '{player_score.movie}' ({year})")
+                    rows.append({"year": str(year), "title": player_score.movie})
+                    known_movie_titles.add(key)
 
 
 @cli.command()
 @click.argument("data-path", type=click.Path(exists=True, path_type=Path))
 def discover_playalong_movies(data_path: Path) -> None:
+    year = str(CURRENT_YEAR)
+
     with load_csv_data(data_path / "movies.csv") as rows:
-        known_movie_titles: set[str] = {row["title"] for row in rows}
+        known_movie_titles = {(row["year"], row["title"]) for row in rows}
+        known_imdb_ids = {
+            (row["year"], row["imdb_id"]) for row in rows if row["imdb_id"]
+        }
 
         for movie in playalong():
-            if movie.title not in known_movie_titles:
-                logger.info(f"Adding '{movie.title}'")
-                rows.append(
-                    {
-                        "year": str(CURRENT_YEAR),
-                        "title": movie.title,
-                        "imdb_id": movie.imdb_id,
-                        "boxofficemojo_id": movie.mojo_id,
-                    }
+            if (year, movie.title) in known_movie_titles:
+                continue
+
+            # The feed occasionally maps two titles to one IMDb id. In 2026 it
+            # gave "Fall 2" the id for "Animal Farm". Adding it anyway would
+            # silently duplicate an id, so flag it and let a human resolve it.
+            if movie.imdb_id and (year, movie.imdb_id) in known_imdb_ids:
+                logger.warning(
+                    f"Skipping '{movie.title}' ({year}): "
+                    f"{movie.imdb_id} is already used by another {year} film"
                 )
-                known_movie_titles.add(movie.title)
+                continue
+
+            logger.info(f"Adding '{movie.title}' ({year})")
+            rows.append(
+                {
+                    "year": year,
+                    "title": movie.title,
+                    "imdb_id": movie.imdb_id,
+                    "boxofficemojo_id": movie.mojo_id,
+                }
+            )
+            known_movie_titles.add((year, movie.title))
+            if movie.imdb_id:
+                known_imdb_ids.add((year, movie.imdb_id))
 
 
 @cli.command()
