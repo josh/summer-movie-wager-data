@@ -4,7 +4,7 @@ import io
 import logging
 from collections.abc import Generator
 from contextlib import contextmanager
-from datetime import date
+from datetime import datetime, timezone
 from itertools import islice
 from pathlib import Path
 from random import shuffle
@@ -17,7 +17,7 @@ from thesummermoviewager import global_leaderboard_players, playalong, player_li
 
 logger = logging.getLogger(__name__)
 
-CURRENT_YEAR: int = date.today().year
+CURRENT_YEAR: int = datetime.now(timezone.utc).year
 
 
 @click.group()

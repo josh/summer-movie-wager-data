@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 import click
 import requests
@@ -117,7 +117,9 @@ def _rows_to_dicts(rows: list[list[str]]) -> list[dict[str, str]]:
 
 def _strpdate(date_string: str, format: str) -> date | None:
     try:
-        return datetime.strptime(date_string, format).date()
+        return (
+            datetime.strptime(date_string, format).replace(tzinfo=timezone.utc).date()
+        )
     except ValueError:
         return None
 

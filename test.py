@@ -2,7 +2,7 @@ import csv
 import sys
 from collections.abc import Callable, Iterable, Iterator
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -18,7 +18,7 @@ context: ErrorContext = ErrorContext("", 0, None)
 error_count: int = 0
 warning_count: int = 0
 
-CURRENT_YEAR: int = date.today().year
+CURRENT_YEAR: int = datetime.now(timezone.utc).year
 
 
 def main() -> None:
