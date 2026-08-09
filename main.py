@@ -151,6 +151,27 @@ def discover_playalong_movies(data_path: Path) -> None:
 @cli.command()
 @click.argument("data-path", type=click.Path(exists=True, path_type=Path))
 def fetch_imdb_titles(data_path: Path) -> None:
+    with load_csv_data(data_path / "movies.csv") as rows:
+        wanted = {row["imdb_id"] for row in rows if row["imdb_id"]}
+        if not wanted:
+            return
+
+        imdb_titles = _fetch_imdb_primary_titles(wanted)
+        assert imdb_titles, "No IMDb titles found"
+        logger.info(f"Matched {len(imdb_titles)} of {len(wanted)} IMDb ids")
+
+        for row in rows:
+            if title := imdb_titles.get(row["imdb_id"]):
+                row["title"] = title
+
+
+def _fetch_imdb_primary_titles(imdb_ids: set[str]) -> dict[str, str]:
+    """Look up the primary title for each id in the IMDb title dump.
+
+    The dump is ~225 MB gzipped and around 12.6 million rows, against a few
+    hundred ids we care about, so keep only what was asked for and stop as
+    soon as everything is found rather than materialising the whole file.
+    """
     response = requests.get(
         "https://datasets.imdbws.com/title.basics.tsv.gz",
         stream=True,
@@ -159,17 +180,16 @@ def fetch_imdb_titles(data_path: Path) -> None:
     response.raise_for_status()
     decompressed = gzip.GzipFile(fileobj=response.raw)
     textio = io.TextIOWrapper(decompressed, encoding="utf-8")
-    csv_reader = csv.DictReader(textio, delimiter="\t")
+    # The dump is not quoted, and titles legitimately contain double quotes.
+    csv_reader = csv.DictReader(textio, delimiter="\t", quoting=csv.QUOTE_NONE)
 
-    imdb_titles: dict[str, str] = {}
+    titles: dict[str, str] = {}
     for row in csv_reader:
-        imdb_titles[row["tconst"]] = row["primaryTitle"]
-    assert len(imdb_titles) > 0, "No IMDb titles found"
-
-    with load_csv_data(data_path / "movies.csv") as rows:
-        for row in rows:
-            if row["imdb_id"] in imdb_titles:
-                row["title"] = imdb_titles[row["imdb_id"]]
+        if row["tconst"] in imdb_ids:
+            titles[row["tconst"]] = row["primaryTitle"]
+            if len(titles) == len(imdb_ids):
+                break
+    return titles
 
 
 @contextmanager
