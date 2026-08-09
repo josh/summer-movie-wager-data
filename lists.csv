@@ -1,47 +1,47 @@
 year,player_name,imdb_id,movie_title,position,offset,score
-2007,Alex Albrecht,,Pirates of the Caribbean 3,1,3,3
-2007,Alex Albrecht,,Harry Potter / Phoenix,2,3,3
+2007,Alex Albrecht,tt0449088,Pirates of the Caribbean 3,1,3,3
+2007,Alex Albrecht,tt0373889,Harry Potter / Phoenix,2,3,3
 2007,Alex Albrecht,tt0413300,Spider-Man 3,3,2,5
 2007,Alex Albrecht,tt0418279,Transformers,4,1,7
 2007,Alex Albrecht,tt0462538,The Simpsons Movie,5,3,3
 2007,Alex Albrecht,tt0413267,Shrek the Third,6,4,3
 2007,Alex Albrecht,tt0440963,The Bourne Ultimatum,7,1,7
-2007,Alex Albrecht,,Fantastic Four 2,8,,0
+2007,Alex Albrecht,tt0486576,Fantastic Four 2,8,,0
 2007,Alex Albrecht,tt0413099,Evan Almighty,9,,0
 2007,Alex Albrecht,tt0337978,Live Free or Die Hard,10,0,13
 2007,Alex Albrecht,tt0496806,Ocean's Thirteen,11,,0
 2007,Alex Albrecht,tt0463854,28 Weeks Later,12,,0
-2007,Alex Albrecht,,Day Watch,13,,0
+2007,Alex Albrecht,tt0409904,Day Watch,13,,0
 2007,Dan Trachtenberg,tt0418279,Transformers,1,2,5
 2007,Dan Trachtenberg,tt0413300,Spider-Man 3,2,1,7
 2007,Dan Trachtenberg,tt0413267,Shrek the Third,3,1,7
-2007,Dan Trachtenberg,,Pirates of the Caribbean 3,4,0,10
+2007,Dan Trachtenberg,tt0449088,Pirates of the Caribbean 3,4,0,10
 2007,Dan Trachtenberg,tt0382932,Ratatouille,5,2,5
 2007,Dan Trachtenberg,tt0337978,Live Free or Die Hard,6,4,3
-2007,Dan Trachtenberg,,Harry Potter / Phoenix,7,2,5
+2007,Dan Trachtenberg,tt0373889,Harry Potter / Phoenix,7,2,5
 2007,Dan Trachtenberg,tt0413099,Evan Almighty,8,,0
 2007,Dan Trachtenberg,tt0462538,The Simpsons Movie,9,1,7
-2007,Dan Trachtenberg,,Fantastic Four 2,10,,0
+2007,Dan Trachtenberg,tt0486576,Fantastic Four 2,10,,0
 2007,Dan Trachtenberg,tt0293564,Rush Hour 3,11,,0
-2007,Dan Trachtenberg,,I Now Pronounce You Chuck and Larry,12,,0
+2007,Dan Trachtenberg,tt0762107,I Now Pronounce You Chuck and Larry,12,,0
 2007,Dan Trachtenberg,tt0423294,Surf's Up,13,,0
-2007,Jeff Cannata,,Pirates of the Caribbean 3,1,3,3
+2007,Jeff Cannata,tt0449088,Pirates of the Caribbean 3,1,3,3
 2007,Jeff Cannata,tt0413267,Shrek the Third,2,0,10
 2007,Jeff Cannata,tt0413300,Spider-Man 3,3,2,5
 2007,Jeff Cannata,tt0418279,Transformers,4,1,7
-2007,Jeff Cannata,,Harry Potter / Phoenix,5,0,10
+2007,Jeff Cannata,tt0373889,Harry Potter / Phoenix,5,0,10
 2007,Jeff Cannata,tt0337978,Live Free or Die Hard,6,4,3
 2007,Jeff Cannata,tt0413099,Evan Almighty,7,,0
 2007,Jeff Cannata,tt0496806,Ocean's Thirteen,8,,0
 2007,Jeff Cannata,tt0382932,Ratatouille,9,2,5
-2007,Jeff Cannata,,Fantastic Four 2,10,,0
+2007,Jeff Cannata,tt0486576,Fantastic Four 2,10,,0
 2007,Jeff Cannata,tt0440963,The Bourne Ultimatum,11,,1
-2007,Jeff Cannata,,Hostel Part II,12,,0
+2007,Jeff Cannata,tt0498353,Hostel Part II,12,,0
 2007,Jeff Cannata,tt0479500,Nancy Drew,13,,0
 2008,Alex Albrecht,tt0371746,Iron Man,1,1,7
-2008,Alex Albrecht,,Indiana Jones 4,2,1,7
-2008,Alex Albrecht,,WALL-E,3,2,5
-2008,Alex Albrecht,,The Chronicles of Narnia: Prince Caspian,4,5,3
+2008,Alex Albrecht,tt0367882,Indiana Jones 4,2,1,7
+2008,Alex Albrecht,tt0910970,WALL-E,3,2,5
+2008,Alex Albrecht,tt0499448,The Chronicles of Narnia: Prince Caspian,4,5,3
 2008,Alex Albrecht,tt0468569,The Dark Knight,5,4,3
 2008,Alex Albrecht,tt0425061,Get Smart,6,,0
 2008,Alex Albrecht,tt0949731,The Happening,7,,0
@@ -51,9 +51,9 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2008,Alex Albrecht,tt0811080,Speed Racer,11,,0
 2008,Alex Albrecht,tt0795421,Mamma Mia!,12,,1
 2008,Alex Albrecht,tt0960144,You Don't Mess with the Zohan,13,,0
-2008,Dan Trachtenberg,,Indiana Jones 4,1,2,5
-2008,Dan Trachtenberg,,The Chronicles of Narnia: Prince Caspian,2,7,3
-2008,Dan Trachtenberg,,WALL-E,3,2,5
+2008,Dan Trachtenberg,tt0367882,Indiana Jones 4,1,2,5
+2008,Dan Trachtenberg,tt0499448,The Chronicles of Narnia: Prince Caspian,2,7,3
+2008,Dan Trachtenberg,tt0910970,WALL-E,3,2,5
 2008,Dan Trachtenberg,tt0468569,The Dark Knight,4,3,3
 2008,Dan Trachtenberg,tt0448157,Hancock,5,1,7
 2008,Dan Trachtenberg,tt0425061,Get Smart,6,,0
@@ -62,85 +62,85 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2008,Dan Trachtenberg,tt0910936,Pineapple Express,9,,0
 2008,Dan Trachtenberg,tt0942385,Tropic Thunder,10,,0
 2008,Dan Trachtenberg,tt0441773,Kung Fu Panda,11,,1
-2008,Dan Trachtenberg,,Sex and the City,12,,1
+2008,Dan Trachtenberg,tt1000774,Sex and the City,12,,1
 2008,Dan Trachtenberg,tt0795421,Mamma Mia!,13,,1
-2008,Jeff Cannata,,Indiana Jones 4,1,2,5
-2008,Jeff Cannata,,WALL-E,2,3,3
+2008,Jeff Cannata,tt0367882,Indiana Jones 4,1,2,5
+2008,Jeff Cannata,tt0910970,WALL-E,2,3,3
 2008,Jeff Cannata,tt0371746,Iron Man,3,1,7
 2008,Jeff Cannata,tt0468569,The Dark Knight,4,3,3
 2008,Jeff Cannata,tt0425061,Get Smart,5,,0
 2008,Jeff Cannata,tt0441773,Kung Fu Panda,6,0,10
 2008,Jeff Cannata,tt0448157,Hancock,7,3,3
-2008,Jeff Cannata,,Sex and the City,8,1,7
+2008,Jeff Cannata,tt1000774,Sex and the City,8,1,7
 2008,Jeff Cannata,tt0910936,Pineapple Express,9,,0
 2008,Jeff Cannata,tt0811080,Speed Racer,10,,0
 2008,Jeff Cannata,tt0795421,Mamma Mia!,11,,1
 2008,Jeff Cannata,tt0960144,You Don't Mess with the Zohan,12,,0
-2008,Jeff Cannata,,The Foot Fist Way,13,,0
-2009,Alex Albrecht,,Harry Potter 6,1,1,7
+2008,Jeff Cannata,tt0492619,The Foot Fist Way,13,,0
+2009,Alex Albrecht,tt0417741,Harry Potter 6,1,1,7
 2009,Alex Albrecht,tt0796366,Star Trek,2,3,3
 2009,Alex Albrecht,tt0808151,Angels & Demons,3,,0
 2009,Alex Albrecht,tt1049413,Up,4,1,7
-2009,Alex Albrecht,,Transformers 2,5,4,3
+2009,Alex Albrecht,tt1055369,Transformers 2,5,4,3
 2009,Alex Albrecht,tt0438488,Terminator Salvation,6,,0
 2009,Alex Albrecht,tt1046173,G.I. Joe: The Rise of Cobra,7,3,3
-2009,Alex Albrecht,,Night at the Museum II,8,0,10
+2009,Alex Albrecht,tt1078912,Night at the Museum II,8,0,10
 2009,Alex Albrecht,tt0458525,X-Men Origins: Wolverine,9,2,5
 2009,Alex Albrecht,tt1119646,The Hangover,10,6,3
-2009,Alex Albrecht,,Bruno,11,,0
+2009,Alex Albrecht,tt0889583,Bruno,11,,0
 2009,Alex Albrecht,tt1127180,Drag Me to Hell,12,,0
 2009,Alex Albrecht,tt0452694,The Time Traveler's Wife,13,,0
 2009,Dan Trachtenberg,tt0796366,Star Trek,1,4,3
-2009,Dan Trachtenberg,,Transformers 2,2,1,7
+2009,Dan Trachtenberg,tt1055369,Transformers 2,2,1,7
 2009,Dan Trachtenberg,tt0438488,Terminator Salvation,3,,0
-2009,Dan Trachtenberg,,Harry Potter 6,4,2,5
+2009,Dan Trachtenberg,tt0417741,Harry Potter 6,4,2,5
 2009,Dan Trachtenberg,tt0458525,X-Men Origins: Wolverine,5,2,5
 2009,Dan Trachtenberg,tt1049413,Up,6,3,3
 2009,Dan Trachtenberg,tt0808151,Angels & Demons,7,,0
-2009,Dan Trachtenberg,,Ice Age 3,8,2,5
+2009,Dan Trachtenberg,tt1080016,Ice Age 3,8,2,5
 2009,Dan Trachtenberg,tt1046173,G.I. Joe: The Rise of Cobra,9,1,7
-2009,Dan Trachtenberg,,Bruno,10,,0
+2009,Dan Trachtenberg,tt0889583,Bruno,10,,0
 2009,Dan Trachtenberg,tt0457400,Land of the Lost,11,,0
 2009,Dan Trachtenberg,tt1201167,Funny People,12,,0
-2009,Dan Trachtenberg,,Night at the Museum II,13,,1
-2009,Jeff Cannata,,Transformers 2,1,0,13
+2009,Dan Trachtenberg,tt1078912,Night at the Museum II,13,,1
+2009,Jeff Cannata,tt1055369,Transformers 2,1,0,13
 2009,Jeff Cannata,tt0438488,Terminator Salvation,2,,0
 2009,Jeff Cannata,tt0796366,Star Trek,3,2,5
-2009,Jeff Cannata,,Harry Potter 6,4,2,5
+2009,Jeff Cannata,tt0417741,Harry Potter 6,4,2,5
 2009,Jeff Cannata,tt1049413,Up,5,2,5
 2009,Jeff Cannata,tt0458525,X-Men Origins: Wolverine,6,1,7
 2009,Jeff Cannata,tt0808151,Angels & Demons,7,,0
 2009,Jeff Cannata,tt1046173,G.I. Joe: The Rise of Cobra,8,2,5
-2009,Jeff Cannata,,Night at the Museum II,9,1,7
-2009,Jeff Cannata,,Bruno,10,,0
-2009,Jeff Cannata,,Ice Age 3,11,,1
+2009,Jeff Cannata,tt1078912,Night at the Museum II,9,1,7
+2009,Jeff Cannata,tt0889583,Bruno,10,,0
+2009,Jeff Cannata,tt1080016,Ice Age 3,11,,1
 2009,Jeff Cannata,tt1201167,Funny People,12,,0
 2009,Jeff Cannata,tt1045778,Year One,13,,0
 2010,Alex Albrecht,tt0892791,Shrek Forever After,1,5,3
-2010,Alex Albrecht,,Prince of Persia,2,,0
-2010,Alex Albrecht,,MacGruber,3,,0
+2010,Alex Albrecht,tt0473075,Prince of Persia,2,,0
+2010,Alex Albrecht,tt1470023,MacGruber,3,,0
 2010,Alex Albrecht,tt1228705,Iron Man 2,4,2,5
 2010,Alex Albrecht,tt1325004,The Twilight Saga: Eclipse,5,2,5
 2010,Alex Albrecht,tt0435761,Toy Story 3,6,5,3
 2010,Alex Albrecht,tt0955308,Robin Hood,7,,0
 2010,Alex Albrecht,tt0938283,The Last Airbender,8,1,7
 2010,Alex Albrecht,tt1375666,Inception,9,5,3
-2010,Alex Albrecht,,The A-Team,10,,0
-2010,Alex Albrecht,,Knight & Day,11,,0
-2010,Alex Albrecht,,Get Him to the Greek,12,,0
-2010,Alex Albrecht,,The Sorcerer's Apprentice,13,,0
+2010,Alex Albrecht,tt0429493,The A-Team,10,,0
+2010,Alex Albrecht,tt1013743,Knight & Day,11,,0
+2010,Alex Albrecht,tt1226229,Get Him to the Greek,12,,0
+2010,Alex Albrecht,tt0963966,The Sorcerer's Apprentice,13,,0
 2010,Dan Trachtenberg,tt1228705,Iron Man 2,1,1,7
 2010,Dan Trachtenberg,tt0892791,Shrek Forever After,2,4,3
 2010,Dan Trachtenberg,tt0435761,Toy Story 3,3,2,5
-2010,Dan Trachtenberg,,Prince of Persia,4,,0
-2010,Dan Trachtenberg,,Sex and the City 2,5,,0
+2010,Dan Trachtenberg,tt0473075,Prince of Persia,4,,0
+2010,Dan Trachtenberg,tt1261945,Sex and the City 2,5,,0
 2010,Dan Trachtenberg,tt1325004,The Twilight Saga: Eclipse,6,3,3
 2010,Dan Trachtenberg,tt0938283,The Last Airbender,7,2,5
-2010,Dan Trachtenberg,,The A-Team,8,,0
-2010,Dan Trachtenberg,,Knight & Day,9,,0
-2010,Dan Trachtenberg,,Letters to Juliet,10,,0
+2010,Dan Trachtenberg,tt0429493,The A-Team,8,,0
+2010,Dan Trachtenberg,tt1013743,Knight & Day,9,,0
+2010,Dan Trachtenberg,tt0892318,Letters to Juliet,10,,0
 2010,Dan Trachtenberg,tt1375666,Inception,11,,1
-2010,Dan Trachtenberg,,The Sorcerer's Apprentice,12,,0
+2010,Dan Trachtenberg,tt0963966,The Sorcerer's Apprentice,12,,0
 2010,Dan Trachtenberg,tt1386588,The Other Guys,13,,0
 2010,David Chen,tt1228705,Iron Man 2,1,1,7
 2010,David Chen,tt0892791,Shrek Forever After,2,4,3
@@ -148,148 +148,148 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2010,David Chen,tt1325004,The Twilight Saga: Eclipse,4,1,7
 2010,David Chen,tt0435761,Toy Story 3,5,4,3
 2010,David Chen,tt1375666,Inception,6,2,5
-2010,David Chen,,Sex and the City 2,7,,0
-2010,David Chen,,Knight & Day,8,,0
+2010,David Chen,tt1261945,Sex and the City 2,7,,0
+2010,David Chen,tt1013743,Knight & Day,8,,0
 2010,David Chen,tt1155076,The Karate Kid,9,2,5
-2010,David Chen,,The A-Team,10,,0
-2010,David Chen,,The Sorcerer's Apprentice,11,,0
+2010,David Chen,tt0429493,The A-Team,10,,0
+2010,David Chen,tt0963966,The Sorcerer's Apprentice,11,,0
 2010,David Chen,tt0955308,Robin Hood,12,,0
-2010,David Chen,,Predators,13,,0
+2010,David Chen,tt1424381,Predators,13,,0
 2010,Jeff Cannata,tt0435761,Toy Story 3,1,0,13
 2010,Jeff Cannata,tt1325004,The Twilight Saga: Eclipse,2,1,7
 2010,Jeff Cannata,tt0892791,Shrek Forever After,3,3,3
 2010,Jeff Cannata,tt1228705,Iron Man 2,4,2,5
 2010,Jeff Cannata,tt0938283,The Last Airbender,5,4,3
-2010,Jeff Cannata,,Knight & Day,6,,0
-2010,Jeff Cannata,,Prince of Persia,7,,0
-2010,Jeff Cannata,,Sex and the City 2,8,,0
+2010,Jeff Cannata,tt1013743,Knight & Day,6,,0
+2010,Jeff Cannata,tt0473075,Prince of Persia,7,,0
+2010,Jeff Cannata,tt1261945,Sex and the City 2,8,,0
 2010,Jeff Cannata,tt0955308,Robin Hood,9,,0
 2010,Jeff Cannata,tt1323594,Despicable Me,10,5,3
 2010,Jeff Cannata,tt1155076,The Karate Kid,11,,1
 2010,Jeff Cannata,tt1375666,Inception,12,,1
-2010,Jeff Cannata,,Predators,13,,0
+2010,Jeff Cannata,tt1424381,Predators,13,,0
 2010,Peter Sciretta,tt1228705,Iron Man 2,1,1,7
 2010,Peter Sciretta,tt0435761,Toy Story 3,2,1,7
 2010,Peter Sciretta,tt1325004,The Twilight Saga: Eclipse,3,0,10
-2010,Peter Sciretta,,Sex and the City 2,4,,0
+2010,Peter Sciretta,tt1261945,Sex and the City 2,4,,0
 2010,Peter Sciretta,tt0892791,Shrek Forever After,5,1,7
 2010,Peter Sciretta,tt1375666,Inception,6,2,5
-2010,Peter Sciretta,,Prince of Persia,7,,0
+2010,Peter Sciretta,tt0473075,Prince of Persia,7,,0
 2010,Peter Sciretta,tt0938283,The Last Airbender,8,1,7
 2010,Peter Sciretta,tt1155076,The Karate Kid,9,2,5
 2010,Peter Sciretta,tt1323594,Despicable Me,10,5,3
-2010,Peter Sciretta,,The A-Team,11,,0
-2010,Peter Sciretta,,The Sorcerer's Apprentice,12,,0
-2010,Peter Sciretta,,Knight & Day,13,,0
+2010,Peter Sciretta,tt0429493,The A-Team,11,,0
+2010,Peter Sciretta,tt0963966,The Sorcerer's Apprentice,12,,0
+2010,Peter Sciretta,tt1013743,Knight & Day,13,,0
 2010,Russ Fischer,tt1228705,Iron Man 2,1,1,7
 2010,Russ Fischer,tt1325004,The Twilight Saga: Eclipse,2,1,7
 2010,Russ Fischer,tt0938283,The Last Airbender,3,6,3
 2010,Russ Fischer,tt0435761,Toy Story 3,4,3,3
-2010,Russ Fischer,,Sex and the City 2,5,,0
-2010,Russ Fischer,,The Sorcerer's Apprentice,6,,0
-2010,Russ Fischer,,Knight & Day,7,,0
+2010,Russ Fischer,tt1261945,Sex and the City 2,5,,0
+2010,Russ Fischer,tt0963966,The Sorcerer's Apprentice,6,,0
+2010,Russ Fischer,tt1013743,Knight & Day,7,,0
 2010,Russ Fischer,tt1375666,Inception,8,4,3
 2010,Russ Fischer,tt1155076,The Karate Kid,9,2,5
-2010,Russ Fischer,,The A-Team,10,,0
-2010,Russ Fischer,,Scott Pilgrim vs. the World,11,,0
+2010,Russ Fischer,tt0429493,The A-Team,10,,0
+2010,Russ Fischer,tt0446029,Scott Pilgrim vs. the World,11,,0
 2010,Russ Fischer,tt1386588,The Other Guys,12,,0
-2010,Russ Fischer,,Eat Pray Love,13,,0
-2011,Alex Albrecht,,Pirates of the Caribbean 4,1,3,3
-2011,Alex Albrecht,,Transformers 3,2,0,10
-2011,Alex Albrecht,,Harry Potter / Deathly Hallows (P2),3,2,5
+2010,Russ Fischer,tt0879870,Eat Pray Love,13,,0
+2011,Alex Albrecht,tt1298650,Pirates of the Caribbean 4,1,3,3
+2011,Alex Albrecht,tt1399103,Transformers 3,2,0,10
+2011,Alex Albrecht,tt1201607,Harry Potter / Deathly Hallows (P2),3,2,5
 2011,Alex Albrecht,tt1411697,The Hangover Part II,4,1,7
 2011,Alex Albrecht,tt1270798,X-Men: First Class,5,,0
-2011,Alex Albrecht,,Cowboys & Aliens,6,,0
+2011,Alex Albrecht,tt0409847,Cowboys & Aliens,6,,0
 2011,Alex Albrecht,tt1216475,Cars 2,7,1,7
 2011,Alex Albrecht,tt1133985,Green Lantern,8,,0
-2011,Alex Albrecht,,Kung Fu Panda 2,9,0,10
-2011,Alex Albrecht,,Captain America,10,2,5
+2011,Alex Albrecht,tt1302011,Kung Fu Panda 2,9,0,10
+2011,Alex Albrecht,tt0458339,Captain America,10,2,5
 2011,Alex Albrecht,tt1650062,Super 8,11,,0
-2011,Alex Albrecht,,Fast Five,12,,1
+2011,Alex Albrecht,tt1596343,Fast Five,12,,1
 2011,Alex Albrecht,tt1478338,Bridesmaids,13,,1
-2011,Dan Trachtenberg,,Harry Potter / Deathly Hallows (P2),1,0,13
-2011,Dan Trachtenberg,,Kung Fu Panda 2,2,7,3
+2011,Dan Trachtenberg,tt1201607,Harry Potter / Deathly Hallows (P2),1,0,13
+2011,Dan Trachtenberg,tt1302011,Kung Fu Panda 2,2,7,3
 2011,Dan Trachtenberg,tt1216475,Cars 2,3,3,3
-2011,Dan Trachtenberg,,Transformers 3,4,2,5
-2011,Dan Trachtenberg,,Pirates of the Caribbean 4,5,1,7
-2011,Dan Trachtenberg,,Prom,6,,0
+2011,Dan Trachtenberg,tt1399103,Transformers 3,4,2,5
+2011,Dan Trachtenberg,tt1298650,Pirates of the Caribbean 4,5,1,7
+2011,Dan Trachtenberg,tt1604171,Prom,6,,0
 2011,Dan Trachtenberg,tt1411697,The Hangover Part II,7,4,3
 2011,Dan Trachtenberg,tt1650062,Super 8,8,,0
 2011,Dan Trachtenberg,tt0800369,Thor,9,2,5
-2011,Dan Trachtenberg,,Captain America,10,2,5
+2011,Dan Trachtenberg,tt0458339,Captain America,10,2,5
 2011,Dan Trachtenberg,tt1270798,X-Men: First Class,11,,0
-2011,Dan Trachtenberg,,The Smurfs,12,,0
+2011,Dan Trachtenberg,tt0472181,The Smurfs,12,,0
 2011,Dan Trachtenberg,tt1133985,Green Lantern,13,,0
-2011,Jeff Cannata,,Transformers 3,1,1,7
+2011,Jeff Cannata,tt1399103,Transformers 3,1,1,7
 2011,Jeff Cannata,tt1216475,Cars 2,2,4,3
-2011,Jeff Cannata,,Pirates of the Caribbean 4,3,1,7
+2011,Jeff Cannata,tt1298650,Pirates of the Caribbean 4,3,1,7
 2011,Jeff Cannata,tt1411697,The Hangover Part II,4,1,7
-2011,Jeff Cannata,,Harry Potter / Deathly Hallows (P2),5,4,3
+2011,Jeff Cannata,tt1201607,Harry Potter / Deathly Hallows (P2),5,4,3
 2011,Jeff Cannata,tt1650062,Super 8,6,,0
-2011,Jeff Cannata,,Kung Fu Panda 2,7,2,5
+2011,Jeff Cannata,tt1302011,Kung Fu Panda 2,7,2,5
 2011,Jeff Cannata,tt0800369,Thor,8,1,7
-2011,Jeff Cannata,,Cowboys & Aliens,9,,0
-2011,Jeff Cannata,,Fast Five,10,5,3
+2011,Jeff Cannata,tt0409847,Cowboys & Aliens,9,,0
+2011,Jeff Cannata,tt1596343,Fast Five,10,5,3
 2011,Jeff Cannata,tt1133985,Green Lantern,11,,0
-2011,Jeff Cannata,,Captain America,12,,1
+2011,Jeff Cannata,tt0458339,Captain America,12,,1
 2011,Jeff Cannata,tt1270798,X-Men: First Class,13,,0
-2011,Peter Sciretta,,Transformers 3,1,1,7
-2011,Peter Sciretta,,Harry Potter / Deathly Hallows (P2),2,1,7
+2011,Peter Sciretta,tt1399103,Transformers 3,1,1,7
+2011,Peter Sciretta,tt1201607,Harry Potter / Deathly Hallows (P2),2,1,7
 2011,Peter Sciretta,tt1216475,Cars 2,3,3,3
-2011,Peter Sciretta,,Kung Fu Panda 2,4,5,3
-2011,Peter Sciretta,,Pirates of the Caribbean 4,5,1,7
+2011,Peter Sciretta,tt1302011,Kung Fu Panda 2,4,5,3
+2011,Peter Sciretta,tt1298650,Pirates of the Caribbean 4,5,1,7
 2011,Peter Sciretta,tt1411697,The Hangover Part II,6,3,3
-2011,Peter Sciretta,,The Smurfs,7,,0
+2011,Peter Sciretta,tt0472181,The Smurfs,7,,0
 2011,Peter Sciretta,tt1270798,X-Men: First Class,8,,0
 2011,Peter Sciretta,tt1133985,Green Lantern,9,,0
-2011,Peter Sciretta,,Fast Five,10,5,3
+2011,Peter Sciretta,tt1596343,Fast Five,10,5,3
 2011,Peter Sciretta,tt1650062,Super 8,11,,0
 2011,Peter Sciretta,tt0800369,Thor,12,,1
-2011,Peter Sciretta,,Captain America,13,,1
+2011,Peter Sciretta,tt0458339,Captain America,13,,1
 2012,Alex Albrecht,tt0848228,The Avengers,1,0,13
 2012,Alex Albrecht,tt1345836,The Dark Knight Rises,2,0,10
 2012,Alex Albrecht,tt1217209,Brave,3,1,7
-2012,Alex Albrecht,,Battleship,4,,0
+2012,Alex Albrecht,tt1440129,Battleship,4,,0
 2012,Alex Albrecht,tt0948470,The Amazing Spider-Man,5,2,5
 2012,Alex Albrecht,tt1194173,The Bourne Legacy,6,,0
 2012,Alex Albrecht,tt1735898,Snow White and the Huntsman,7,1,7
-2012,Alex Albrecht,,MIB 3,8,1,7
+2012,Alex Albrecht,tt1409024,MIB 3,8,1,7
 2012,Alex Albrecht,tt1667889,Ice Age: Continental Drift,9,0,10
-2012,Alex Albrecht,,G.I. Joe: Retaliation,10,,0
+2012,Alex Albrecht,tt1583421,G.I. Joe: Retaliation,10,,0
 2012,Alex Albrecht,tt1446714,Prometheus,11,,1
-2012,Alex Albrecht,,Abraham Lincoln,12,,0
+2012,Alex Albrecht,tt1611224,Abraham Lincoln,12,,0
 2012,Dan Trachtenberg,tt1345836,The Dark Knight Rises,1,1,7
 2012,Dan Trachtenberg,tt0848228,The Avengers,2,1,7
-2012,Dan Trachtenberg,,G.I. Joe: Retaliation,3,,0
+2012,Dan Trachtenberg,tt1583421,G.I. Joe: Retaliation,3,,0
 2012,Dan Trachtenberg,tt1217209,Brave,4,0,10
 2012,Dan Trachtenberg,tt1735898,Snow White and the Huntsman,5,3,3
 2012,Dan Trachtenberg,tt1667889,Ice Age: Continental Drift,6,3,3
-2012,Dan Trachtenberg,,Madagascar 3,7,1,7
+2012,Dan Trachtenberg,tt1277953,Madagascar 3,7,1,7
 2012,Dan Trachtenberg,tt0948470,The Amazing Spider-Man,8,5,3
 2012,Dan Trachtenberg,tt1446714,Prometheus,9,1,7
 2012,Dan Trachtenberg,tt1637725,Ted,10,5,3
-2012,Dan Trachtenberg,,MIB 3,11,,1
-2012,Dan Trachtenberg,,Battleship,12,,0
+2012,Dan Trachtenberg,tt1409024,MIB 3,11,,1
+2012,Dan Trachtenberg,tt1440129,Battleship,12,,0
 2012,Dan Trachtenberg,tt1194173,The Bourne Legacy,13,,0
 2012,Germain Lussier,tt1345836,The Dark Knight Rises,1,1,7
 2012,Germain Lussier,tt0848228,The Avengers,2,1,7
 2012,Germain Lussier,tt0948470,The Amazing Spider-Man,3,0,10
-2012,Germain Lussier,,MIB 3,4,3,3
+2012,Germain Lussier,tt1409024,MIB 3,4,3,3
 2012,Germain Lussier,tt1217209,Brave,5,1,7
-2012,Germain Lussier,,G.I. Joe: Retaliation,6,,0
-2012,Germain Lussier,,Madagascar 3,7,1,7
+2012,Germain Lussier,tt1583421,G.I. Joe: Retaliation,6,,0
+2012,Germain Lussier,tt1277953,Madagascar 3,7,1,7
 2012,Germain Lussier,tt1446714,Prometheus,8,2,5
-2012,Germain Lussier,,Battleship,9,,0
+2012,Germain Lussier,tt1440129,Battleship,9,,0
 2012,Germain Lussier,tt1735898,Snow White and the Huntsman,10,2,5
-2012,Germain Lussier,,That's My Boy,11,,0
+2012,Germain Lussier,tt1232200,That's My Boy,11,,0
 2012,Germain Lussier,tt1667889,Ice Age: Continental Drift,12,,1
-2012,Germain Lussier,,The Watch,13,,0
+2012,Germain Lussier,tt1298649,The Watch,13,,0
 2012,Jeff Cannata,tt0848228,The Avengers,1,0,13
 2012,Jeff Cannata,tt1345836,The Dark Knight Rises,2,0,10
 2012,Jeff Cannata,tt1667889,Ice Age: Continental Drift,3,6,3
 2012,Jeff Cannata,tt0948470,The Amazing Spider-Man,4,1,7
-2012,Jeff Cannata,,Madagascar 3,5,1,7
-2012,Jeff Cannata,,MIB 3,6,1,7
+2012,Jeff Cannata,tt1277953,Madagascar 3,5,1,7
+2012,Jeff Cannata,tt1409024,MIB 3,6,1,7
 2012,Jeff Cannata,tt1217209,Brave,7,3,3
 2012,Jeff Cannata,tt1446714,Prometheus,8,,7
 2012,Jeff Cannata,tt1790886,The Campaign,9,,0
@@ -297,17 +297,17 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2012,Jeff Cannata,tt1735898,Snow White and the Huntsman,11,,1
 2012,Peter Sciretta,tt1345836,The Dark Knight Rises,1,1,7
 2012,Peter Sciretta,tt0848228,The Avengers,2,1,7
-2012,Peter Sciretta,,MIB 3,3,4,3
+2012,Peter Sciretta,tt1409024,MIB 3,3,4,3
 2012,Peter Sciretta,tt1667889,Ice Age: Continental Drift,4,5,3
 2012,Peter Sciretta,tt0948470,The Amazing Spider-Man,5,2,5
-2012,Peter Sciretta,,Madagascar 3,6,0,10
+2012,Peter Sciretta,tt1277953,Madagascar 3,6,0,10
 2012,Peter Sciretta,tt1446714,Prometheus,7,3,3
 2012,Peter Sciretta,tt1637725,Ted,8,3,3
 2012,Peter Sciretta,tt1194173,The Bourne Legacy,9,,0
 2012,Peter Sciretta,tt1217209,Brave,10,6,3
 2012,Peter Sciretta,tt1735898,Snow White and the Huntsman,11,,1
 2012,Peter Sciretta,tt1077368,Dark Shadows,12,,0
-2012,Peter Sciretta,,Rock of Ages,13,,0
+2012,Peter Sciretta,tt1336608,Rock of Ages,13,,0
 2013,Germain Lussier,tt0770828,Man of Steel,1,2,5
 2013,Germain Lussier,tt1300854,Iron Man 3,2,1,7
 2013,Germain Lussier,tt1453405,Monsters University,3,1,7
@@ -319,7 +319,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2013,Germain Lussier,tt1408101,Star Trek Into Darkness,9,3,3
 2013,Germain Lussier,tt0848537,Epic,10,,0
 2013,Germain Lussier,tt2017020,The Smurfs 2,11,,0
-2013,Germain Lussier,,The Internship,12,,0
+2013,Germain Lussier,tt2234155,The Internship,12,,0
 2013,Germain Lussier,tt2334879,White House Down,13,,0
 2013,Jeff Cannata,tt1300854,Iron Man 3,1,0,13
 2013,Jeff Cannata,tt1453405,Monsters University,2,2,5
@@ -333,7 +333,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2013,Jeff Cannata,tt1430132,The Wolverine,10,,0
 2013,Jeff Cannata,tt1535108,Elysium,11,,0
 2013,Jeff Cannata,tt1343092,The Great Gatsby,12,,1
-2013,Jeff Cannata,,The Internship,13,,0
+2013,Jeff Cannata,tt2234155,The Internship,13,,0
 2013,Peter Sciretta,tt1453405,Monsters University,1,3,3
 2013,Peter Sciretta,tt1300854,Iron Man 3,2,1,7
 2013,Peter Sciretta,tt1690953,Despicable Me 2,3,1,7
@@ -348,7 +348,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2013,Peter Sciretta,tt1535108,Elysium,12,,0
 2013,Peter Sciretta,tt2334879,White House Down,13,,0
 2014,Germain Lussier,tt1646971,How to Train Your Dragon 2,1,8,3
-2014,Germain Lussier,,Transformers 4,2,0,10
+2014,Germain Lussier,tt2109248,Transformers 4,2,0,10
 2014,Germain Lussier,tt1872181,The Amazing Spider-Man 2,3,3,3
 2014,Germain Lussier,tt1877832,X-Men: Days of Future Past,4,0,10
 2014,Germain Lussier,tt2004420,Neighbors,5,,0
@@ -359,8 +359,8 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2014,Germain Lussier,tt2015381,Guardians of the Galaxy,10,9,3
 2014,Germain Lussier,tt1267297,Hercules,11,,0
 2014,Germain Lussier,tt2975578,The Purge: Anarchy,12,,0
-2014,Germain Lussier,,Blended,13,,0
-2014,Jeff Cannata,,Transformers 4,1,1,7
+2014,Germain Lussier,tt1086772,Blended,13,,0
+2014,Jeff Cannata,tt2109248,Transformers 4,1,1,7
 2014,Jeff Cannata,tt1872181,The Amazing Spider-Man 2,2,4,3
 2014,Jeff Cannata,tt1646971,How to Train Your Dragon 2,3,6,3
 2014,Jeff Cannata,tt1877832,X-Men: Days of Future Past,4,0,10
@@ -368,21 +368,21 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2014,Jeff Cannata,tt0831387,Godzilla,6,1,7
 2014,Jeff Cannata,tt2103281,Dawn of the Planet of the Apes,7,2,5
 2014,Jeff Cannata,tt1631867,Edge of Tomorrow,8,,0
-2014,Jeff Cannata,,Ninja Turtles,9,1,7
+2014,Jeff Cannata,tt1291150,Ninja Turtles,9,1,7
 2014,Jeff Cannata,tt1587310,Maleficent,10,7,3
 2014,Jeff Cannata,tt2015381,Guardians of the Galaxy,11,,1
-2014,Jeff Cannata,,Planes: Fire & Rescue,12,,0
-2014,Jeff Cannata,,Jupiter Ascending,13,,0
+2014,Jeff Cannata,tt2980706,Planes: Fire & Rescue,12,,0
+2014,Jeff Cannata,tt1617661,Jupiter Ascending,13,,0
 2014,Peter Sciretta,tt1646971,How to Train Your Dragon 2,1,8,3
 2014,Peter Sciretta,tt0831387,Godzilla,2,5,3
-2014,Peter Sciretta,,Transformers 4,3,1,7
+2014,Peter Sciretta,tt2109248,Transformers 4,3,1,7
 2014,Peter Sciretta,tt1872181,The Amazing Spider-Man 2,4,2,5
 2014,Peter Sciretta,tt2103281,Dawn of the Planet of the Apes,5,0,10
 2014,Peter Sciretta,tt1877832,X-Men: Days of Future Past,6,2,5
 2014,Peter Sciretta,tt2015381,Guardians of the Galaxy,7,6,3
 2014,Peter Sciretta,tt1587310,Maleficent,8,5,3
 2014,Peter Sciretta,tt2294449,22 Jump Street,9,1,7
-2014,Peter Sciretta,,Ninja Turtles,10,0,13
+2014,Peter Sciretta,tt1291150,Ninja Turtles,10,0,13
 2014,Peter Sciretta,tt2004420,Neighbors,11,,0
 2014,Peter Sciretta,tt1631867,Edge of Tomorrow,12,,0
 2014,Peter Sciretta,tt1267297,Hercules,13,,0
@@ -391,40 +391,40 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2015,David Chen,tt2293640,Minions,3,1,7
 2015,David Chen,tt0478970,Ant-Man,4,3,3
 2015,David Chen,tt2120120,Pixels,5,,0
-2015,David Chen,,M:I - Rogue Nation,6,0,10
+2015,David Chen,tt2381249,M:I - Rogue Nation,6,0,10
 2015,David Chen,tt0369610,Jurassic World,7,6,3
 2015,David Chen,tt2637276,Ted 2,8,,0
 2015,David Chen,tt1964418,Tomorrowland,9,,0
 2015,David Chen,tt1392190,Mad Max: Fury Road,10,1,7
 2015,David Chen,tt2126355,San Andreas,11,,1
 2015,David Chen,tt1502712,Fantastic Four,12,,0
-2015,David Chen,,Terminator: Genisys,13,,0
+2015,David Chen,tt1340138,Terminator: Genisys,13,,0
 2015,Germain Lussier,tt2395427,Avengers: Age of Ultron,1,1,7
 2015,Germain Lussier,tt2293640,Minions,2,2,5
 2015,Germain Lussier,tt0369610,Jurassic World,3,2,5
 2015,Germain Lussier,tt2096673,Inside Out,4,1,7
-2015,Germain Lussier,,M:I - Rogue Nation,5,1,7
+2015,Germain Lussier,tt2381249,M:I - Rogue Nation,5,1,7
 2015,Germain Lussier,tt0478970,Ant-Man,6,1,7
 2015,Germain Lussier,tt3079380,Spy,7,,0
 2015,Germain Lussier,tt2120120,Pixels,8,,0
 2015,Germain Lussier,tt2637276,Ted 2,9,,0
-2015,Germain Lussier,,Terminator: Genisys,10,,0
+2015,Germain Lussier,tt1340138,Terminator: Genisys,10,,0
 2015,Germain Lussier,tt2268016,Magic Mike XXL,11,,0
-2015,Germain Lussier,,Poltergeist (2015),12,,0
+2015,Germain Lussier,tt1029360,Poltergeist (2015),12,,0
 2015,Germain Lussier,tt2848292,Pitch Perfect 2,13,,1
 2015,Jeff Cannata,tt2395427,Avengers: Age of Ultron,1,1,7
 2015,Jeff Cannata,tt2293640,Minions,2,2,5
 2015,Jeff Cannata,tt0369610,Jurassic World,3,2,5
-2015,Jeff Cannata,,M:I - Rogue Nation,4,2,5
+2015,Jeff Cannata,tt2381249,M:I - Rogue Nation,4,2,5
 2015,Jeff Cannata,tt2096673,Inside Out,5,2,5
 2015,Jeff Cannata,tt2637276,Ted 2,6,,0
 2015,Jeff Cannata,tt2268016,Magic Mike XXL,7,,0
 2015,Jeff Cannata,tt1392190,Mad Max: Fury Road,8,1,7
 2015,Jeff Cannata,tt0478970,Ant-Man,9,2,5
 2015,Jeff Cannata,tt1964418,Tomorrowland,10,,0
-2015,Jeff Cannata,,Terminator: Genisys,11,,0
+2015,Jeff Cannata,tt1340138,Terminator: Genisys,11,,0
 2015,Jeff Cannata,tt1502712,Fantastic Four,12,,0
-2015,Jeff Cannata,,Poltergeist (2015),13,,0
+2015,Jeff Cannata,tt1029360,Poltergeist (2015),13,,0
 2015,Peter Sciretta,tt2395427,Avengers: Age of Ultron,1,1,7
 2015,Peter Sciretta,tt2293640,Minions,2,2,5
 2015,Peter Sciretta,tt0369610,Jurassic World,3,2,5
@@ -432,217 +432,217 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2015,Peter Sciretta,tt2637276,Ted 2,5,,0
 2015,Peter Sciretta,tt1964418,Tomorrowland,6,,0
 2015,Peter Sciretta,tt2096673,Inside Out,7,4,3
-2015,Peter Sciretta,,M:I - Rogue Nation,8,2,5
+2015,Peter Sciretta,tt2381249,M:I - Rogue Nation,8,2,5
 2015,Peter Sciretta,tt1392190,Mad Max: Fury Road,9,0,10
 2015,Peter Sciretta,tt2120120,Pixels,10,,0
 2015,Peter Sciretta,tt1502712,Fantastic Four,11,,0
 2015,Peter Sciretta,tt2126355,San Andreas,12,,1
 2015,Peter Sciretta,tt2268016,Magic Mike XXL,13,,0
-2016,David Chen,,Captain America 3,1,1,7
+2016,David Chen,tt3498820,Captain America 3,1,1,7
 2016,David Chen,tt2277860,Finding Dory,2,1,7
 2016,David Chen,tt2709768,The Secret Life of Pets,3,0,10
 2016,David Chen,tt1386697,Suicide Squad,4,0,10
 2016,David Chen,tt3385516,X-Men: Apocalypse,5,1,7
-2016,David Chen,,Star Trek Beyond,6,1,7
+2016,David Chen,tt2660888,Star Trek Beyond,6,1,7
 2016,David Chen,tt4196776,Jason Bourne,7,2,5
-2016,David Chen,,Ghostbusters (2016),8,1,7
+2016,David Chen,tt1289401,Ghostbusters (2016),8,1,7
 2016,David Chen,tt1628841,Independence Day: Resurgence,9,,0
 2016,David Chen,tt3416828,Ice Age: Collision Course,10,,0
 2016,David Chen,tt3691740,The BFG,11,,0
 2016,David Chen,tt0803096,Warcraft,12,,0
 2016,David Chen,tt0918940,The Legend of Tarzan,13,,1
-2016,Devindra Hardawar,,Captain America 3,1,1,7
+2016,Devindra Hardawar,tt3498820,Captain America 3,1,1,7
 2016,Devindra Hardawar,tt1386697,Suicide Squad,2,2,5
-2016,Devindra Hardawar,,Angry Birds,3,,0
+2016,Devindra Hardawar,tt1985949,Angry Birds,3,,0
 2016,Devindra Hardawar,tt3385516,X-Men: Apocalypse,4,2,5
 2016,Devindra Hardawar,tt2709768,The Secret Life of Pets,5,2,5
 2016,Devindra Hardawar,tt2277860,Finding Dory,6,5,3
 2016,Devindra Hardawar,tt4196776,Jason Bourne,7,2,5
-2016,Devindra Hardawar,,Star Trek Beyond,8,1,7
+2016,Devindra Hardawar,tt2660888,Star Trek Beyond,8,1,7
 2016,Devindra Hardawar,tt1628841,Independence Day: Resurgence,9,,0
-2016,Devindra Hardawar,,Ghostbusters (2016),10,1,7
-2016,Devindra Hardawar,,Central Intelligence,11,,1
+2016,Devindra Hardawar,tt1289401,Ghostbusters (2016),10,1,7
+2016,Devindra Hardawar,tt1489889,Central Intelligence,11,,1
 2016,Devindra Hardawar,tt3691740,The BFG,12,,0
 2016,Devindra Hardawar,tt1124037,Free State of Jones,13,,0
-2016,Germain Lussier,,Captain America 3,1,1,7
+2016,Germain Lussier,tt3498820,Captain America 3,1,1,7
 2016,Germain Lussier,tt2277860,Finding Dory,2,1,7
 2016,Germain Lussier,tt1628841,Independence Day: Resurgence,3,,0
 2016,Germain Lussier,tt2709768,The Secret Life of Pets,4,1,7
 2016,Germain Lussier,tt3385516,X-Men: Apocalypse,5,1,7
-2016,Germain Lussier,,Alice in Wonderland 2,6,,0
-2016,Germain Lussier,,Central Intelligence,7,1,7
-2016,Germain Lussier,,Ghostbusters (2016),8,1,7
+2016,Germain Lussier,tt2567026,Alice in Wonderland 2,6,,0
+2016,Germain Lussier,tt1489889,Central Intelligence,7,1,7
+2016,Germain Lussier,tt1289401,Ghostbusters (2016),8,1,7
 2016,Germain Lussier,tt1386697,Suicide Squad,9,5,3
-2016,Germain Lussier,,Star Trek Beyond,10,3,3
-2016,Germain Lussier,,Neighbors 2,11,,0
-2016,Germain Lussier,,Ninja Turtles 2,12,,0
+2016,Germain Lussier,tt2660888,Star Trek Beyond,10,3,3
+2016,Germain Lussier,tt4438848,Neighbors 2,11,,0
+2016,Germain Lussier,tt3949660,Ninja Turtles 2,12,,0
 2016,Germain Lussier,tt3065204,The Conjuring 2,13,,0
-2016,Jeff Cannata,,Captain America 3,1,1,7
+2016,Jeff Cannata,tt3498820,Captain America 3,1,1,7
 2016,Jeff Cannata,tt2277860,Finding Dory,2,1,7
 2016,Jeff Cannata,tt3416828,Ice Age: Collision Course,3,,0
 2016,Jeff Cannata,tt3385516,X-Men: Apocalypse,4,2,5
 2016,Jeff Cannata,tt1628841,Independence Day: Resurgence,5,,0
-2016,Jeff Cannata,,Ninja Turtles 2,6,,0
+2016,Jeff Cannata,tt3949660,Ninja Turtles 2,6,,0
 2016,Jeff Cannata,tt4196776,Jason Bourne,7,2,5
-2016,Jeff Cannata,,Star Trek Beyond,8,1,7
-2016,Jeff Cannata,,Ghostbusters (2016),9,0,10
+2016,Jeff Cannata,tt2660888,Star Trek Beyond,8,1,7
+2016,Jeff Cannata,tt1289401,Ghostbusters (2016),9,0,10
 2016,Jeff Cannata,tt1386697,Suicide Squad,10,6,3
-2016,Jeff Cannata,,Neighbors 2,11,,0
-2016,Jeff Cannata,,Central Intelligence,12,,1
+2016,Jeff Cannata,tt4438848,Neighbors 2,11,,0
+2016,Jeff Cannata,tt1489889,Central Intelligence,12,,1
 2016,Jeff Cannata,tt2788732,Pete's Dragon,13,,0
 2016,Peter Sciretta,tt2277860,Finding Dory,1,0,13
-2016,Peter Sciretta,,Captain America 3,2,0,10
+2016,Peter Sciretta,tt3498820,Captain America 3,2,0,10
 2016,Peter Sciretta,tt1386697,Suicide Squad,3,1,7
 2016,Peter Sciretta,tt1628841,Independence Day: Resurgence,4,,0
 2016,Peter Sciretta,tt3385516,X-Men: Apocalypse,5,1,7
-2016,Peter Sciretta,,Ghostbusters (2016),6,3,3
+2016,Peter Sciretta,tt1289401,Ghostbusters (2016),6,3,3
 2016,Peter Sciretta,tt2709768,The Secret Life of Pets,7,4,3
-2016,Peter Sciretta,,Star Trek Beyond,8,1,7
-2016,Peter Sciretta,,Alice in Wonderland 2,9,,0
-2016,Peter Sciretta,,Ninja Turtles 2,10,,0
+2016,Peter Sciretta,tt2660888,Star Trek Beyond,8,1,7
+2016,Peter Sciretta,tt2567026,Alice in Wonderland 2,9,,0
+2016,Peter Sciretta,tt3949660,Ninja Turtles 2,10,,0
 2016,Peter Sciretta,tt3416828,Ice Age: Collision Course,11,,0
-2016,Peter Sciretta,,Neighbors 2,12,,0
+2016,Peter Sciretta,tt4438848,Neighbors 2,12,,0
 2016,Peter Sciretta,tt0803096,Warcraft,13,,0
 2017,David Chen,tt3469046,Despicable Me 3,1,3,3
-2017,David Chen,,Guardians of the Galaxy 2,2,0,10
+2017,David Chen,tt3896198,Guardians of the Galaxy 2,2,0,10
 2017,David Chen,tt2250912,Spider-Man: Homecoming,3,0,10
 2017,David Chen,tt0451279,Wonder Woman,4,3,3
-2017,David Chen,,Transformers 5,5,4,3
+2017,David Chen,tt3371366,Transformers 5,5,4,3
 2017,David Chen,tt3450958,War for the Planet of the Apes,6,2,5
 2017,David Chen,tt3606752,Cars 3,7,0,10
 2017,David Chen,tt5013056,Dunkirk,8,3,3
-2017,David Chen,,Pirates of the Caribbean 5,9,3,3
-2017,David Chen,,The Mummy (2017),10,,0
+2017,David Chen,tt1790809,Pirates of the Caribbean 5,9,3,3
+2017,David Chen,tt2345759,The Mummy (2017),10,,0
 2017,David Chen,tt2316204,Alien: Covenant,11,,0
 2017,David Chen,tt1469304,Baywatch,12,,0
-2017,David Chen,,Captain Underpants,13,,0
-2017,Devindra Hardawar,,Guardians of the Galaxy 2,1,1,7
+2017,David Chen,tt2091256,Captain Underpants,13,,0
+2017,Devindra Hardawar,tt3896198,Guardians of the Galaxy 2,1,1,7
 2017,Devindra Hardawar,tt3469046,Despicable Me 3,2,2,5
 2017,Devindra Hardawar,tt2250912,Spider-Man: Homecoming,3,0,10
 2017,Devindra Hardawar,tt0451279,Wonder Woman,4,3,3
 2017,Devindra Hardawar,tt5013056,Dunkirk,5,0,10
-2017,Devindra Hardawar,,Transformers 5,6,3,3
-2017,Devindra Hardawar,,Pirates of the Caribbean 5,7,1,7
+2017,Devindra Hardawar,tt3371366,Transformers 5,6,3,3
+2017,Devindra Hardawar,tt1790809,Pirates of the Caribbean 5,7,1,7
 2017,Devindra Hardawar,tt3450958,War for the Planet of the Apes,8,0,10
 2017,Devindra Hardawar,tt1959563,The Hitman's Bodyguard,9,,0
 2017,Devindra Hardawar,tt1648190,The Dark Tower,10,,0
 2017,Devindra Hardawar,tt2406566,Atomic Blonde,11,,0
-2017,Devindra Hardawar,,The Mummy (2017),12,,0
-2017,Devindra Hardawar,,King Arthur,13,,0
-2017,Germain Lussier,,Guardians of the Galaxy 2,1,1,7
+2017,Devindra Hardawar,tt2345759,The Mummy (2017),12,,0
+2017,Devindra Hardawar,tt1972591,King Arthur,13,,0
+2017,Germain Lussier,tt3896198,Guardians of the Galaxy 2,1,1,7
 2017,Germain Lussier,tt3469046,Despicable Me 3,2,2,5
-2017,Germain Lussier,,Transformers 5,3,6,3
-2017,Germain Lussier,,Pirates of the Caribbean 5,4,2,5
+2017,Germain Lussier,tt3371366,Transformers 5,3,6,3
+2017,Germain Lussier,tt1790809,Pirates of the Caribbean 5,4,2,5
 2017,Germain Lussier,tt2250912,Spider-Man: Homecoming,5,2,5
 2017,Germain Lussier,tt3606752,Cars 3,6,1,7
 2017,Germain Lussier,tt0451279,Wonder Woman,7,6,3
 2017,Germain Lussier,tt2316204,Alien: Covenant,8,,0
 2017,Germain Lussier,tt5013056,Dunkirk,9,4,3
 2017,Germain Lussier,tt3450958,War for the Planet of the Apes,10,2,5
-2017,Germain Lussier,,The Mummy (2017),11,,0
+2017,Germain Lussier,tt2345759,The Mummy (2017),11,,0
 2017,Germain Lussier,tt1469304,Baywatch,12,,0
-2017,Germain Lussier,,Captain Underpants,13,,0
+2017,Germain Lussier,tt2091256,Captain Underpants,13,,0
 2017,Jeff Cannata,tt2250912,Spider-Man: Homecoming,1,2,5
-2017,Jeff Cannata,,Transformers 5,2,7,3
-2017,Jeff Cannata,,Guardians of the Galaxy 2,3,1,7
+2017,Jeff Cannata,tt3371366,Transformers 5,2,7,3
+2017,Jeff Cannata,tt3896198,Guardians of the Galaxy 2,3,1,7
 2017,Jeff Cannata,tt3469046,Despicable Me 3,4,0,10
 2017,Jeff Cannata,tt3606752,Cars 3,5,2,5
 2017,Jeff Cannata,tt3450958,War for the Planet of the Apes,6,2,5
-2017,Jeff Cannata,,Pirates of the Caribbean 5,7,1,7
+2017,Jeff Cannata,tt1790809,Pirates of the Caribbean 5,7,1,7
 2017,Jeff Cannata,tt5013056,Dunkirk,8,3,3
 2017,Jeff Cannata,tt2316204,Alien: Covenant,9,,0
-2017,Jeff Cannata,,The Mummy (2017),10,,0
+2017,Jeff Cannata,tt2345759,The Mummy (2017),10,,0
 2017,Jeff Cannata,tt4799050,Rough Night,11,,0
 2017,Jeff Cannata,tt1469304,Baywatch,12,,0
 2017,Jeff Cannata,tt0451279,Wonder Woman,13,,1
-2017,Peter Sciretta,,Guardians of the Galaxy 2,1,1,7
+2017,Peter Sciretta,tt3896198,Guardians of the Galaxy 2,1,1,7
 2017,Peter Sciretta,tt3469046,Despicable Me 3,2,2,5
 2017,Peter Sciretta,tt2250912,Spider-Man: Homecoming,3,0,10
 2017,Peter Sciretta,tt3450958,War for the Planet of the Apes,4,4,3
 2017,Peter Sciretta,tt0451279,Wonder Woman,5,4,3
-2017,Peter Sciretta,,Transformers 5,6,3,3
+2017,Peter Sciretta,tt3371366,Transformers 5,6,3,3
 2017,Peter Sciretta,tt3606752,Cars 3,7,0,10
-2017,Peter Sciretta,,Pirates of the Caribbean 5,8,2,5
-2017,Peter Sciretta,,The Mummy (2017),9,,0
+2017,Peter Sciretta,tt1790809,Pirates of the Caribbean 5,8,2,5
+2017,Peter Sciretta,tt2345759,The Mummy (2017),9,,0
 2017,Peter Sciretta,tt5013056,Dunkirk,10,5,3
 2017,Peter Sciretta,tt2316204,Alien: Covenant,11,,0
 2017,Peter Sciretta,tt4877122,The Emoji Movie,12,,0
-2017,Peter Sciretta,,Valerian,13,,0
+2017,Peter Sciretta,tt2239822,Valerian,13,,0
 2018,David Chen,tt4154756,Avengers: Infinity War,1,0,13
-2018,David Chen,,Jurassic World 2,2,1,7
+2018,David Chen,tt4881806,Jurassic World 2,2,1,7
 2018,David Chen,tt5463162,Deadpool 2,3,1,7
 2018,David Chen,tt3606756,Incredibles 2,4,2,5
 2018,David Chen,tt3778644,Solo: A Star Wars Story,5,1,7
-2018,David Chen,,Mission: Impossible 6,6,1,7
+2018,David Chen,tt4912910,Mission: Impossible 6,6,1,7
 2018,David Chen,tt5095030,Ant-Man and the Wasp,7,2,5
 2018,David Chen,tt5758778,Skyscraper,8,,0
-2018,David Chen,,Ocean's 8,9,0,10
-2018,David Chen,,Hotel Transylvania 3,10,2,5
-2018,David Chen,,Mamma Mia 2,11,,0
+2018,David Chen,tt5164214,Ocean's 8,9,0,10
+2018,David Chen,tt5220122,Hotel Transylvania 3,10,2,5
+2018,David Chen,tt6911608,Mamma Mia 2,11,,0
 2018,David Chen,tt4779682,The Meg,12,,1
 2018,David Chen,tt4575576,Christopher Robin,13,,0
 2018,Devindra Hardawar,tt4154756,Avengers: Infinity War,1,0,13
-2018,Devindra Hardawar,,Jurassic World 2,2,1,7
+2018,Devindra Hardawar,tt4881806,Jurassic World 2,2,1,7
 2018,Devindra Hardawar,tt3778644,Solo: A Star Wars Story,3,3,3
 2018,Devindra Hardawar,tt3606756,Incredibles 2,4,2,5
 2018,Devindra Hardawar,tt5463162,Deadpool 2,5,1,7
-2018,Devindra Hardawar,,Mission: Impossible 6,6,1,7
+2018,Devindra Hardawar,tt4912910,Mission: Impossible 6,6,1,7
 2018,Devindra Hardawar,tt4779682,The Meg,7,3,3
-2018,Devindra Hardawar,,Ocean's 8,8,1,7
+2018,Devindra Hardawar,tt5164214,Ocean's 8,8,1,7
 2018,Devindra Hardawar,tt5095030,Ant-Man and the Wasp,9,4,3
 2018,Devindra Hardawar,tt5758778,Skyscraper,10,,0
 2018,Devindra Hardawar,tt6133466,The First Purge,11,,0
-2018,Devindra Hardawar,,Sicario 2,12,,0
-2018,Devindra Hardawar,,Mamma Mia 2,13,,0
+2018,Devindra Hardawar,tt5052474,Sicario 2,12,,0
+2018,Devindra Hardawar,tt6911608,Mamma Mia 2,13,,0
 2018,Germain Lussier,tt4154756,Avengers: Infinity War,1,0,13
-2018,Germain Lussier,,Jurassic World 2,2,1,7
+2018,Germain Lussier,tt4881806,Jurassic World 2,2,1,7
 2018,Germain Lussier,tt3606756,Incredibles 2,3,1,7
 2018,Germain Lussier,tt3778644,Solo: A Star Wars Story,4,2,5
 2018,Germain Lussier,tt5463162,Deadpool 2,5,1,7
-2018,Germain Lussier,,Mission: Impossible 6,6,1,7
-2018,Germain Lussier,,Ocean's 8,7,2,5
+2018,Germain Lussier,tt4912910,Mission: Impossible 6,6,1,7
+2018,Germain Lussier,tt5164214,Ocean's 8,7,2,5
 2018,Germain Lussier,tt4779682,The Meg,8,2,5
 2018,Germain Lussier,tt5095030,Ant-Man and the Wasp,9,4,3
-2018,Germain Lussier,,Hotel Transylvania 3,10,2,5
+2018,Germain Lussier,tt5220122,Hotel Transylvania 3,10,2,5
 2018,Germain Lussier,tt5758778,Skyscraper,11,,0
-2018,Germain Lussier,,Mamma Mia 2,12,,0
+2018,Germain Lussier,tt6911608,Mamma Mia 2,12,,0
 2018,Germain Lussier,tt2854926,Tag,13,,0
 2018,Jeff Cannata,tt4154756,Avengers: Infinity War,1,0,13
-2018,Jeff Cannata,,Jurassic World 2,2,1,7
+2018,Jeff Cannata,tt4881806,Jurassic World 2,2,1,7
 2018,Jeff Cannata,tt3778644,Solo: A Star Wars Story,3,3,3
 2018,Jeff Cannata,tt3606756,Incredibles 2,4,2,5
 2018,Jeff Cannata,tt5463162,Deadpool 2,5,1,7
-2018,Jeff Cannata,,Ocean's 8,6,3,3
+2018,Jeff Cannata,tt5164214,Ocean's 8,6,3,3
 2018,Jeff Cannata,tt5095030,Ant-Man and the Wasp,7,2,5
-2018,Jeff Cannata,,Mission: Impossible 6,8,1,7
+2018,Jeff Cannata,tt4912910,Mission: Impossible 6,8,1,7
 2018,Jeff Cannata,tt4575576,Christopher Robin,9,,0
-2018,Jeff Cannata,,Hotel Transylvania 3,10,2,5
+2018,Jeff Cannata,tt5220122,Hotel Transylvania 3,10,2,5
 2018,Jeff Cannata,tt5758778,Skyscraper,11,,0
 2018,Jeff Cannata,tt3766354,The Equalizer 2,12,,0
 2018,Jeff Cannata,tt2854926,Tag,13,,0
 2018,Kristy Puchko,tt4154756,Avengers: Infinity War,1,0,13
-2018,Kristy Puchko,,Jurassic World 2,2,1,7
+2018,Kristy Puchko,tt4881806,Jurassic World 2,2,1,7
 2018,Kristy Puchko,tt3778644,Solo: A Star Wars Story,3,3,3
 2018,Kristy Puchko,tt5463162,Deadpool 2,4,0,10
 2018,Kristy Puchko,tt3606756,Incredibles 2,5,3,3
-2018,Kristy Puchko,,Mission: Impossible 6,6,1,7
+2018,Kristy Puchko,tt4912910,Mission: Impossible 6,6,1,7
 2018,Kristy Puchko,tt5095030,Ant-Man and the Wasp,7,2,5
-2018,Kristy Puchko,,Teen Titans Go!,8,,0
-2018,Kristy Puchko,,Hotel Transylvania 3,9,1,7
-2018,Kristy Puchko,,Mamma Mia 2,10,,0
-2018,Kristy Puchko,,Ocean's 8,11,,1
+2018,Kristy Puchko,tt7424200,Teen Titans Go!,8,,0
+2018,Kristy Puchko,tt5220122,Hotel Transylvania 3,9,1,7
+2018,Kristy Puchko,tt6911608,Mamma Mia 2,10,,0
+2018,Kristy Puchko,tt5164214,Ocean's 8,11,,1
 2018,Kristy Puchko,tt5758778,Skyscraper,12,,0
 2018,Kristy Puchko,tt3766354,The Equalizer 2,13,,0
 2018,Peter Sciretta,tt4154756,Avengers: Infinity War,1,0,13
-2018,Peter Sciretta,,Jurassic World 2,2,1,7
+2018,Peter Sciretta,tt4881806,Jurassic World 2,2,1,7
 2018,Peter Sciretta,tt3778644,Solo: A Star Wars Story,3,3,3
 2018,Peter Sciretta,tt5463162,Deadpool 2,4,0,10
 2018,Peter Sciretta,tt3606756,Incredibles 2,5,3,3
 2018,Peter Sciretta,tt5095030,Ant-Man and the Wasp,6,1,7
-2018,Peter Sciretta,,Hotel Transylvania 3,7,1,7
-2018,Peter Sciretta,,Ocean's 8,8,1,7
-2018,Peter Sciretta,,Mamma Mia 2,9,,0
-2018,Peter Sciretta,,Mission: Impossible 6,10,3,3
+2018,Peter Sciretta,tt5220122,Hotel Transylvania 3,7,1,7
+2018,Peter Sciretta,tt5164214,Ocean's 8,8,1,7
+2018,Peter Sciretta,tt6911608,Mamma Mia 2,9,,0
+2018,Peter Sciretta,tt4912910,Mission: Impossible 6,10,3,3
 2018,Peter Sciretta,tt5758778,Skyscraper,11,,0
 2018,Peter Sciretta,tt6495770,Action Point,12,,0
 2018,Peter Sciretta,tt3766354,The Equalizer 2,13,,0
@@ -650,70 +650,70 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2019,David Chen,tt6105098,The Lion King,2,0,10
 2019,David Chen,tt1979376,Toy Story 4,3,0,10
 2019,David Chen,tt6320628,Spider-Man: Far from Home,4,0,10
-2019,David Chen,,Godzilla 2,5,,0
+2019,David Chen,tt3741700,Godzilla 2,5,,0
 2019,David Chen,tt5113040,The Secret Life of Pets 2,6,2,5
-2019,David Chen,,Aladdin (2019),7,2,5
-2019,David Chen,,Detective Pikachu,8,1,7
-2019,David Chen,,Hobbs & Shaw,9,2,5
+2019,David Chen,tt6139732,Aladdin (2019),7,2,5
+2019,David Chen,tt5884052,Detective Pikachu,8,1,7
+2019,David Chen,tt6806448,Hobbs & Shaw,9,2,5
 2019,David Chen,tt2066051,Rocketman,10,,0
-2019,David Chen,,Men in Black International,11,,0
+2019,David Chen,tt2283336,Men in Black International,11,,0
 2019,David Chen,tt8079248,Yesterday,12,,0
-2019,David Chen,,Once Upon a Time in Hollywood,13,,1
+2019,David Chen,tt7131622,Once Upon a Time in Hollywood,13,,1
 2019,Devindra Hardawar,tt4154796,Avengers: Endgame,1,0,13
 2019,Devindra Hardawar,tt1979376,Toy Story 4,2,1,7
 2019,Devindra Hardawar,tt6105098,The Lion King,3,1,7
-2019,Devindra Hardawar,,Aladdin (2019),4,1,7
+2019,Devindra Hardawar,tt6139732,Aladdin (2019),4,1,7
 2019,Devindra Hardawar,tt6320628,Spider-Man: Far from Home,5,1,7
-2019,Devindra Hardawar,,Detective Pikachu,6,3,3
+2019,Devindra Hardawar,tt5884052,Detective Pikachu,6,3,3
 2019,Devindra Hardawar,tt5113040,The Secret Life of Pets 2,7,1,7
-2019,Devindra Hardawar,,Men in Black International,8,,0
-2019,Devindra Hardawar,,Godzilla 2,9,,0
-2019,Devindra Hardawar,,Hobbs & Shaw,10,3,3
-2019,Devindra Hardawar,,John Wick 3,11,,1
-2019,Devindra Hardawar,,Once Upon a Time in Hollywood,12,,1
+2019,Devindra Hardawar,tt2283336,Men in Black International,8,,0
+2019,Devindra Hardawar,tt3741700,Godzilla 2,9,,0
+2019,Devindra Hardawar,tt6806448,Hobbs & Shaw,10,3,3
+2019,Devindra Hardawar,tt6146586,John Wick 3,11,,1
+2019,Devindra Hardawar,tt7131622,Once Upon a Time in Hollywood,12,,1
 2019,Devindra Hardawar,tt2066051,Rocketman,13,,0
 2019,Germain Lussier,tt4154796,Avengers: Endgame,1,0,13
 2019,Germain Lussier,tt6105098,The Lion King,2,0,10
 2019,Germain Lussier,tt1979376,Toy Story 4,3,0,10
 2019,Germain Lussier,tt6320628,Spider-Man: Far from Home,4,0,10
 2019,Germain Lussier,tt5113040,The Secret Life of Pets 2,5,3,3
-2019,Germain Lussier,,Hobbs & Shaw,6,1,7
-2019,Germain Lussier,,Aladdin (2019),7,2,5
-2019,Germain Lussier,,Detective Pikachu,8,1,7
-2019,Germain Lussier,,Men in Black International,9,,0
-2019,Germain Lussier,,Once Upon a Time in Hollywood,10,0,13
-2019,Germain Lussier,,Godzilla 2,11,,0
+2019,Germain Lussier,tt6806448,Hobbs & Shaw,6,1,7
+2019,Germain Lussier,tt6139732,Aladdin (2019),7,2,5
+2019,Germain Lussier,tt5884052,Detective Pikachu,8,1,7
+2019,Germain Lussier,tt2283336,Men in Black International,9,,0
+2019,Germain Lussier,tt7131622,Once Upon a Time in Hollywood,10,0,13
+2019,Germain Lussier,tt3741700,Godzilla 2,11,,0
 2019,Germain Lussier,tt2066051,Rocketman,12,,0
-2019,Germain Lussier,,Dark Phoenix,13,,0
+2019,Germain Lussier,tt6565702,Dark Phoenix,13,,0
 2019,Jeff Cannata,tt4154796,Avengers: Endgame,1,0,13
 2019,Jeff Cannata,tt1979376,Toy Story 4,2,1,7
 2019,Jeff Cannata,tt6105098,The Lion King,3,1,7
 2019,Jeff Cannata,tt6320628,Spider-Man: Far from Home,4,0,10
-2019,Jeff Cannata,,Hobbs & Shaw,5,2,5
+2019,Jeff Cannata,tt6806448,Hobbs & Shaw,5,2,5
 2019,Jeff Cannata,tt5113040,The Secret Life of Pets 2,6,2,5
-2019,Jeff Cannata,,Detective Pikachu,7,2,5
-2019,Jeff Cannata,,Aladdin (2019),8,3,3
-2019,Jeff Cannata,,Godzilla 2,9,,0
-2019,Jeff Cannata,,Dark Phoenix,10,,0
-2019,Jeff Cannata,,Once Upon a Time in Hollywood,11,,1
-2019,Jeff Cannata,,Men in Black International,12,,0
-2019,Jeff Cannata,,John Wick 3,13,,1
+2019,Jeff Cannata,tt5884052,Detective Pikachu,7,2,5
+2019,Jeff Cannata,tt6139732,Aladdin (2019),8,3,3
+2019,Jeff Cannata,tt3741700,Godzilla 2,9,,0
+2019,Jeff Cannata,tt6565702,Dark Phoenix,10,,0
+2019,Jeff Cannata,tt7131622,Once Upon a Time in Hollywood,11,,1
+2019,Jeff Cannata,tt2283336,Men in Black International,12,,0
+2019,Jeff Cannata,tt6146586,John Wick 3,13,,1
 2019,Peter Sciretta,tt4154796,Avengers: Endgame,1,0,13
 2019,Peter Sciretta,tt6105098,The Lion King,2,0,10
 2019,Peter Sciretta,tt1979376,Toy Story 4,3,0,10
-2019,Peter Sciretta,,Detective Pikachu,4,5,3
+2019,Peter Sciretta,tt5884052,Detective Pikachu,4,5,3
 2019,Peter Sciretta,tt6320628,Spider-Man: Far from Home,5,1,7
-2019,Peter Sciretta,,Aladdin (2019),6,1,7
+2019,Peter Sciretta,tt6139732,Aladdin (2019),6,1,7
 2019,Peter Sciretta,tt5113040,The Secret Life of Pets 2,7,1,7
-2019,Peter Sciretta,,Godzilla 2,8,,0
-2019,Peter Sciretta,,Hobbs & Shaw,9,2,5
-2019,Peter Sciretta,,Once Upon a Time in Hollywood,10,0,13
-2019,Peter Sciretta,,Men in Black International,11,,0
-2019,Peter Sciretta,,John Wick 3,12,,1
+2019,Peter Sciretta,tt3741700,Godzilla 2,8,,0
+2019,Peter Sciretta,tt6806448,Hobbs & Shaw,9,2,5
+2019,Peter Sciretta,tt7131622,Once Upon a Time in Hollywood,10,0,13
+2019,Peter Sciretta,tt2283336,Men in Black International,11,,0
+2019,Peter Sciretta,tt6146586,John Wick 3,12,,1
 2019,Peter Sciretta,tt2066051,Rocketman,13,,0
 2022,David Chen,tt8041270,Jurassic World Dominion,1,2,5
 2022,David Chen,tt10648342,Thor: Love and Thunder,2,3,3
-2022,David Chen,,Doctor Strange 2,3,1,7
+2022,David Chen,tt9419884,Doctor Strange 2,3,1,7
 2022,David Chen,tt10298810,Lightyear,4,4,3
 2022,David Chen,tt5113044,Minions: The Rise of Gru,5,1,7
 2022,David Chen,tt1745960,Top Gun: Maverick,6,5,3
@@ -725,7 +725,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2022,David Chen,tt7144666,The Black Phone,12,,1
 2022,David Chen,tt7466442,The Bob's Burgers Movie,13,,0
 2022,Devindra Hardawar,tt8041270,Jurassic World Dominion,1,2,5
-2022,Devindra Hardawar,,Doctor Strange 2,2,0,10
+2022,Devindra Hardawar,tt9419884,Doctor Strange 2,2,0,10
 2022,Devindra Hardawar,tt10648342,Thor: Love and Thunder,3,2,5
 2022,Devindra Hardawar,tt10298810,Lightyear,4,4,3
 2022,Devindra Hardawar,tt1745960,Top Gun: Maverick,5,4,3
@@ -738,7 +738,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2022,Devindra Hardawar,tt7144666,The Black Phone,12,,1
 2022,Devindra Hardawar,tt11703710,Downton Abbey: A New Era,13,,0
 2022,Germain Lussier,tt8041270,Jurassic World Dominion,1,2,5
-2022,Germain Lussier,,Doctor Strange 2,2,0,10
+2022,Germain Lussier,tt9419884,Doctor Strange 2,2,0,10
 2022,Germain Lussier,tt1745960,Top Gun: Maverick,3,2,5
 2022,Germain Lussier,tt10298810,Lightyear,4,4,3
 2022,Germain Lussier,tt10648342,Thor: Love and Thunder,5,0,10
@@ -751,7 +751,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2022,Germain Lussier,tt11703710,Downton Abbey: A New Era,12,,0
 2022,Germain Lussier,tt7466442,The Bob's Burgers Movie,13,,0
 2022,Jeff Cannata,tt8041270,Jurassic World Dominion,1,2,5
-2022,Jeff Cannata,,Doctor Strange 2,2,0,10
+2022,Jeff Cannata,tt9419884,Doctor Strange 2,2,0,10
 2022,Jeff Cannata,tt10648342,Thor: Love and Thunder,3,2,5
 2022,Jeff Cannata,tt10298810,Lightyear,4,4,3
 2022,Jeff Cannata,tt5113044,Minions: The Rise of Gru,5,1,7
@@ -764,7 +764,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2022,Jeff Cannata,tt7144666,The Black Phone,12,,1
 2022,Jeff Cannata,tt11703710,Downton Abbey: A New Era,13,,0
 2022,Peter Sciretta,tt8041270,Jurassic World Dominion,1,2,5
-2022,Peter Sciretta,,Doctor Strange 2,2,0,10
+2022,Peter Sciretta,tt9419884,Doctor Strange 2,2,0,10
 2022,Peter Sciretta,tt10648342,Thor: Love and Thunder,3,2,5
 2022,Peter Sciretta,tt5113044,Minions: The Rise of Gru,4,0,10
 2022,Peter Sciretta,tt10298810,Lightyear,5,3,3
@@ -780,7 +780,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,David Chen,tt1462764,Indiana Jones and the Dial of Destiny,2,5,3
 2023,David Chen,tt5971474,The Little Mermaid,3,2,5
 2023,David Chen,tt0439572,The Flash,4,,0
-2023,David Chen,,Mission: Impossible - Dead Reckoning Part One,5,3,3
+2023,David Chen,tt9603212,Mission: Impossible - Dead Reckoning Part One,5,3,3
 2023,David Chen,tt9362722,Spider-Man: Across the Spider-Verse,6,4,3
 2023,David Chen,tt5433140,Fast X,7,,0
 2023,David Chen,tt1517268,Barbie,8,7,3
@@ -796,7 +796,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,Devindra Hardawar,tt0439572,The Flash,5,,0
 2023,Devindra Hardawar,tt15789038,Elemental,6,4,3
 2023,Devindra Hardawar,tt5433140,Fast X,7,,0
-2023,Devindra Hardawar,,Mission: Impossible - Dead Reckoning Part One,8,0,10
+2023,Devindra Hardawar,tt9603212,Mission: Impossible - Dead Reckoning Part One,8,0,10
 2023,Devindra Hardawar,tt1517268,Barbie,9,8,3
 2023,Devindra Hardawar,tt15398776,Oppenheimer,10,6,3
 2023,Devindra Hardawar,tt5090568,Transformers: Rise of the Beasts,11,,1
@@ -805,7 +805,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,Germain Lussier,tt6791350,Guardians of the Galaxy Vol. 3,1,2,5
 2023,Germain Lussier,tt1462764,Indiana Jones and the Dial of Destiny,2,5,3
 2023,Germain Lussier,tt5971474,The Little Mermaid,3,2,5
-2023,Germain Lussier,,Mission: Impossible - Dead Reckoning Part One,4,4,3
+2023,Germain Lussier,tt9603212,Mission: Impossible - Dead Reckoning Part One,4,4,3
 2023,Germain Lussier,tt9362722,Spider-Man: Across the Spider-Verse,5,3,3
 2023,Germain Lussier,tt0439572,The Flash,6,,0
 2023,Germain Lussier,tt5433140,Fast X,7,,0
@@ -819,7 +819,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,Jeff Cannata,tt1462764,Indiana Jones and the Dial of Destiny,2,5,3
 2023,Jeff Cannata,tt5971474,The Little Mermaid,3,2,5
 2023,Jeff Cannata,tt9362722,Spider-Man: Across the Spider-Verse,4,2,5
-2023,Jeff Cannata,,Mission: Impossible - Dead Reckoning Part One,5,3,3
+2023,Jeff Cannata,tt9603212,Mission: Impossible - Dead Reckoning Part One,5,3,3
 2023,Jeff Cannata,tt5433140,Fast X,6,,0
 2023,Jeff Cannata,tt0439572,The Flash,7,,0
 2023,Jeff Cannata,tt15789038,Elemental,8,2,5
@@ -832,7 +832,7 @@ year,player_name,imdb_id,movie_title,position,offset,score
 2023,Peter Sciretta,tt9362722,Spider-Man: Across the Spider-Verse,2,0,10
 2023,Peter Sciretta,tt5971474,The Little Mermaid,3,2,5
 2023,Peter Sciretta,tt1462764,Indiana Jones and the Dial of Destiny,4,3,3
-2023,Peter Sciretta,,Mission: Impossible - Dead Reckoning Part One,5,3,3
+2023,Peter Sciretta,tt9603212,Mission: Impossible - Dead Reckoning Part One,5,3,3
 2023,Peter Sciretta,tt0439572,The Flash,6,,0
 2023,Peter Sciretta,tt5433140,Fast X,7,,0
 2023,Peter Sciretta,tt1517268,Barbie,8,7,3
