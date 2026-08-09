@@ -1,6 +1,4 @@
 import csv
-import gzip
-import io
 import logging
 from collections.abc import Generator
 from contextlib import contextmanager
@@ -146,50 +144,6 @@ def discover_playalong_movies(data_path: Path) -> None:
             known_movie_titles.add((year, movie.title))
             if movie.imdb_id:
                 known_imdb_ids.add((year, movie.imdb_id))
-
-
-@cli.command()
-@click.argument("data-path", type=click.Path(exists=True, path_type=Path))
-def fetch_imdb_titles(data_path: Path) -> None:
-    with load_csv_data(data_path / "movies.csv") as rows:
-        wanted = {row["imdb_id"] for row in rows if row["imdb_id"]}
-        if not wanted:
-            return
-
-        imdb_titles = _fetch_imdb_primary_titles(wanted)
-        assert imdb_titles, "No IMDb titles found"
-        logger.info(f"Matched {len(imdb_titles)} of {len(wanted)} IMDb ids")
-
-        for row in rows:
-            if title := imdb_titles.get(row["imdb_id"]):
-                row["title"] = title
-
-
-def _fetch_imdb_primary_titles(imdb_ids: set[str]) -> dict[str, str]:
-    """Look up the primary title for each id in the IMDb title dump.
-
-    The dump is ~225 MB gzipped and around 12.6 million rows, against a few
-    hundred ids we care about, so keep only what was asked for and stop as
-    soon as everything is found rather than materialising the whole file.
-    """
-    response = requests.get(
-        "https://datasets.imdbws.com/title.basics.tsv.gz",
-        stream=True,
-        timeout=TIMEOUT,
-    )
-    response.raise_for_status()
-    decompressed = gzip.GzipFile(fileobj=response.raw)
-    textio = io.TextIOWrapper(decompressed, encoding="utf-8")
-    # The dump is not quoted, and titles legitimately contain double quotes.
-    csv_reader = csv.DictReader(textio, delimiter="\t", quoting=csv.QUOTE_NONE)
-
-    titles: dict[str, str] = {}
-    for row in csv_reader:
-        if row["tconst"] in imdb_ids:
-            titles[row["tconst"]] = row["primaryTitle"]
-            if len(titles) == len(imdb_ids):
-                break
-    return titles
 
 
 @contextmanager
