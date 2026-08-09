@@ -2,7 +2,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2001,American Pie 2,tt0252866,,2770,Q329127,,2001-08-12,,124900000
 2001,Dr. Dolittle 2,tt0240462,,,Q1253887,,2001-06-24,,111500000
 2001,Jurassic Park III,tt0163025,,,Q1102220,,2001-07-22,,175800000
-2001,Laura Croft: Tomb Raider,,,,,,2001-06-17,,130700000
+2001,Laura Croft: Tomb Raider,tt0146316,,,,,2001-06-17,,130700000
 2001,Pearl Harbor,tt0213149,,676,Q194413,,2001-05-25,,196700000
 2001,Planet of the Apes,tt0133152,,869,Q469624,,2001-07-29,,173100000
 2001,Rush Hour 2,tt0266915,,,Q830208,,2001-08-03,,198900000
@@ -14,9 +14,9 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2002,Austin Powers in Goldmember,tt0295178,,,Q498910,,2002-07-26,,203470000
 2002,Bad Company,tt0280486,,3132,Q798673,,2002-06-07,,29750000
 2002,Blue Crush,tt0300532,,,Q885677,,2002-08-08,,34710000
-2002,CQ,,,,,,2002-05-24,,410000
+2002,CQ,tt0254199,,,,,2002-05-24,,410000
 2002,Cherish,tt0298798,,,Q12106800,,2002-06-07,,160000
-2002,Deuce's Wild,,,,,,2002-05-03,,5800000
+2002,Deuce's Wild,tt0231448,,,,,2002-05-03,,5800000
 2002,Divine Secrets of the Ya-Ya Sisterhood,tt0279778,,,Q1049916,,2002-06-07,,69030000
 2002,Eight Legged Freaks,tt0271367,,8869,Q151946,,2002-07-19,,16649999
 2002,Enough,tt0278435,,1957,Q179100,,2002-05-24,,39180000
@@ -33,7 +33,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2002,Men in Black II,tt0120912,,608,Q156597,,2002-07-03,,190420000
 2002,Minority Report,tt0181689,,,Q244604,,2002-06-21,,130610000
 2002,Mr. Deeds,tt0280590,,,Q59595,,2002-06-28,,124650000
-2002,Powerpuff Girls: The Movie,,,,,,2002-07-03,,11410000
+2002,Powerpuff Girls: The Movie,tt0289408,,,,,2002-07-03,,11410000
 2002,Reign of Fire,tt0253556,,,Q925384,,2002-07-12,,42450000
 2002,Road to Perdition,tt0257044,,4147,Q468033,,2002-07-12,,99330000
 2002,Scooby-Doo,tt0267913,,9637,Q936302,,2002-06-14,,152020000
@@ -44,17 +44,17 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2002,Star Wars: Episode II - Attack of the Clones,tt0121765,,1894,Q181069,,2002-05-16,,300670000
 2002,Stuart Little 2,tt0243585,,,Q1070554,,2002-07-19,,61990000
 2002,The Adventures of Pluto Nash,tt0180052,,,Q655051,,2002-08-16,,4260000
-2002,The Believer,,,,,,2002-05-17,,260000
+2002,The Believer,tt0247199,,,,,2002-05-17,,260000
 2002,The Bourne Identity,tt0258463,,,Q105624,,2002-06-14,,118130000
 2002,The Country Bears,tt0276033,,18357,Q3234357,,2002-07-26,,16239999
 2002,The Crocodile Hunter: Collision Course,tt0305396,,17043,Q1140738,,2002-07-12,,28150000
-2002,The Dangerous Lives of Alter Boys,,,,,,2002-06-14,,1740000
-2002,The Emperor's New Clothes,,,,,,2002-06-14,,640000
+2002,The Dangerous Lives of Alter Boys,tt0238924,,,,,2002-06-14,,1740000
+2002,The Emperor's New Clothes,tt0282768,,,,,2002-06-14,,640000
 2002,The Good Girl,tt0279113,,9962,Q668357,,2002-08-07,,7540000
-2002,The Importance of Being Ernest,,,,,,2002-05-22,,7960000
+2002,The Importance of Being Ernest,tt0278500,,,,,2002-05-22,,7960000
 2002,The Master of Disguise,tt0295427,,13908,Q507262,,2002-08-02,,37400000
 2002,The New Guy,tt0241760,,,Q1463176,,2002-05-10,,28970000
-2002,The Salton Sea*,,,,,,2002-04-26,,540000
+2002,The Salton Sea*,tt0235737,,,,,2002-04-26,,540000
 2002,The Sum of All Fears,tt0164184,,,Q1048846,,2002-05-31,,118470000
 2002,Undercover Brother,tt0279493,,,Q2093198,,2002-05-31,,38230000
 2002,Unfaithful,tt0250797,,,Q970089,,2002-05-10,,52730000
@@ -66,7 +66,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2003,American Wedding,tt0328828,,8273,Q466423,,2003-08-01,,97690000
 2003,Bad Boys II,tt0172156,,,Q539269,,2003-07-18,,135070000
 2003,Bruce Almighty,tt0315327,,310,Q207816,,2003-05-23,,240960000
-2003,Buffalo Soldiers,,,,,,2003-07-25,,310000
+2003,Buffalo Soldiers,tt0252299,,,,,2003-07-25,,310000
 2003,Charlie's Angels: Full Throttle,tt0305357,,9471,Q229603,,2003-06-27,,100260000
 2003,Daddy Day Care,tt0317303,,,Q980223,,2003-05-09,,103100000
 2003,Down with Love,tt0309530,,,Q672528,,2003-05-09,,20300000
@@ -86,32 +86,32 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2003,Open Range,tt0316356,,2055,Q1546370,,2003-08-15,,43480000
 2003,Pirates of the Caribbean: The Curse of the Black Pearl,tt0325980,,,Q46717,,2003-07-09,,275020000
 2003,Rugrats Go Wild,tt0337711,,,Q3180765,,2003-06-13,,39290000
-2003,SWAT,,,,,,2003-08-08,,102700000
+2003,SWAT,tt0257076,,,,,2003-08-08,,102700000
 2003,Seabiscuit,tt0329575,,4464,Q179018,,2003-07-25,,104650000
 2003,Sinbad: Legend of the Seven Seas,tt0165982,,,Q1043425,,2003-07-02,,26180000
-2003,Spy Kids: 3-D,,,,,,2003-07-25,,107420000
+2003,Spy Kids: 3-D,tt0338459,,,,,2003-07-25,,107420000
 2003,Terminator 3: Rise of the Machines,tt0181852,,,Q29054009,,2003-07-02,,149090000
 2003,The In-Laws,tt0314786,,5146,Q1305746,,2003-05-23,,20440000
 2003,The Italian Job,tt0317740,,,Q648312,,2003-05-30,,100890000
 2003,The League of Extraordinary Gentlemen,tt0311429,,8698,Q567577,,2003-07-11,,65250000
-2003,The Legend of Suriyothai,,,,,,2003-06-20,,410000
+2003,The Legend of Suriyothai,tt0290879,,,,,2003-06-20,,410000
 2003,The Lizzie McGuire Movie,tt0306841,,,Q743190,,2003-05-02,,42670000
 2003,The Matrix Reloaded,tt0234215,,,Q189600,,2003-05-15,,279770000
 2003,The Medallion,tt0288045,,,Q375775,,2003-08-22,,16870000
-2003,Tomb Raider 2: The Cradle of Life,,,,,,2003-07-25,,63980000
+2003,Tomb Raider 2: The Cradle of Life,tt0325703,,,,,2003-07-25,,63980000
 2003,Wrong Turn,tt0295700,,,Q388944,,2003-05-30,,15380000
 2003,X2: X-Men United,tt0290334,,,Q219776,,2003-05-02,,214910000
 2004,A Cinderella Story,tt0356470,,11247,Q276415,,2004-07-16,,50810000
 2004,Alien vs. Predator,tt0370263,,,Q155163,,,,77030000
-2004,Anchorman,,,,,,,,84140000
+2004,Anchorman,tt0357413,,,,,,,84140000
 2004,Around the World in 80 Days,tt0327437,,,Q156519,,2004-06-16,,23970000
-2004,Badassssss!,,,,,,2004-05-28,,370000
-2004,Breaking All the Rules,,,,,,2004-05-14,,11830000
+2004,Badassssss!,tt0367790,,,,,2004-05-28,,370000
+2004,Breaking All the Rules,tt0349169,,,,,2004-05-14,,11830000
 2004,Catwoman,tt0327554,,,Q115760,,2004-07-23,,39520000
 2004,Collateral,tt0369339,,,Q110203,,,,88900000
 2004,Dodgeball: A True Underdog Story,tt0364725,,9472,Q908473,,,,113730000
 2004,Fahrenheit 9/11,tt0361596,,,Q221852,,,,118000000
-2004,Garfield,,,,,,,,75000000
+2004,Garfield,tt0356634,,,,,,,75000000
 2004,Harold & Kumar Go to White Castle,tt0366551,,,Q607643,,2004-07-30,,18130000
 2004,Harry Potter and the Prisoner of Azkaban,tt0304141,,673,Q102448,,,,248340000
 2004,"I, Robot",tt0343818,,,Q200572,,,,141870000
@@ -144,7 +144,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2005,Cinderella Man,tt0352248,,,Q647546,,2005-06-03,,61550000
 2005,Crash,tt0375679,,,Q188000,,2005-05-03,,53300000
 2005,Dark Water,tt0382628,,9009,Q1166244,,2005-07-08,,25190000
-2005,Deuce Bigelow: European Gigolo,,,,,,2005-08-12,,21580000
+2005,Deuce Bigelow: European Gigolo,tt0367652,,,,,2005-08-12,,21580000
 2005,Fantastic Four,tt0120667,,9738,Q224130,,2005-07-08,,152730000
 2005,Four Brothers,tt0430105,,,Q1411345,,2005-08-12,,64349999
 2005,Herbie: Fully Loaded,tt0400497,,11451,Q641492,,2005-06-24,,65220000
@@ -162,8 +162,8 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2005,Rebound,tt0376108,,,Q188335,,2005-07-01,,16790000
 2005,Red Eye,tt0421239,,,Q599430,,2005-08-19,,45520000
 2005,Rize,tt0436724,,,Q2627652,,2005-06-24,,3280000
-2005,Shark Boy & Lava Girl,,,,,,2005-06-10,,39100000
-2005,Sisterhood of the Travelling Pants,,,,,,2005-06-03,,38990000
+2005,Shark Boy & Lava Girl,tt0424774,,,,,2005-06-10,,39100000
+2005,Sisterhood of the Travelling Pants,tt0403508,,,,,2005-06-03,,38990000
 2005,Sky High,tt0405325,,,Q858508,,2005-07-29,,59350000
 2005,Star Wars: Episode III - Revenge of the Sith,tt0121766,,1895,Q42051,,2005-05-19,,379810000
 2005,Stealth,tt0382992,,10048,Q1148499,,2005-07-29,,31700000
@@ -181,7 +181,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2006,A Prairie Home Companion,tt0420087,,9526,Q785709,,2006-06-09,,20100000
 2006,A Scanner Darkly,tt0405296,,,Q300547,,2006-07-07,,5370000
 2006,Accepted,tt0384793,,9788,Q1519049,,2006-08-18,,29140000
-2006,An American Haunting,,,,,,2006-05-05,,16300000
+2006,An American Haunting,tt0429573,,,,,2006-05-05,,16300000
 2006,An Inconvenient Truth,tt0497116,,,Q204670,,2006-05-26,,23180000
 2006,Barnyard,tt0414853,,,Q1129308,,2006-07-28,,63780000
 2006,Beerfest,tt0486551,,,Q857861,,2006-08-25,,14740000
@@ -189,10 +189,10 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2006,Clerks II,tt0424345,,2295,Q784514,,2006-07-21,,24020000
 2006,Click,tt0389860,,9339,Q496654,,2006-06-23,,136510000
 2006,Crank,tt0479884,,1948,Q150047,,2006-09-01,,12900000
-2006,Descent,,,,,,2006-08-04,,25400000
+2006,Descent,tt0435625,,,,,2006-08-04,,25400000
 2006,Garfield: A Tail of Two Kitties,tt0455499,,9513,Q587921,,2006-05-16,,28360000
 2006,How to Eat Fried Worms,tt0462346,,,Q3285972,,2006-08-25,,9530000
-2006,Idelwild,,,,,,2006-08-25,,10050000
+2006,Idelwild,tt0417225,,,,,2006-08-25,,10050000
 2006,Invincible,tt0445990,,11652,Q1070160,,2006-08-25,,38070000
 2006,John Tucker Must Die,tt0455967,,,Q771023,,2006-07-28,,40110000
 2006,Just My Luck,tt0397078,,,Q228964,,2006-05-12,,17320000
@@ -218,7 +218,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2006,The Break-Up,tt0452594,,,Q833566,,2006-06-02,,118680000
 2006,The Da Vinci Code,tt0382625,,,Q160560,,2006-05-19,,217540000
 2006,The Devil Wears Prada,tt0458352,,350,Q223316,,2006-06-30,,122040000
-2006,The Fast and Furious 3: Tokyo Drift,,,,,,2006-06-16,,62490000
+2006,The Fast and Furious 3: Tokyo Drift,tt0463985,,,,,2006-06-16,,62490000
 2006,The Lake House,tt0410297,,,Q487138,,2006-06-16,,52220000
 2006,The Omen,tt0466909,,,Q518863,,2006-06-06,,54610000
 2006,The Wicker Man,tt0450345,,,Q200827,,2006-09-01,,11740000
@@ -249,7 +249,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2007,Nancy Drew,tt0479500,,,Q1402883,,2007-06-15,,25580000
 2007,No Reservations,tt0481141,,3638,Q761548,,2007-07-20,,40750000
 2007,Ocean's Thirteen,tt0496806,,298,Q635632,,2007-06-08,,117030000
-2007,Once,,,,,,,,8109999
+2007,Once,tt0907657,,,,,,,8109999
 2007,Pirates of the Caribbean: At World's End,tt0449088,,285,Q54274,,2007-05-24,,308680000
 2007,Ratatouille,tt0382932,,,Q170035,,2007-06-29,,201250000
 2007,Rush Hour 3,tt0293564,,5174,Q498109,,2007-08-10,,122700000
@@ -273,7 +273,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2008,Hellboy II: The Golden Army,tt0411477,,,Q651196,,2008-07-11,,75420000
 2008,Indiana Jones and the Kingdom of the Crystal Skull,tt0367882,,217,Q182373,,2008-05-23,,315840000
 2008,Iron Man,tt0371746,,,Q192724,,2008-05-02,,317850000
-2008,Journey to the Center of the Earth,,,,,,2008-07-11,,95190000
+2008,Journey to the Center of the Earth,tt0373051,,,,,2008-07-11,,95190000
 2008,Kit Kittredge: An American Girl,tt0846308,,8359,Q1743831,,2008-07-02,,17470000
 2008,Kung Fu Panda,tt0441773,,9502,Q129193,,2008-06-06,,213760000
 2008,Made of Honor,tt0866439,,,Q463938,,2008-05-02,,45400000
@@ -296,7 +296,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2008,The Mummy: Tomb of the Dragon Emperor,tt0859163,,,Q240713,,2008-08-01,,98670000
 2008,The Rocker,tt1031969,,10186,Q1755845,,2008-08-01,,5850000
 2008,The Sisterhood of the Traveling Pants 2,tt1018785,,,Q16458,,2008-08-08,,41540000
-2008,The Step Brothers,,,,,,2008-07-25,,98240000
+2008,The Step Brothers,tt0838283,,,,,2008-07-25,,98240000
 2008,The Strangers,tt0482606,,10665,Q1259466,,2008-05-30,,52530000
 2008,The X Files: I Want to Believe,tt0443701,,8836,Q421875,,2008-07-25,,20850000
 2008,Tropic Thunder,tt0942385,,,Q380981,,2008-08-15,,86400000
@@ -305,7 +305,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2008,What Happens in Vegas,tt1033643,,9029,Q675472,,2008-05-09,,80260000
 2008,You Don't Mess with the Zohan,tt0960144,,,Q958417,,2008-06-06,,99890000
 2009,500 Days of Summer,tt1022603,,,Q154935,,2009-07-17,,28450000
-2009,A Perfect Getwaway,,,,,,,,15360000
+2009,A Perfect Getwaway,tt0971209,,,,,,,15360000
 2009,Aliens in the Attic,tt0775552,,20856,Q119889,,2009-07-31,,23780000
 2009,Angels & Demons,tt0808151,,13448,Q192934,,2009-05-15,,133380000
 2009,Bruno,tt0889583,,,,,2009-07-10,,59990000
@@ -332,7 +332,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2009,Terminator Salvation,tt0438488,,,Q191543,,2009-05-21,,125320000
 2009,The Final Destination,tt1144884,,,Q858976,,,,50440000
 2009,The Hangover,tt1119646,,,Q219315,,2009-06-05,,272200000
-2009,The Inglorious Basterds,,,,,,2009-08-21,,95150000
+2009,The Inglorious Basterds,tt0361748,,,,,2009-08-21,,95150000
 2009,The Proposal,tt1041829,,,Q108586,,2009-06-19,,161140000
 2009,The Taking of Pelham 123,tt1111422,,,Q869719,,2009-06-12,,65450000
 2009,The Time Traveler's Wife,tt0452694,,,Q785406,,2009-08-14,,55810000
@@ -376,7 +376,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2011,Kung Fu Panada 2,tt1302011,,,,,2011-05-26,,164280000
 2011,Pirates 4 -On Stranger Tides,tt1298650,,,,,2011-05-20,,240460000
 2011,Prom,tt1604171,,51588,Q1369031,,,,
-2011,Rise of the Planet of Apes,,,,,,2011-08-05,,148670000
+2011,Rise of the Planet of Apes,tt1318514,,,,,2011-08-05,,148670000
 2011,Super 8,tt1650062,,,Q379877,,2011-06-10,,126050000
 2011,The Hangover Part II,tt1411697,,45243,Q274748,,2011-05-26,,254300000
 2011,The Smurfs,tt0472181,,,,,2011-07-29,,125950000
@@ -410,7 +410,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2013,Elysium,tt1535108,,,Q80959,,2013-08-09,,80520000
 2013,Epic,tt0848537,,,Q2700629,,2013-05-24,,107450000
 2013,Fast & Furious 6,tt1905041,,82992,Q5516100,,2013-05-24,,238670000
-2013,Grandmasters,,,,,,2013-08-23,,3380000
+2013,Grandmasters,tt1462900,,,,,2013-08-23,,3380000
 2013,Grown Ups 2,tt2191701,,,Q5611721,,2013-07-12,,130190000
 2013,Iron Man 3,tt1300854,,,Q209538,,2013-05-03,,408880000
 2013,Kick-Ass 2,tt1650554,,59859,Q1758468,,2013-08-16,,27000000
@@ -481,7 +481,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2015,Mad Max: Fury Road,tt1392190,,,Q1757288,,2015-05-15,,153120000
 2015,Magic Mike XXL,tt2268016,,264999,Q17893055,,2015-07-01,,65970000
 2015,Max,tt3369806,,,Q18152555,,2015-06-26,,42200000
-2015,"Me, Earl and the Dying Girl",,,,,,2015-06-12,,6760000
+2015,"Me, Earl and the Dying Girl",tt2582496,,,,,2015-06-12,,6760000
 2015,Minions,tt2293640,,,Q13619743,,2015-07-10,,329770000
 2015,Mission Impossible: Rogue Nation,tt2381249,,,,,2015-07-31,,182660000
 2015,No Escape,tt1781922,,,Q15272134,,2015-08-26,,20010000
@@ -493,10 +493,10 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2015,San Andreas,tt2126355,,,Q15973073,,2015-05-29,,154630000
 2015,Self/less,tt2140379,,,Q15622633,,2015-07-10,,12280000
 2015,Shaun the Sheep Movie,tt2872750,,263109,Q15545272,,2015-08-07,,18090000
-2015,Sinister2,,,,,,2015-08-21,,24530000
+2015,Sinister2,tt2752772,,,,,2015-08-21,,24530000
 2015,Southpaw,tt1798684,,,Q17276718,,2015-07-24,,51290000
 2015,Spy,tt3079380,,,Q16389838,,2015-06-05,,110550000
-2015,Straight Out of Compton,,,,,,2015-08-14,,149780000
+2015,Straight Out of Compton,tt1398426,,,,,2015-08-14,,149780000
 2015,Ted 2,tt2637276,,,Q17713411,,2015-06-26,,81280000
 2015,Terminator Genisys,tt1340138,,,Q15140437,,2015-07-01,,89630000
 2015,The D Train,tt2690138,,,Q16249670,,2015-05-08,,670000
@@ -524,7 +524,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2016,Kubo and the Two Strings,tt4302938,,,Q18786471,,2016-08-19,,36630000
 2016,Lights Out,tt4786282,,345911,Q20649307,,2016-07-22,,66360000
 2016,Me Before You,tt2674426,,296096,Q20735644,,2016-06-03,,56230000
-2016,Mechanic: Resurection,,,,,,2016-08-26,,15830000
+2016,Mechanic: Resurection,tt3522806,,,,,2016-08-26,,15830000
 2016,Mike and Dave Need Wedding Dates,tt2823054,,,Q20022639,,2016-07-08,,45870000
 2016,Money Monster,tt2241351,,,Q19363691,,2016-05-13,,41010000
 2016,Neighbors 2: Sorority Rising,tt4438848,,,Q20899742,,2016-05-20,,55340000
@@ -540,7 +540,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2016,The Angry Birds Movie,tt1985949,,,Q18703062,,2016-05-20,,107500000
 2016,The BFG,tt3691740,,,Q19689203,,2016-07-01,,54860000
 2016,The Conjuring 2,tt3065204,,,Q21001651,,2016-06-10,,102460000
-2016,The Darkness,,,,,,2016-05-13,,10750000
+2016,The Darkness,tt1878841,,,,,2016-05-13,,10750000
 2016,The Infiltrator,tt1355631,,,Q19874547,,2016-07-15,,15330000
 2016,The Legend of Tarzan,tt0918940,,258489,Q17361809,,2016-07-01,,126360000
 2016,The Nice Guys,tt3799694,,,Q18415459,,2016-05-20,,36260000
@@ -579,7 +579,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2017,Kidnap,tt1458169,,,Q18388171,,2017-08-03,,29770000
 2017,King Arthur: Legend of the Sword,tt1972591,,274857,Q19569225,,2017-05-12,,39140000
 2017,Lady Macbeth,tt4291600,,410117,Q28869534,,,,
-2017,Leap,,,,,,,,
+2017,Leap,tt2261287,,,,,,,
 2017,Logan Lucky,tt5439796,,399170,Q24576050,,2017-08-18,,22500000
 2017,Megan Leavey,tt4899370,,424488,Q21527861,,2017-06-09,,13360000
 2017,Midnight Sun,,,,,,,,
@@ -592,7 +592,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2017,Rough Night,tt4799050,,397422,Q27701601,,2017-06-16,,22090000
 2017,Snatched,tt2334871,,373569,Q24806681,,2017-05-12,,45850000
 2017,Spider-Man: Homecoming,tt2250912,,315635,Q23010088,,2017-07-07,,325120000
-2017,Superpowerless,,,,,,,,
+2017,Superpowerless,tt1984261,,,,,,,
 2017,The Beguiled,tt5592248,,399019,Q27684970,,,,
 2017,The Big Sick,tt5462602,,416477,Q24901880,,2017-06-23,,41310000
 2017,The Book of Henry,tt4572792,,382614,Q21098696,,,,
@@ -603,8 +603,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2017,The House,tt4481514,,345914,Q21010879,,2017-06-30,,25560000
 2017,The Little Hours,tt5666304,,411873,Q24806853,,,,
 2017,The Mummy,tt2345759,,282035,Q23759268,,2017-06-09,,80100000
-2017,The Nut Job 2: Nutty by Nature,tt3486626,,335777,Q22000483,,,,
-2017,The NutJob2,,,,,,2017-08-11,,26630000
+2017,The Nut Job 2: Nutty by Nature,tt3486626,,335777,Q22000483,,2017-08-11,,26630000
 2017,The Wall,tt4218696,,405775,Q27964590,,,,
 2017,The Wedding Plan,tt5991206,,412363,Q29513529,,,,
 2017,Transformers: The Last Knight,tt3371366,,335988,Q24251026,,2017-06-23,,130169999
@@ -613,13 +612,13 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2017,War for the Planet of the Apes,tt3450958,,281338,Q19938437,,2017-07-14,,144680000
 2017,Wind River,tt5362988,,395834,Q25339940,,,,
 2017,Wonder Woman,tt0451279,,297762,Q20502242,,2017-06-02,,409540000
-2018,102 Not Out,,,,,,,,
+2018,102 Not Out,tt6580564,,,,,,,
 2018,A-X-L,tt5709188,,438590,Q55262219,,,,
 2018,Action Point,tt6495770,,454283,Q32067415,,,,
 2018,Adrift,tt6306064,,429300,Q48674494,,,,
 2018,Alpha,tt4244998,,399360,Q23899903,,,,
 2018,American Animals,tt6212478,,489931,Q33256085,,,,
-2018,Ant-Man and the Wasp,tt5095030,,363088,Q22957393,,,,
+2018,Ant-Man and the Wasp,tt5095030,,363088,Q22957393,,2018-07-06,,213980000
 2018,Avengers: Infinity War,tt4154756,,299536,Q23780914,,2018-04-27,,678780000
 2018,Bad Samaritan,tt3203528,,467632,Q36492115,,,,
 2018,Beautifully Broken,tt5645932,,536768,Q104842890,,,,
@@ -631,8 +630,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2018,Captive State,tt5968394,,429471,Q28863791,,,,
 2018,Christopher Robin,tt4575576,,420814,Q24301991,,2018-08-03,,87610000
 2018,Crazy Rich Asians,tt3104988,,455207,Q29588623,,2018-08-17,,117300000
-2018,Dead Pool 2,,,,,,2018-05-18,,318450000
-2018,Deadpool 2,tt5463162,,383498,Q25431158,,,,
+2018,Deadpool 2,tt5463162,,383498,Q25431158,,2018-05-18,,318450000
 2018,Disobedience,tt6108178,,419743,Q28465803,,,,
 2018,Dog Days,tt7365604,,477510,Q52151406,,,,
 2018,Hereditary,tt7784604,,493922,Q47524071,,,,
@@ -666,12 +664,11 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2018,SuperFly,tt7690670,,500475,Q52151356,,,,
 2018,Tag,tt2854926,,455980,Q30612098,,2018-06-15,,54520000
 2018,Teen Titans GO! To the Movies,tt7424200,,474395,Q46392313,,,,
-2018,The Ant-Man and the Wasp,,,,,,2018-07-06,,213980000
 2018,The Darkest Minds,tt4073790,,445651,Q28393252,,,,
 2018,The Equalizer 2,tt3766354,,345887,Q41493467,,2018-07-20,,100750000
 2018,The First Purge,tt6133466,,442249,Q42048180,,2018-07-04,,69070000
 2018,The Game Changers,tt7455754,,463088,Q51533554,,,,
-2018,The Guardians,,,,,,,,
+2018,The Guardians,tt6213362,,,,,,,
 2018,The Happytime Murders,tt1308728,,412988,Q9086870,,,,
 2018,The Meg,tt4779682,,345940,Q27957869,,2018-08-10,,123800000
 2018,The Seagull,tt4682136,,,Q20649932,,,,
@@ -679,7 +676,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2018,Tully,tt5610554,,400579,Q27957927,,,,
 2018,Uncle Drew,tt7334528,,474335,Q48818131,,,,
 2018,Upgrade,tt6499752,,500664,Q30611788,,,,
-2018,Valley Girl,,,,,,,,
+2018,Valley Girl,tt1266036,,,,,,,
 2018,"Westwood: Punk, Icon, Activist",tt4378628,,478426,Q58675533,,,,
 2018,Whitney,tt5740866,,507256,Q52791458,,,,
 2018,Won't You Be My Neighbor?,tt7681902,,490003,Q52151494,,,,
@@ -692,7 +689,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2019,Artemis Fowl,tt3089630,,475430,Q12302227,,,,
 2019,Avengers: Endgame,tt4154796,,299534,Q23781155,,,,
 2019,Booksmart,tt1489887,,505600,Q55605752,,,,
-2019,Brian Banks,,,,,,,,
+2019,Brian Banks,tt3920820,,,,,,,
 2019,Brightburn,tt7752126,,531309,Q59600666,,,,
 2019,Child's Play,tt8663516,,533642,Q56697304,,,,
 2019,Dora and the Lost City of Gold,tt7547410,,499701,Q56064745,,,,
@@ -738,28 +735,28 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2022,Doctor Strange in the Multiverse of Madness,tt9419884,,453395,Q64211112,,,,
 2022,Downton Abbey: A New Era,tt11703710,,820446,Q106577763,,,,
 2022,Easter Sunday,tt11952606,,824281,Q106706908,,,,
-2022,Eiffel,,,,,,,,
+2022,Eiffel,tt10366514,,,,,,,
 2022,Elvis,tt3704428,,614934,Q84362533,,,,
 2022,Emily the Criminal,tt15255876,,862965,Q110039575,,,,
 2022,Family Camp,tt11535358,,846528,Q112120049,,,,
 2022,Fear,,,,,,,,
 2022,Firestarter,tt1798632,,532710,Q61883109,,,,
-2022,Flux Gourmet,,,,,,,,
-2022,Frank and Penelope,,,,,,,,
+2022,Flux Gourmet,tt15010292,,,,,,,
+2022,Frank and Penelope,tt4459134,,,,,,,
 2022,Happening,tt13880104,,793998,Q107675028,,,,
-2022,Hold Your Fire,,,,,,,,
-2022,Homebound,,,,,,,,
+2022,Hold Your Fire,tt15196796,,,,,,,
+2022,Homebound,tt4788734,,,,,,,
 2022,Honk for Jesus. Save Your Soul.,tt12655436,,848331,Q110027954,,,,
 2022,Jayeshbhai Jordaar,tt10393870,,678999,Q77906136,,,,
-2022,Jazz Fest: A New Orleans Story,,,,,,,,
+2022,Jazz Fest: A New Orleans Story,tt16418964,,,,,,,
 2022,Jurassic World Dominion,tt8041270,,507086,Q55178974,,,,
 2022,Lightyear,tt10298810,,718789,Q104409060,,,,
-2022,Little Sorcerer,,,,,,,,
+2022,Little Sorcerer,tt14633194,,,,,,,
 2022,Men,tt13841850,,780609,Q106514711,,,,
 2022,Minions: The Rise of Gru,tt5113044,,438148,Q60997779,,,,
 2022,Mrs. Harris Goes to Paris,tt5151570,,754609,Q104871482,,,,
 2022,Nope,tt10954984,,762504,Q107176162,,,,
-2022,On a Wing and a Prayer,,,,,,,,
+2022,On a Wing and a Prayer,tt13929998,,,,,,,
 2022,On the Count of Three,tt11160650,,776512,Q76488910,,,,
 2022,Paws of Fury: The Legend of Hank,tt4428398,,366672,Q21450513,,,,
 2022,Samaritan,tt5500218,,629176,Q85314873,,,,
@@ -768,13 +765,13 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2022,The Black Phone,tt7144666,,756999,Q105584511,,,,
 2022,The Bob's Burgers Movie,tt7466442,,504827,Q41709271,,,,
 2022,The Forgiven,,,,,,,,
-2022,The Innocents,,,,,,,,
+2022,The Innocents,tt4028464,,,,,,,
 2022,The Invitation,tt12873562,,830788,Q112878296,,,,
 2022,The Phantom of the Open,tt12572040,,717151,Q104863935,,,,
 2022,The Sanctity of Space,tt9806166,,844063,Q109985890,,,,
 2022,Thor: Love and Thunder,tt10648342,,616037,Q65768604,,,,
 2022,Top Gun: Maverick,tt1745960,,361743,Q31202708,,,,
-2022,Under The Boardwalk,,,,,,,,
+2022,Under The Boardwalk,tt10551654,,,,,,,
 2022,Vengeance,tt11976532,,683340,Q88470222,,,,
 2022,Watcher,tt12004038,,807356,Q106554940,,,,
 2022,Where the Crawdads Sing,tt9411972,,682507,Q106311043,,,,
@@ -783,7 +780,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2023,Asteroid City,tt14230388,,747188,Q108086029,,,,
 2023,Back on the Strip,tt6048442,,943818,Q114257370,,,,
 2023,Barbie,tt1517268,,346698,Q55436290,,,,
-2023,Black Lotus,,,,,,,,
+2023,Black Lotus,tt15895490,,,,,,,
 2023,BlackBerry,tt21867434,,1016084,Q116315647,,,,
 2023,Blue Beetle,tt9362930,,565770,Q107808351,,,,
 2023,Book Club: The Next Chapter,tt20768712,,982271,Q114798301,,,,
@@ -806,10 +803,10 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2023,Past Lives,tt13238346,,666277,Q116025865,,,,
 2023,Please Don't Destroy: The Treasure of Foggy Mountain,tt21335356,,1002315,Q123116668,,,,
 2023,Ruby Gillman: Teenage Kraken,tt27155038,,1040148,Q117188308,,,,
-2023,Simulant,,,,,,,,
+2023,Simulant,tt13130024,,,,,,,
 2023,Spider-Man: Across the Spider-Verse,tt9362722,,569094,Q76448600,,,,
 2023,Strays,tt15153532,,912908,Q111340524,,,,
-2023,Talk to Me,,,,,,,,
+2023,Talk to Me,tt10638522,,,,,,,
 2023,Teenage Mutant Ninja Turtles: Mutant Mayhem,tt8589698,,614930,Q110271518,,,,
 2023,The Blackening,tt11703244,,1008392,Q114087590,,,,
 2023,The Boogeyman,tt3427252,,,Q111530175,,,,
