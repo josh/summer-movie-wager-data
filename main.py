@@ -59,13 +59,19 @@ def backfill_wikidata_info(data_path: Path, limit: int) -> None:
         shuffle(rows_missing_info)
         for row in islice(rows_missing_info, limit):
             qid, tmdb_id = _sparql_find_film_by_imdb(row["imdb_id"])
-            if qid and tmdb_id:
+            if qid:
                 row["qid"] = qid
+            if tmdb_id:
                 row["tmdb_id"] = tmdb_id
 
 
+# P4947 is OPTIONAL on purpose. Requiring it meant a film with an IMDb id but
+# no TMDB id matched nothing at all, so its qid could never be filled either.
 _SPARQL_FIND_BY_IMDB_ID = """
-SELECT ?item ?tmdb_id WHERE { ?item wdt:P345 "?imdb_id"; wdt:P4947 ?tmdb_id. }
+SELECT ?item ?tmdb_id WHERE {
+  ?item wdt:P345 "?imdb_id" .
+  OPTIONAL { ?item wdt:P4947 ?tmdb_id }
+}
 """
 
 
@@ -88,16 +94,19 @@ def _wikidata_sparql(query: str) -> list[dict[str, Any]]:
     return bindings
 
 
-def _sparql_find_film_by_imdb(imdb_id: str) -> tuple[str, str] | tuple[None, None]:
+def _sparql_find_film_by_imdb(imdb_id: str) -> tuple[str | None, str | None]:
     query = _SPARQL_FIND_BY_IMDB_ID.replace("?imdb_id", imdb_id)
 
-    if results := _wikidata_sparql(query):
-        qid = results[0]["item"]["value"].replace("http://www.wikidata.org/entity/", "")
-        tmdb_id = results[0]["tmdb_id"]["value"]
-        return qid, tmdb_id
-    else:
-        logger.warning(f"Failed to find Wikidata info for {imdb_id}")
+    results = _wikidata_sparql(query)
+    if not results:
+        logger.warning(f"No Wikidata item for {imdb_id}")
         return None, None
+
+    qid = results[0]["item"]["value"].replace("http://www.wikidata.org/entity/", "")
+    tmdb_id = results[0].get("tmdb_id", {}).get("value")
+    if not tmdb_id:
+        logger.info(f"{imdb_id} resolved to {qid} but has no TMDB id")
+    return qid, tmdb_id
 
 
 @cli.command()
