@@ -171,7 +171,7 @@ def _sparql_search_by_film_title(
 @click.option("--year", type=int, default=CURRENT_YEAR)
 def discover_movie_titles(data_path: Path, year: int) -> None:
     with load_csv_data(data_path / "movies.csv") as rows:
-        known_movie_titles: set[str] = set(row["title"] for row in rows)
+        known_movie_titles: set[str] = {row["title"] for row in rows}
 
         players = global_leaderboard_players(year=year)
         shuffle(players)
@@ -189,7 +189,7 @@ def discover_movie_titles(data_path: Path, year: int) -> None:
 @click.argument("data-path", type=click.Path(exists=True, path_type=Path))
 def discover_playalong_movies(data_path: Path) -> None:
     with load_csv_data(data_path / "movies.csv") as rows:
-        known_movie_titles: set[str] = set(row["title"] for row in rows)
+        known_movie_titles: set[str] = {row["title"] for row in rows}
 
         for movie in playalong():
             if movie.title not in known_movie_titles:
@@ -238,8 +238,7 @@ def load_csv_data(path: Path) -> Generator[list[dict[str, str]], None, None]:
         assert reader.fieldnames
         fieldnames = list(reader.fieldnames)
         assert len(fieldnames) > 0
-        for row in reader:
-            rows.append(row)
+        rows.extend(reader)
         logger.debug(f"Loaded {len(rows)} rows from {filename}")
 
     yield rows
