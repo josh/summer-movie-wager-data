@@ -9,6 +9,7 @@ from itertools import islice
 from pathlib import Path
 from random import shuffle
 from time import sleep
+from typing import Any
 
 import click
 import requests
@@ -18,6 +19,9 @@ from thesummermoviewager import global_leaderboard_players, playalong, player_li
 logger = logging.getLogger(__name__)
 
 CURRENT_YEAR: int = datetime.now(timezone.utc).year
+
+TIMEOUT = 30
+USER_AGENT = "summer-movie-wager-data (https://github.com/josh/summer-movie-wager-data)"
 
 
 @click.group()
@@ -54,25 +58,10 @@ def backfill_wikidata_info(data_path: Path, limit: int) -> None:
         ]
         shuffle(rows_missing_info)
         for row in islice(rows_missing_info, limit):
-            if row["imdb_id"] == "":
-                continue
-            if row["qid"] != "" and row["tmdb_id"] != "":
-                continue
-
-            query = _SPARQL_FIND_BY_IMDB_ID.replace("?imdb_id", row["imdb_id"])
-            sleep(1)
-            r = requests.get(
-                "https://query.wikidata.org/sparql",
-                params={"query": query, "format": "json"},
-            )
-            r.raise_for_status()
-
             qid, tmdb_id = _sparql_find_film_by_imdb(row["imdb_id"])
             if qid and tmdb_id:
                 row["qid"] = qid
                 row["tmdb_id"] = tmdb_id
-            else:
-                logger.warning(f"Failed to find Wikidata info for {row['imdb_id']}")
 
 
 _SPARQL_FIND_BY_IMDB_ID = """
@@ -80,16 +69,29 @@ SELECT ?item ?tmdb_id WHERE { ?item wdt:P345 "?imdb_id"; wdt:P4947 ?tmdb_id. }
 """
 
 
-def _sparql_find_film_by_imdb(imdb_id: str) -> tuple[str, str] | tuple[None, None]:
-    query = _SPARQL_FIND_BY_IMDB_ID.replace("?imdb_id", imdb_id)
+def _wikidata_sparql(query: str) -> list[dict[str, Any]]:
+    """Run a SPARQL query against Wikidata.
+
+    The User-Agent is not optional. query.wikidata.org returns 403 to the
+    default requests UA, which is why the backfill commands silently stopped
+    working and 2025 has no qid or tmdb_id.
+    """
     sleep(1)
-    r = requests.get(
+    response = requests.get(
         "https://query.wikidata.org/sparql",
         params={"query": query, "format": "json"},
+        headers={"User-Agent": USER_AGENT},
+        timeout=TIMEOUT,
     )
-    r.raise_for_status()
+    response.raise_for_status()
+    bindings: list[dict[str, Any]] = response.json()["results"]["bindings"]
+    return bindings
 
-    if results := r.json()["results"]["bindings"]:
+
+def _sparql_find_film_by_imdb(imdb_id: str) -> tuple[str, str] | tuple[None, None]:
+    query = _SPARQL_FIND_BY_IMDB_ID.replace("?imdb_id", imdb_id)
+
+    if results := _wikidata_sparql(query):
         qid = results[0]["item"]["value"].replace("http://www.wikidata.org/entity/", "")
         tmdb_id = results[0]["tmdb_id"]["value"]
         return qid, tmdb_id
@@ -142,13 +144,7 @@ def _sparql_search_by_film_title(
     query = _SPARQL_FILM_SEARCH_QUERY.replace("$TITLE", title.replace('"', "")).replace(
         "$YEAR", str(year)
     )
-    sleep(1)
-    r = requests.get(
-        "https://query.wikidata.org/sparql",
-        params={"query": query, "format": "json"},
-    )
-    r.raise_for_status()
-    results = r.json()["results"]["bindings"]
+    results = _wikidata_sparql(query)
     title_matches = [r for r in results if r["title"]["value"] == title]
 
     if len(results) == 1:
@@ -209,8 +205,11 @@ def discover_playalong_movies(data_path: Path) -> None:
 @click.argument("data-path", type=click.Path(exists=True, path_type=Path))
 def fetch_imdb_titles(data_path: Path) -> None:
     response = requests.get(
-        "https://datasets.imdbws.com/title.basics.tsv.gz", stream=True
+        "https://datasets.imdbws.com/title.basics.tsv.gz",
+        stream=True,
+        timeout=TIMEOUT,
     )
+    response.raise_for_status()
     decompressed = gzip.GzipFile(fileobj=response.raw)
     textio = io.TextIOWrapper(decompressed, encoding="utf-8")
     csv_reader = csv.DictReader(textio, delimiter="\t")
