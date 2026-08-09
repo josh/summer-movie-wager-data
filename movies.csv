@@ -234,7 +234,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2007,Daddy Day Camp,tt0462244,,14144,Q1194810,,2007-08-08,,11870000
 2007,Evan Almighty,tt0413099,,,Q195949,,2007-06-22,,99450000
 2007,Evening,tt0765447,,,Q1091140,,2007-06-29,,12410000
-2007,Fantastic Four - Silver Surfer,,,,,,2007-06-15,,131600000
+2007,Fantastic Four - Silver Surfer,tt0486576,,,,,2007-06-15,,131600000
 2007,Georgia Rule,tt0791304,,13159,Q772974,,2007-05-11,,18900000
 2007,Hairspray,tt0427327,,2976,Q222041,,2007-07-20,,112420000
 2007,Harry Potter and the Order of the Phoenix,tt0373889,,,Q102235,,2007-07-13,,286830000
@@ -280,7 +280,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2008,Meet Dave,tt0765476,,11260,Q838381,,2008-07-11,,11710000
 2008,Narnia: Prince Caspian,,,,,,2008-05-16,,141610000
 2008,Pineapple Express,tt0910936,,10189,Q485610,,2008-08-08,,80830000
-2008,Sex in the City,,,,,,2008-05-30,,152530000
+2008,Sex in the City,tt1000774,,,,,2008-05-30,,152530000
 2008,Space Chimps,tt0482603,,,Q2558033,,2008-07-18,,28950000
 2008,Speed Racer,tt0811080,,,Q312078,,2008-05-09,,43930000
 2008,Star Wars: The Clone Wars,tt1185834,,,Q382289,,2008-08-15,,30670000
@@ -306,7 +306,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2009,A Perfect Getwaway,,,,,,,,15360000
 2009,Aliens in the Attic,tt0775552,,20856,Q119889,,2009-07-31,,23780000
 2009,Angels & Demons,tt0808151,,13448,Q192934,,2009-05-15,,133380000
-2009,Bruno,,,,,,2009-07-10,,59990000
+2009,Bruno,tt0889583,,,,,2009-07-10,,59990000
 2009,Dance Flick,tt1153706,,,Q536811,,2009-05-22,,25620000
 2009,District 9,tt1136608,,,Q201819,,2009-08-14,,103390000
 2009,Drag Me to Hell,tt1127180,,,Q632737,,2009-05-29,,42060000
@@ -322,7 +322,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2009,Julie & Julia,tt1135503,,24803,Q380848,,2009-08-07,,80720000
 2009,Land of the Lost,tt0457400,,,Q780981,,2009-06-05,,49390000
 2009,My Sister's Keeper,tt1078588,,10024,Q814771,,2009-06-26,,48770000
-2009,Night at the Museum: Smithsonian,,,,,,2009-05-22,,176790000
+2009,Night at the Museum: Smithsonian,tt1078912,,,,,2009-05-22,,176790000
 2009,Orphan,tt1148204,,21208,Q387414,,2009-07-24,,41040000
 2009,Public Enemies,tt1152836,,,Q329448,,2009-07-01,,97030000
 2009,Shorts,tt1100119,,25132,Q2722782,,2009-08-21,,18270000
@@ -346,7 +346,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2010,Prince of Persia: The Sands of Time,tt0473075,,9543,Q245172,,2010-05-28,,90700000
 2010,Robin Hood,tt0955308,,20662,Q223559,,2010-05-14,,105220000
 2010,Salt,tt0944835,,27576,Q628139,,2010-07-23,,115560000
-2010,Sex In the City 2,,,,,,2010-05-27,,95330000
+2010,Sex In the City 2,tt1261945,,,,,2010-05-27,,95330000
 2010,Shrek Forever After,tt0892791,,10192,Q208131,,2010-05-21,,238370000
 2010,The Expendables,tt1320253,,27578,Q206374,,2010-08-13,,93890000
 2010,The Karate Kid,tt1155076,,,Q327685,,2010-06-11,,176310000
@@ -358,14 +358,14 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2011,Captain America: The First Avenger,tt0458339,,1771,Q275120,,2011-07-22,,168770000
 2011,Cars 2,tt1216475,,,Q192212,,2011-06-24,,187360000
 2011,Green Lantern,tt1133985,,,Q903885,,2011-06-17,,115980000
-2011,Harry Potter & Deathly Hallows Pt 2,,,,,,2011-07-15,,370810000
+2011,Harry Potter & Deathly Hallows Pt 2,tt1201607,,,,,2011-07-15,,370810000
 2011,Horrible Bosses,tt1499658,,51540,Q908556,,2011-07-08,,113820000
-2011,Kung Fu Panada 2,,,,,,2011-05-26,,164280000
-2011,Pirates 4 -On Stranger Tides,,,,,,2011-05-20,,240460000
+2011,Kung Fu Panada 2,tt1302011,,,,,2011-05-26,,164280000
+2011,Pirates 4 -On Stranger Tides,tt1298650,,,,,2011-05-20,,240460000
 2011,Rise of the Planet of Apes,,,,,,2011-08-05,,148670000
 2011,Super 8,tt1650062,,,Q379877,,2011-06-10,,126050000
 2011,The Hangover Part II,tt1411697,,45243,Q274748,,2011-05-26,,254300000
-2011,The Smurfs,,,,,,2011-07-29,,125950000
+2011,The Smurfs,tt0472181,,,,,2011-07-29,,125950000
 2011,Thor,tt0800369,,10195,Q217020,,2011-05-06,,181020000
 2011,Transformers: Dark of the Moon,tt1399103,,,Q232774,,2011-06-29,,349460000
 2011,X-Men: First Class,tt1270798,,,Q223596,,2011-06-03,,146120000
@@ -411,7 +411,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2013,The Great Gatsby,tt1343092,,64682,Q892735,,2013-05-10,,144810000
 2013,The Hangover Part III,tt1951261,,,Q2708940,,2013-05-24,,112190000
 2013,The Heat,tt2404463,,,Q135156,,2013-06-28,,157430000
-2013,The Intership,,,,,,2013-06-07,,44650000
+2013,The Intership,tt2234155,,,,,2013-06-07,,44650000
 2013,The Lone Ranger,tt1210819,,57201,Q548919,,2013-07-03,,88560000
 2013,The Mortal Instruments: City of Bones,tt1538403,,,Q59346,,2013-08-23,,24520000
 2013,The Purge,tt2184339,,,Q7758789,,2013-06-07,,64420000
@@ -435,7 +435,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2014,Lucy,tt2872732,,240832,Q15624215,,2014-07-25,,118610000
 2014,Maleficent,tt1587310,,102651,Q172271,,2014-05-30,,238720000
 2014,Neighbors,tt2004420,,,Q14802842,,2014-05-09,,150090000
-2014,Planes: Fire and Rescue,,,,,,2014-07-18,,57920000
+2014,Planes: Fire and Rescue,tt2980706,,,,,2014-07-18,,57920000
 2014,Tammy,tt2103254,,226486,Q15901539,,2014-07-02,,83760000
 2014,Teenage Mutant Ninja Turtles,tt1291150,,,Q9653404,,2014-08-08,,166280000
 2014,The Amazing Spider-Man 2,tt1872181,,,Q4254026,,2014-05-02,,202850000
@@ -461,12 +461,12 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2015,Max,tt3369806,,,Q18152555,,2015-06-26,,42200000
 2015,"Me, Earl and the Dying Girl",,,,,,2015-06-12,,6760000
 2015,Minions,tt2293640,,,Q13619743,,2015-07-10,,329770000
-2015,Mission Impossible: Rogue Nation,,,,,,2015-07-31,,182660000
+2015,Mission Impossible: Rogue Nation,tt2381249,,,,,2015-07-31,,182660000
 2015,No Escape,tt1781922,,,Q15272134,,2015-08-26,,20010000
 2015,Paper Towns,tt3622592,,,Q18603039,,2015-07-24,,31700000
 2015,Pitch Perfect 2,tt2848292,,,Q16619265,,2015-05-15,,183790000
 2015,Pixels,tt2120120,,257344,Q17182905,,2015-07-24,,73990000
-2015,Poltegeist,,,,,,2015-05-22,,47430000
+2015,Poltegeist,tt1029360,,,,,2015-05-22,,47430000
 2015,Ricki and the Flash,tt3623726,,,Q18342295,,2015-08-07,,25590000
 2015,San Andreas,tt2126355,,,Q15973073,,2015-05-29,,154630000
 2015,Self/less,tt2140379,,,Q15622633,,2015-07-10,,12280000
@@ -485,11 +485,11 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2015,Trainwreck,tt3152624,,271718,Q17062774,,2015-07-17,,107510000
 2015,Vacation,tt1524930,,,Q18155457,,2015-07-31,,56990000
 2015,War Room,tt3832914,,323272,Q19427445,,2015-08-26,,28700000
-2016,Alice: Through the Looking Glass,,,,,,2016-05-27,,77040000
+2016,Alice: Through the Looking Glass,tt2567026,,,,,2016-05-27,,77040000
 2016,Bad Moms,tt4651520,,,Q22074948,,2016-07-29,,103590000
 2016,Ben-Hur,tt2638144,,271969,Q18785102,,2016-08-19,,24450000
 2016,Captain America: Civil War,tt3498820,,,Q18407657,,2016-05-06,,408020000
-2016,Central Intellegence,,,,,,2016-06-17,,127440000
+2016,Central Intellegence,tt1489889,,,,,2016-06-17,,127440000
 2016,Don't Breathe,tt4160708,,,Q21450470,,2016-08-26,,55130000
 2016,Finding Dory,tt2277860,,,Q9321426,,2016-06-17,,482850000
 2016,Florence Foster Jenkins,tt4136084,,,Q19955874,,2016-08-12,,24220000
@@ -512,7 +512,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2016,Pete's Dragon,tt2788732,,,Q18786473,,2016-08-12,,66250000
 2016,Popstar: Never Stop Never Stopping,tt3960412,,,Q20001462,,2016-06-03,,9470000
 2016,Sausage Party,tt1700841,,,Q17030810,,2016-08-12,,89600000
-2016,Stark Trek Beyond,,,,,,2016-07-22,,155080000
+2016,Stark Trek Beyond,tt2660888,,,,,2016-07-22,,155080000
 2016,Suicide Squad,tt1386697,,,Q18604504,,2016-08-05,,300100000
 2016,Teenage Mutant Ninja Turtles: Out of the Shadows,tt3949660,,308531,Q19842746,,2016-06-03,,82050000
 2016,The Angry Birds Movie,tt1985949,,,Q18703062,,2016-05-20,,107500000
@@ -778,7 +778,7 @@ year,title,imdb_id,boxofficemojo_id,tmdb_id,qid,budget,box_office_start_date,box
 2023,Knights of the Zodiac,tt6528290,,455476,Q108659401,,,,
 2023,Love Again,tt10276482,,758336,Q104872036,,,,
 2023,Meg 2: The Trench,tt9224104,,615656,Q110842446,,,,
-2023,Mission: Impossible - Dead Reckoning Part One,,,,,,,,
+2023,Mission: Impossible - Dead Reckoning Part One,tt9603212,,,,,,,
 2023,No Hard Feelings,tt15671028,,884605,Q114397511,,,,
 2023,Oppenheimer,tt15398776,,872585,Q108839994,,,,
 2023,Past Lives,tt13238346,,666277,Q116025865,,,,
