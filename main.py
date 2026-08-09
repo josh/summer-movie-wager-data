@@ -14,7 +14,7 @@ from typing import Any
 import click
 import requests
 
-from thesummermoviewager import global_leaderboard_players, playalong, player_list
+from thesummermoviewager import playalong
 
 logger = logging.getLogger(__name__)
 
@@ -98,87 +98,6 @@ def _sparql_find_film_by_imdb(imdb_id: str) -> tuple[str, str] | tuple[None, Non
     else:
         logger.warning(f"Failed to find Wikidata info for {imdb_id}")
         return None, None
-
-
-@cli.command()
-@click.argument("data-path", type=click.Path(exists=True, path_type=Path))
-@click.option("--limit", type=int, default=25)
-def backfill_imdb_ids(data_path: Path, limit: int) -> None:
-    with load_csv_data(data_path / "movies.csv") as rows:
-        rows_missing_info = [
-            row
-            for row in rows
-            if row["title"] != ""
-            and row["year"] != ""
-            and (row["imdb_id"] == "" or row["qid"] == "")
-        ]
-        shuffle(rows_missing_info)
-        for row in islice(rows_missing_info, limit):
-            qid, imdb_id = _sparql_search_by_film_title(row["title"], int(row["year"]))
-            if qid and imdb_id:
-                row["qid"] = qid
-                row["imdb_id"] = imdb_id
-
-
-_SPARQL_FILM_SEARCH_QUERY = """
-SELECT DISTINCT ?item ?title ?imdb_id WHERE {
-  SERVICE wikibase:mwapi {
-    bd:serviceParam wikibase:endpoint "www.wikidata.org";
-                    wikibase:api "EntitySearch";
-                    mwapi:search "$TITLE";
-                    mwapi:language "en".
-    ?item wikibase:apiOutputItem mwapi:item.
-  }
-  ?item (wdt:P31/(wdt:P279*)) wd:Q11424;
-    wdt:P1476 ?title;
-    wdt:P577 ?date.
-  FILTER((xsd:integer(YEAR(?date))) = $YEAR )
-  ?item wdt:P345 ?imdb_id.
-}
-"""
-
-
-def _sparql_search_by_film_title(
-    title: str, year: int
-) -> tuple[str, str] | tuple[None, None]:
-    query = _SPARQL_FILM_SEARCH_QUERY.replace("$TITLE", title.replace('"', "")).replace(
-        "$YEAR", str(year)
-    )
-    results = _wikidata_sparql(query)
-    title_matches = [r for r in results if r["title"]["value"] == title]
-
-    if len(results) == 1:
-        qid = results[0]["item"]["value"].replace("http://www.wikidata.org/entity/", "")
-        imdb_id = results[0]["imdb_id"]["value"]
-        return qid, imdb_id
-    if len(title_matches) == 1:
-        qid = title_matches[0]["item"]["value"].replace(
-            "http://www.wikidata.org/entity/", ""
-        )
-        imdb_id = title_matches[0]["imdb_id"]["value"]
-        return qid, imdb_id
-    else:
-        logger.warning(f"Failed to find Wikidata info for '{title}' ({year})")
-        return None, None
-
-
-@cli.command()
-@click.argument("data-path", type=click.Path(exists=True, path_type=Path))
-@click.option("--year", type=int, default=CURRENT_YEAR)
-def discover_movie_titles(data_path: Path, year: int) -> None:
-    with load_csv_data(data_path / "movies.csv") as rows:
-        known_movie_titles = {(row["year"], row["title"]) for row in rows}
-
-        players = global_leaderboard_players(year=year)
-        shuffle(players)
-
-        for player in islice(players, 100):
-            for player_score in player_list(player=player, year=year):
-                key = (str(year), player_score.movie)
-                if key not in known_movie_titles:
-                    logger.info(f"Adding '{player_score.movie}' ({year})")
-                    rows.append({"year": str(year), "title": player_score.movie})
-                    known_movie_titles.add(key)
 
 
 @cli.command()
