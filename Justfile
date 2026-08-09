@@ -12,4 +12,4 @@ validate: data
     cd data && sqlite3 -bail :memory: < validate.sql
 
 sort: data
-    ./main.py sort data/
+    ./sort.py data/
