@@ -1,32 +1,46 @@
 import json
 import re
 from dataclasses import dataclass
+from datetime import datetime, timezone
+from functools import lru_cache
 
 import click
 import requests
 from parsel import Selector
 
-YEARS = [
-    2007,
-    2008,
-    2009,
-    2010,
-    2011,
-    2012,
-    2013,
-    2014,
-    2015,
-    2016,
-    2017,
-    2018,
-    2019,
-    2022,
-    2023,
-    2024,
-    2025,
-]
+TIMEOUT = 30
 
-CURRENT_YEAR = YEARS[-1]
+CURRENT_YEAR = datetime.now(timezone.utc).year
+
+
+@lru_cache(maxsize=1)
+def available_years() -> tuple[int, ...]:
+    """Years the site actually ran a wager for, read from its own year picker.
+
+    This has to be asked for rather than assumed. Requesting a year the site
+    does not have does not fail: it serves the current season's lists while
+    echoing the requested year back into the page header, so `y{year}` in the
+    header proves nothing. 2020 and 2021 have no wager and return 2026's data.
+    """
+    response = requests.get(
+        "https://thesummermoviewager.com/index.php", timeout=TIMEOUT
+    )
+    response.raise_for_status()
+    selector = Selector(text=response.text)
+
+    years: list[int] = []
+    for option in selector.css("select#year option"):
+        value = option.xpath("@value").get("").strip()
+        if value.isdigit():
+            years.append(int(value))
+
+    assert years, "no years found in year picker"
+    return tuple(sorted(years))
+
+
+def _assert_valid_year(year: int) -> None:
+    years = available_years()
+    assert year in years, f"no wager for {year}; site has {years[0]}-{years[-1]}"
 
 
 @click.group()
@@ -43,10 +57,10 @@ class HostScore:
 
 
 def scores(year: int) -> list[HostScore]:
-    assert year in YEARS, "invalid year"
+    _assert_valid_year(year)
 
     url = f"https://thesummermoviewager.com/index.php?year={year}"
-    response = requests.get(url)
+    response = requests.get(url, timeout=TIMEOUT)
     response.raise_for_status()
     selector = Selector(text=response.text)
 
@@ -85,7 +99,7 @@ class PlayerScore:
 
 
 def player_list(player: str, year: int) -> list[PlayerScore]:
-    assert year in YEARS, "invalid year"
+    _assert_valid_year(year)
 
     url = "https://thesummermoviewager.com/list.php"
     params = {
@@ -93,14 +107,11 @@ def player_list(player: str, year: int) -> list[PlayerScore]:
         "year": str(year),
         "playerScoreTable2": player,
     }
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=TIMEOUT)
     response.raise_for_status()
     selector = Selector(text=response.text)
 
     lists: list[PlayerScore] = []
-
-    page_header_class = selector.css("div#mwHeader").xpath("@class").get("")
-    assert f"y{year}" in page_header_class, "page returned wrong year"
 
     for panel_div in selector.css("div.playerscorepanel"):
         name = panel_div.css("th.name::text").get("").strip()
@@ -131,10 +142,10 @@ def _player_list(player: str, year: int) -> None:
 
 def global_leaderboard_players(year: int) -> list[str]:
     assert year >= 2017, "leaderboard not available for this year"
-    assert year in YEARS, "invalid year"
+    _assert_valid_year(year)
 
     url = "https://thesummermoviewager.com/index.php?globalLeaderboard"
-    response = requests.get(url, params={"year": year})
+    response = requests.get(url, params={"year": year}, timeout=TIMEOUT)
     response.raise_for_status()
     selector = Selector(text=response.text)
 
@@ -160,7 +171,7 @@ class PlayalongMovie:
 
 def playalong() -> list[PlayalongMovie]:
     url = "https://thesummermoviewager.com/playalong.php"
-    response = requests.get(url)
+    response = requests.get(url, timeout=TIMEOUT)
     response.raise_for_status()
     selector = Selector(text=response.text)
 
