@@ -168,15 +168,17 @@ def playalong() -> list[PlayalongMovie]:
     movie_id_to_mojo_id: dict[str, str] = {}
 
     for script_text in selector.css("script::text").getall():
-        if "movieIdToImdbId" in script_text:
-            if m := re.search(r"movieIdToImdbId = ({.*?});", script_text):
-                json_data = m.group(1)
-                movie_id_to_imdb_id = json.loads(json_data)
+        if "movieIdToImdbId" in script_text and (
+            m := re.search(r"movieIdToImdbId = ({.*?});", script_text)
+        ):
+            json_data = m.group(1)
+            movie_id_to_imdb_id = json.loads(json_data)
 
-        if "movieIdToMojoId" in script_text:
-            if m := re.search(r"movieIdToMojoId = ({.*?});", script_text):
-                json_data = m.group(1)
-                movie_id_to_mojo_id = json.loads(json_data)
+        if "movieIdToMojoId" in script_text and (
+            m := re.search(r"movieIdToMojoId = ({.*?});", script_text)
+        ):
+            json_data = m.group(1)
+            movie_id_to_mojo_id = json.loads(json_data)
 
     movie_titles: list[str] = []
     for option in selector.css("#movie1 > option"):
