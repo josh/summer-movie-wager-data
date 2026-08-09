@@ -1,6 +1,5 @@
 default: lint validate
 
-# Check out the data branch as a worktree at ./data if it is not already there.
 data:
     #!/usr/bin/env bash
     set -euo pipefail
@@ -19,6 +18,5 @@ validate: data
 sort: data
     uv run python main.py sort data/
 
-# dependabot is gone; bump the lockfile by hand.
 upgrade:
     uv lock --upgrade
