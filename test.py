@@ -118,12 +118,11 @@ def main() -> None:
         print(f"{error_count} errors", file=sys.stderr)
     if warning_count > 0:
         print(f"{warning_count} warnings", file=sys.stderr)
-    exit(1 if error_count > 0 else 0)
+    sys.exit(1 if error_count > 0 else 0)
 
 
 def _assert(expression: bool, message: str) -> bool:
     global error_count
-    global context
     if not expression:
         error_count += 1
         params: list[str] = []
@@ -140,7 +139,6 @@ def _assert(expression: bool, message: str) -> bool:
 
 def _warn(expression: bool, message: str) -> bool:
     global warning_count
-    global context
     if not expression:
         warning_count += 1
         params: list[str] = []
